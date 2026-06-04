@@ -1,0 +1,137 @@
+{
+  "stage": "city_switch_failed",
+  "store": "达美乐比萨(华秋路店)",
+  "address": "上海华秋路58弄25-26号",
+  "window": {
+    "window_id": "83886102",
+    "name": "大众点评美食电影运动旅游门票",
+    "x": 1218,
+    "y": 221,
+    "width": 914,
+    "height": 882,
+    "pid": "1460714",
+    "cmdline": "/tmp/.mount_WeChatIcplIj/opt/wechat/RadiumWMPF/runtime/WeChatAppEx --log-level=2 --lang=zh-CN --wechat-files-path=/home/hetaisheng/文档/xwechat_files --product-id=1002 --wechat-sub-user-agent=MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) --web-translate --client_version=4067692804 --wmpf_root_dir=/home/hetaisheng/.xwechat/radium --enable-applet-v3 --wmpf-drm-plugin-path --no-preload --mojo-platform-channel-handle=3"
+  },
+  "recent_events": [
+    {
+      "timestamp": "2026-05-21T17:34:35",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-21T17:34:46",
+      "type": "search",
+      "keyword": "遇南山火锅",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 4,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_173446.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "ig875ivv3o9fpYOH",
+          "name": "遇南三·重庆火锅村",
+          "branch": "总店",
+          "address": "",
+          "region": "王家湾",
+          "cityId": "16",
+          "reviewCount": "25732条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H8fYYYABI690tW9w",
+          "name": "遇南三·重庆火锅村",
+          "branch": "后湖店",
+          "address": "",
+          "region": "后湖商圈",
+          "cityId": "16",
+          "reviewCount": "11831条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T17:34:47",
+      "type": "detail",
+      "shopuuid": "H8fYYYABI690tW9w",
+      "storeName": "遇南三·重庆火锅村"
+    },
+    {
+      "timestamp": "2026-05-21T17:34:48",
+      "type": "detail",
+      "shopuuid": "ig875ivv3o9fpYOH",
+      "storeName": "遇南三·重庆火锅村"
+    },
+    {
+      "timestamp": "2026-05-21T17:34:48",
+      "type": "detail",
+      "shopuuid": "H5jsKBi1qTjj56XQ",
+      "storeName": "遇南三·重庆火锅村"
+    },
+    {
+      "timestamp": "2026-05-21T17:34:49",
+      "type": "search",
+      "keyword": "遇南山火锅",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_173449.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G2qz0VsQrwJO1YSf",
+          "name": "冯校长老火锅",
+          "branch": "上海总店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "5535条"
+        },
+        {
+          "rank": "1",
+          "uuid": "k9Mx9XGn1KTUw8Gd",
+          "name": "Conde",
+          "branch": "上海海鸥丽晶酒店",
+          "address": "",
+          "region": "北外滩/外白渡桥",
+          "cityId": "1",
+          "reviewCount": "678条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T17:36:50",
+      "type": "city_context",
+      "cityId": "1",
+      "locateCityid": "16"
+    },
+    {
+      "timestamp": "2026-05-21T17:36:57",
+      "type": "city_context",
+      "cityId": "1",
+      "locateCityid": "16"
+    },
+    {
+      "timestamp": "2026-05-21T17:36:58",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-21T17:36:59",
+      "type": "detail",
+      "shopuuid": "G6cp8ynoZnuyTdiL",
+      "storeName": "上海失恋博物馆"
+    },
+    {
+      "timestamp": "2026-05-21T17:38:15",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-21T17:38:36",
+      "type": "city_context",
+      "cityId": "1"
+    }
+  ]
+}

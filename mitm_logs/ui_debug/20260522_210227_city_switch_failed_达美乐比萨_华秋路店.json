@@ -1,0 +1,118 @@
+{
+  "stage": "city_switch_failed",
+  "store": "达美乐比萨(华秋路店)",
+  "address": "上海华秋路58弄25-26号",
+  "window": {
+    "window_id": "88080441",
+    "name": "大众点评美食电影运动旅游门票",
+    "x": 1622,
+    "y": 50,
+    "width": 914,
+    "height": 882,
+    "pid": "21501",
+    "cmdline": "/tmp/appimage_extracted_68b6165d45f762a820e8d12f8e7a5cf6/opt/wechat/RadiumWMPF/runtime/WeChatAppEx --log-level=2 --lang=zh-CN --wechat-files-path=/home/hetaisheng/文档/xwechat_files --product-id=1002 --wechat-sub-user-agent=MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) --web-translate --client_version=4067692804 --wmpf_root_dir=/home/hetaisheng/.xwechat/radium --enable-applet-v3 --wmpf-drm-plugin-path --no-preload --mojo-platform-channel-handle=3"
+  },
+  "recent_events": [
+    {
+      "timestamp": "20260521_031618",
+      "type": "review",
+      "shopuuid": "G7GQQl9QkeAbbSoZ",
+      "storeName": "达美乐比萨(江汉路步行街店)",
+      "review_count": 3,
+      "nextStartIndex": "0",
+      "isEnd": false,
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/review_unknown_20260521_031618.json"
+    },
+    {
+      "timestamp": "20260521_031619",
+      "type": "review",
+      "shopuuid": "G7GQQl9QkeAbbSoZ",
+      "storeName": "达美乐比萨(江汉路步行街店)",
+      "review_count": 3,
+      "nextStartIndex": "0",
+      "isEnd": false,
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/review_unknown_20260521_031619.json"
+    },
+    {
+      "timestamp": "20260521_031959",
+      "type": "review",
+      "shopuuid": "k830ZwZ4RWO63gpM",
+      "storeName": "达美乐比萨(武汉新天地北馆店)",
+      "review_count": 3,
+      "nextStartIndex": "0",
+      "isEnd": false,
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/review_unknown_20260521_031959.json"
+    },
+    {
+      "timestamp": "20260521_034011",
+      "type": "review",
+      "shopuuid": "k8DLdzjYDuY0qBfJ",
+      "storeName": "茉莉花开摄影",
+      "review_count": 3,
+      "nextStartIndex": "0",
+      "isEnd": false,
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/review_unknown_20260521_034011.json"
+    },
+    {
+      "timestamp": "20260521_034123",
+      "type": "review",
+      "shopuuid": "G7GQQl9QkeAbbSoZ",
+      "storeName": "达美乐比萨(江汉路步行街店)",
+      "review_count": 3,
+      "nextStartIndex": "0",
+      "isEnd": false,
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/review_unknown_20260521_034123.json"
+    },
+    {
+      "timestamp": "20260521_034516",
+      "type": "review",
+      "shopuuid": "G7GQQl9QkeAbbSoZ",
+      "storeName": "达美乐比萨(江汉路步行街店)",
+      "review_count": 3,
+      "nextStartIndex": "0",
+      "isEnd": false,
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/review_unknown_20260521_034516.json"
+    },
+    {
+      "timestamp": "2026-05-22T21:01:16",
+      "type": "review",
+      "shopuuid": "H6g44t3iz3qs9CQ9",
+      "storeName": "达美乐比萨(台儿庄店)",
+      "review_count": 14,
+      "start": "0",
+      "nextStartIndex": "14",
+      "isEnd": false,
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/review_H6g44t3iz3qs9CQ9_20260522_210111.json"
+    },
+    {
+      "timestamp": "2026-05-22T21:01:30",
+      "type": "detail",
+      "shopuuid": "iLQa0yEdlc0C26Jm",
+      "storeName": "bluefrog蓝蛙"
+    },
+    {
+      "timestamp": "2026-05-22T21:01:30",
+      "type": "detail",
+      "shopuuid": "k6PtlBrZtPAYdcGT",
+      "storeName": "Las Tapas"
+    },
+    {
+      "timestamp": "2026-05-22T21:02:00",
+      "type": "detail",
+      "shopuuid": "G639xizs3QQEYBmj",
+      "storeName": "麦当劳"
+    },
+    {
+      "timestamp": "2026-05-22T21:02:15",
+      "type": "detail",
+      "shopuuid": "G6BYlhlXypTImEqB",
+      "storeName": "达美乐比萨"
+    },
+    {
+      "timestamp": "2026-05-22T21:02:19",
+      "type": "detail",
+      "shopuuid": "k5t1jyN9ABBrSZWZ",
+      "storeName": "LENBACH FOUNTAIN 兰巴赫"
+    }
+  ]
+}

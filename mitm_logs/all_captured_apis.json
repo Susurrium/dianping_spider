@@ -1,0 +1,1339 @@
+[
+  {
+    "url": "https://m.dianping.com/wx/program/minitakeoutsearch.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&keyword=%E8%BE%BE%E7%BE%8E%E4%B9%90%E6%AF%94%E8%90%A8&selectedCityId=16&selectedLat=30.59276008605957&selectedLng=114.30525207519531&pageIndex=20",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "success",
+      "code",
+      "msg",
+      "result"
+    ],
+    "timestamp": "2026-05-21T03:17:20.378356"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H6YsiG7jS4x9cDDM&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:20.590465"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=EK9FAPvxvpvi15Zb&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "experimentInfos",
+      "timestamp"
+    ],
+    "timestamp": "2026-05-21T03:17:20.623293"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=ih2VDqHS0KAaU94Z&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:20.657866"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H1gFlmQCJ7Zq0QPP&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:20.699449"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H1eZhfwjBcClb0vm&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:20.703277"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=l8OLSZLgsEbvay1E&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:20.915276"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H52kDZUX78ZHopac&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:20.935592"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H4zlSjXQb9gXr6jr&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:20.939133"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=ijT0bTxzBHr0vi8y&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:20.949941"
+  },
+  {
+    "url": "https://ops.meituan.com/api/v1",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "code",
+      "message",
+      "data"
+    ],
+    "timestamp": "2026-05-21T03:17:21.046862"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:21.078790"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H17xDuFSyGA24TiG&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:21.216669"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&page=searchresult",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "data",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:21.316152"
+  },
+  {
+    "url": "https://m.dianping.com/wx/program/minitakeoutsearch.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&keyword=%E8%BE%BE%E7%BE%8E%E4%B9%90%E6%AF%94%E8%90%A8&selectedCityId=16&selectedLat=30.59276008605957&selectedLng=114.30525207519531&pageIndex=30",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "success",
+      "code",
+      "msg",
+      "result"
+    ],
+    "timestamp": "2026-05-21T03:17:21.434974"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:21.673706"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G2KVYffFdrsHwxJB&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:21.730944"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=ka86DnuQWiohRjNm&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:21.773122"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G160utO127tLWROf&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:21.789814"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=k7UPOxY8udMhcXtx&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:21.815212"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=k2ayOx7lGGMVZu8q&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "experimentInfos",
+      "timestamp"
+    ],
+    "timestamp": "2026-05-21T03:17:21.825302"
+  },
+  {
+    "url": "https://ops.meituan.com/api/v1",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "code",
+      "message",
+      "data"
+    ],
+    "timestamp": "2026-05-21T03:17:22.058025"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=l1KeBgXB3HiGA4Pz&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.061402"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G9FaKjGEs7Uo5BVm&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.065228"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G8jxfvubTDQET07A&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "experimentInfos",
+      "timestamp"
+    ],
+    "timestamp": "2026-05-21T03:17:22.068327"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H9IaUWIKtz9Ebidf&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.135815"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=iENilX9Y5KhjVLAY&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.318124"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:22.368901"
+  },
+  {
+    "url": "https://m.dianping.com/wx/program/minitakeoutsearch.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&keyword=%E8%BE%BE%E7%BE%8E%E4%B9%90%E6%AF%94%E8%90%A8&selectedCityId=16&selectedLat=30.59276008605957&selectedLng=114.30525207519531&pageIndex=40",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "success",
+      "code",
+      "msg",
+      "result"
+    ],
+    "timestamp": "2026-05-21T03:17:22.471393"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&page=searchresult",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "data",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:22.491157"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G5mPZajMYwSPb7uo&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.829487"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G7Ub75MpOJfeHpzr&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.869575"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=k25ZZQHqhon1CY1Q&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.907053"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=kaaf5akWtnf7P1Vb&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.911788"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=l9B3Get91jekfx0u&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:22.934882"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:23.012954"
+  },
+  {
+    "url": "https://ops.meituan.com/api/v1",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "code",
+      "message",
+      "data"
+    ],
+    "timestamp": "2026-05-21T03:17:23.175969"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=k9SNnRgPLNX04GwQ&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:23.216805"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=l8pCec8Qqv4zxGW9&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:23.220753"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=k8YqZYgGScW0wuYy&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:23.225432"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=l1RfZ9ltbfWgaSqh&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:23.229636"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=k1q1wmgxZhNN4NUh&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "experimentInfos",
+      "timestamp"
+    ],
+    "timestamp": "2026-05-21T03:17:23.233937"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:23.722820"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&page=searchresult",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "data",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:23.939840"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G7DRZR4mLEAMEgEO&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:24.331328"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G2dczpzna68p1cOG&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:24.363062"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G7xdZdeFlObcceic&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:24.369964"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H5jMddajibqAxy90&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:24.414645"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=EFRbWlVUBOnk74Yq&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:24.624000"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:24.643897"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=l3MzGE2vYVsX17UB&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:24.651605"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=jHj8DQxwMMMhTsNm&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "experimentInfos",
+      "timestamp"
+    ],
+    "timestamp": "2026-05-21T03:17:24.655775"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=FSWdhrWpiOijCfMS&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:24.697323"
+  },
+  {
+    "url": "https://ops.meituan.com/api/v1",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "code",
+      "message",
+      "data"
+    ],
+    "timestamp": "2026-05-21T03:17:24.732687"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:25.297194"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:28.497566"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:29.010630"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:30.073663"
+  },
+  {
+    "url": "https://mapi.dianping.com/mapi/hotsuggest.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&cityId=16&latitude=30.59276008605957&longitude=114.30525207519531&noProfile=0&guangGaoNoProfile=0&pagemodule=weappshoplist&cookieid=Xo3JboI14ZlDPh5T0M8MUry",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "suggestTabsNew",
+      "assistantItem",
+      "portalList",
+      "abTest",
+      "displayType",
+      "title",
+      "titleUrl",
+      "titleIcon",
+      "rankListItem",
+      "rankListSuggests"
+    ],
+    "timestamp": "2026-05-21T03:17:30.141242"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:30.530565"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:31.422194"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&page=searchresult",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "data",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:31.859738"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:31.929286"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:32.053951"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=l6a1PWMlJPR7yfkZ&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:32.069368"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=FQuAzV7DtyiO294m&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:32.076073"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=G7GQQl9QkeAbbSoZ&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:32.082195"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:32.614458"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:34.091343"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H4eHKTgiYmN9alMz&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:35.236446"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=k830ZwZ4RWO63gpM&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:35.260745"
+  },
+  {
+    "url": "https://ops.meituan.com/api/v1",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "code",
+      "message",
+      "data"
+    ],
+    "timestamp": "2026-05-21T03:17:35.266106"
+  },
+  {
+    "url": "https://mapi.dianping.com/dpcategory/unifyshopaggregatedump.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&shopuuid=H3vZxXXVbGz9w6Ih&sourceType=3&hash=9.94.2&scene=1256&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "checkInEntry",
+      "experimentInfos",
+      "recommendDish",
+      "shopQuality",
+      "shopServiceEntry",
+      "reviewEntry",
+      "favorStatus",
+      "promotionEntry",
+      "foodPromo",
+      "unifyShop"
+    ],
+    "timestamp": "2026-05-21T03:17:35.298302"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:35.717044"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:36.991875"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:37.498028"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:38.145346"
+  },
+  {
+    "url": "https://mapi.dianping.com/mapi/overseasindex/recommendandcontinent.overseas?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&cityid=16&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "continents"
+    ],
+    "timestamp": "2026-05-21T03:17:38.148726"
+  },
+  {
+    "url": "https://m.dianping.com/wx/program/recommendpoi?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&selectedCityId=16&locatedCityId=16&userLng=114.30525207519531&userLat=30.59276008605957&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "success",
+      "code",
+      "msg",
+      "result"
+    ],
+    "timestamp": "2026-05-21T03:17:38.155871"
+  },
+  {
+    "url": "https://apimeishi.meituan.com/meishi/selectlist/meishitopfilternavigation.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&maptype=0&cityId=16&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "queryId",
+      "historyRegionFilterList",
+      "topRegionFilterList"
+    ],
+    "timestamp": "2026-05-21T03:17:38.580261"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:38.587468"
+  },
+  {
+    "url": "https://mapi.dianping.com/mapi/common/wxupdatecities.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "type",
+      "version",
+      "patch"
+    ],
+    "timestamp": "2026-05-21T03:17:38.840432"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:39.913099"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:40.396628"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:41.658770"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/my/column?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "columnList",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:41.869176"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/tools/config?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "toolList",
+      "style",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:41.872741"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/order/uniordercount?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "code",
+      "countInfo",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:41.896614"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/user/userinfo?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "userInfo",
+      "offuserId",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:41.931082"
+  },
+  {
+    "url": "https://ops.meituan.com/api/v1",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "code",
+      "message",
+      "data"
+    ],
+    "timestamp": "2026-05-21T03:17:41.970539"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/coupon/unicouponstatus?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "couponstatus",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:42.009620"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:42.149853"
+  },
+  {
+    "url": "https://mapi.dianping.com/mapi/shoprank/chosenrankentry.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&cityid=16&platform=1&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [],
+    "timestamp": "2026-05-21T03:17:43.188843"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:43.197094"
+  },
+  {
+    "url": "https://m.dianping.com/mapi/mgw/growth/queryhaima.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "result",
+      "code",
+      "message",
+      "traceId",
+      "data",
+      "experiment",
+      "group"
+    ],
+    "timestamp": "2026-05-21T03:17:43.199108"
+  },
+  {
+    "url": "https://m.dianping.com/mapi/mgw/growth/queryhaima.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "result",
+      "code",
+      "message",
+      "traceId",
+      "data",
+      "experiment",
+      "group"
+    ],
+    "timestamp": "2026-05-21T03:17:43.203437"
+  },
+  {
+    "url": "https://m.dianping.com/wx/program/homeresource.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&userId=2342114723&openId=oPpUI0amwL-qowGmqt--0SgNTrqw&dpId=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&device_system=LINUX&wxmp_version=10.10.4",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "success",
+      "code",
+      "msg",
+      "result"
+    ],
+    "timestamp": "2026-05-21T03:17:43.205812"
+  },
+  {
+    "url": "https://mapi.dianping.com/mapi/searchindexprompt.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&cityid=16&source=home&locatecityid=16&pagemodule=weappshoplist&cookieid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&mylat=30.59276008605957&mylng=11",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "carouselFrequency",
+      "itemList",
+      "tag",
+      "searchKeyword",
+      "queryId",
+      "titleColor",
+      "fontSize",
+      "url",
+      "title",
+      "feedback"
+    ],
+    "timestamp": "2026-05-21T03:17:43.273172"
+  },
+  {
+    "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&_=1779304663060&c",
+    "method": "GET",
+    "status": 200,
+    "keys": [
+      "code",
+      "data",
+      "loginCode"
+    ],
+    "timestamp": "2026-05-21T03:17:43.708377"
+  },
+  {
+    "url": "https://lx0.meituan.com/",
+    "method": "POST",
+    "status": 200,
+    "keys": [
+      "status"
+    ],
+    "timestamp": "2026-05-21T03:17:43.830195"
+  }
+]

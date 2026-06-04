@@ -1,0 +1,5147 @@
+{
+  "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&page=searchresultlist&_=1779307838374&cookieId=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&cityId=16&openid=oPpUI0amwL-qowGmqt--0SgNTrqw&lxcuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&locateCityid=16&categoryId=0&sortId=0&range=-1&lat=30.59276008605957&lng=114.30525207519531&myLat=30.59276008605957&myLng=114.30525207519531&keyword=%E8%BE%BE%E7%BE%8E%E4%B9%90%E4%B8%8A%E6%B5%B7&start=0&noProfile=10&mtsiReferrer=%252Fpages%252Flist%252Flist%253F_%253D1779307838374%2526cookieId%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526dpid%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526cityId%253D16%2526openid%253DoPpUI0amwL-qowGmqt--0SgNTrqw%2526lxcuid%253D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%2526locateCityid%253D16%2526categoryId%253D0%2526sortId%253D0%2526range%253D-1%2526lat%253D30.59276008605957%2526lng%253D114.30525207519531%2526myLat%253D30.59276008605957%2526myLng%253D114.30525207519531%2526keyword%253D%25E8%25BE%25BE%25E7%25BE%258E%25E4%25B9%2590%25E4%25B8%258A%25E6%25B5%25B7%2526start%253D0%2526noProfile%253D10&cPosition=8108&device_system=LINUX&wxmp_version=10.10.4",
+  "params": {
+    "yodaReady": "wx",
+    "csecappid": "wx734c1ad7b3562129",
+    "csecplatform": "3",
+    "csecversionname": "10.10.4",
+    "csecversion": "1.4.0",
+    "optimus_uuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "optimus_platform": "13",
+    "optimus_partner": "203",
+    "optimus_risk_level": "71",
+    "optimus_code": "10",
+    "page": "searchresultlist",
+    "_": "1779307838374",
+    "cookieId": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "cityId": "16",
+    "openid": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "lxcuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "locateCityid": "16",
+    "categoryId": "0",
+    "sortId": "0",
+    "range": "-1",
+    "lat": "30.59276008605957",
+    "lng": "114.30525207519531",
+    "myLat": "30.59276008605957",
+    "myLng": "114.30525207519531",
+    "keyword": "达美乐上海",
+    "start": "0",
+    "noProfile": "10",
+    "mtsiReferrer": "%2Fpages%2Flist%2Flist%3F_%3D1779307838374%26cookieId%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26dpid%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26cityId%3D16%26openid%3DoPpUI0amwL-qowGmqt--0SgNTrqw%26lxcuid%3D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%26locateCityid%3D16%26categoryId%3D0%26sortId%3D0%26range%3D-1%26lat%3D30.59276008605957%26lng%3D114.30525207519531%26myLat%3D30.59276008605957%26myLng%3D114.30525207519531%26keyword%3D%E8%BE%BE%E7%BE%8E%E4%B9%90%E4%B8%8A%E6%B5%B7%26start%3D0%26noProfile%3D10",
+    "cPosition": "8108",
+    "device_system": "LINUX",
+    "wxmp_version": "10.10.4"
+  },
+  "data": {
+    "code": 200,
+    "data": {
+      "queryId": "e98b8455-2c5e-4ad3-afd6-6df8a9638a2b",
+      "isEnd": false,
+      "nextStartIndex": 10,
+      "list": [
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "南京西路店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥53/人",
+            "regionName": "南京西路商圈",
+            "reviewCount": "927条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=1389922395&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=1389922395&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 35,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "09:30营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=热门,id=dprank|26|10|1|3|24340|popscore,ranklabeltype=26,ranklabelrelevance=0,rankname=静安区比萨热门榜 · 第10名,reportstr=dprank|26|10|1|3|24340|popscore,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=24340&districtid=3&regionid=3&ranktype=1&sort=popscore&utm_source=poi_meishi",
+                "text": "静安区比萨热门榜第10名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=3,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=4,source=oldshoptype,type=oldshoptype",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "http://p1.meituan.net/scarlett/d2c3076bbdecdb22a25ae0a64bc2a3681793.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 68,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "oldshop",
+                "textSource": "oldshoptype",
+                "textType": 0,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=5,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含双人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "5-10人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含单人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "3.90",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "促",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_promo.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 0,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "G7DPMDc9OdVc1q3s",
+            "shop_uuid": "G7DPMDc9OdVc1q3s",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=G7DPMDc9OdVc1q3s&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "金沙江路店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥54/人",
+            "regionName": "真北中环",
+            "reviewCount": "449条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=1127625413&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=1127625413&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 45,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "09:30营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=口味,id=dprank|26|2|1|7|24340|score1,ranklabeltype=26,ranklabelrelevance=0,rankname=普陀区比萨口味榜 · 第2名,reportstr=dprank|26|2|1|7|24340|score1,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=24340&districtid=7&regionid=7&ranktype=1&sort=score1&utm_source=poi_meishi",
+                "text": "普陀区比萨口味榜第2名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=3,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=4,source=oldshoptype,type=oldshoptype",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "http://p0.meituan.net/scarlett/486d70544203b11ebd7f2f02dd01aebb1746.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 68,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "oldshop",
+                "textSource": "oldshoptype",
+                "textType": 0,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=5,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含双人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含单人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "5-10人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "4.50",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "促",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_promo.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 1,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "Fv0ylFpmtLusmV7m",
+            "shop_uuid": "Fv0ylFpmtLusmV7m",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=Fv0ylFpmtLusmV7m&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "定西路店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥54/人",
+            "regionName": "中山公园/江苏路",
+            "reviewCount": "1596条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=15097384&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=15097384&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 35,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "09:30营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=好评,id=dprank|26|4|1|4|24340|score,ranklabeltype=26,ranklabelrelevance=0,rankname=长宁区比萨好评榜 · 第4名,reportstr=dprank|26|4|1|4|24340|score,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=24340&districtid=4&regionid=4&ranktype=1&sort=score&utm_source=poi_meishi",
+                "text": "长宁区比萨好评榜第4名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=3,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=4,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "美式风情",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=5,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "物美价廉",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=6,source=oldshoptype,type=oldshoptype",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "http://p1.meituan.net/scarlett/2f1221bd76e3046dcfd8eb37138751801936.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 72.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "oldshop",
+                "textSource": "oldshoptype",
+                "textType": 0,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含单人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "3.90",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "促",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_promo.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 2,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "G8LjScahoGtsPfaW",
+            "shop_uuid": "G8LjScahoGtsPfaW",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=G8LjScahoGtsPfaW&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "蒙自路店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥62/人",
+            "regionName": "打浦桥/田子坊",
+            "reviewCount": "1842条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=6165990&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=6165990&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 40,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "09:30营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=poichannelrank,id=dprank|26|4|1|6|24340|hotsales,ranklabeltype=26,ranklabelrelevance=0,rankname=黄浦区比萨销量榜 · 第4名,reportstr=dprank|26|4|1|6|24340|hotsales,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=24340&districtid=6&regionid=6&ranktype=1&sort=hotsales&utm_source=poi_meishi",
+                "text": "黄浦区比萨销量榜第4名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=3,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=4,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "美式风情",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=5,source=oldshoptype,type=oldshoptype",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "http://p0.meituan.net/scarlett/2ff98e1a49c860b9c8f646bb4c3214fb2036.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 72.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "oldshop",
+                "textSource": "oldshoptype",
+                "textType": 0,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "文化主题餐厅",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含双人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "4.30",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "促",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_promo.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 3,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "k9wKDVf8qoP0Ec02",
+            "shop_uuid": "k9wKDVf8qoP0Ec02",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=k9wKDVf8qoP0Ec02&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "斜土东路店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥55/人",
+            "regionName": "西藏南路/世博会馆",
+            "reviewCount": "247条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=1569906080&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=1569906080&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 35,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "09:30营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=poichannelrank,id=dprank|26|2|1|88601|116|checkin,ranklabeltype=26,ranklabelrelevance=0,rankname=西藏南路/世博会馆西餐打卡人气榜 · 第2名,reportstr=dprank|26|2|1|88601|116|checkin,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=116&districtid=6&regionid=88601&ranktype=1&sort=checkin&utm_source=poi_meishi",
+                "text": "西藏南路/世博会馆西餐打卡人气榜第2名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=3,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=4,source=oldshoptype,type=oldshoptype",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "http://p0.meituan.net/scarlett/795b3266380b9d5ab7d54ccd1eced3801548.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 68,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "oldshop",
+                "textSource": "oldshoptype",
+                "textType": 0,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=5,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "有停车场",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含单人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "5-10人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "3.90",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "促",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_promo.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 4,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "l4g5aoF0ca19dbt9",
+            "shop_uuid": "l4g5aoF0ca19dbt9",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=l4g5aoF0ca19dbt9&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "番禺路店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥51/人",
+            "regionName": "上海影城/新华路",
+            "reviewCount": "851条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=6088093&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=6088093&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 40,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "09:30营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=poichannelrank,id=dprank|26|5|1|2|24340|checkin,ranklabeltype=26,ranklabelrelevance=0,rankname=徐汇区比萨打卡人气榜 · 第5名,reportstr=dprank|26|5|1|2|24340|checkin,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=24340&districtid=2&regionid=2&ranktype=1&sort=checkin&utm_source=poi_meishi",
+                "text": "徐汇区比萨打卡人气榜第5名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=3,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=4,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "美式风情",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=5,source=oldshoptype,type=oldshoptype",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "http://p0.meituan.net/scarlett/2ff98e1a49c860b9c8f646bb4c3214fb2036.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 72.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "oldshop",
+                "textSource": "oldshoptype",
+                "textType": 0,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含双人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "有停车场",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "4.30",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "促",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_promo.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 5,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "l7pSeKrDE3bbDxIv",
+            "shop_uuid": "l7pSeKrDE3bbDxIv",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=l7pSeKrDE3bbDxIv&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "商城路店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥55/人",
+            "regionName": "八佰伴",
+            "reviewCount": "1426条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=17148359&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=17148359&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 40,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "09:30营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=好评,id=dprank|26|9|1|802|116|score,ranklabeltype=26,ranklabelrelevance=0,rankname=八佰伴西餐好评榜 · 第9名,reportstr=dprank|26|9|1|802|116|score,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=116&districtid=5&regionid=802&ranktype=1&sort=score&utm_source=poi_meishi",
+                "text": "八佰伴西餐好评榜第9名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=3,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=4,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "美式风情",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=5,source=oldshoptype,type=oldshoptype",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "http://p1.meituan.net/scarlett/2f1221bd76e3046dcfd8eb37138751801936.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 72.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "oldshop",
+                "textSource": "oldshoptype",
+                "textType": 0,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "有宝宝椅",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含单人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "4.20",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 6,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "H3KSDIp72gvuZ2OD",
+            "shop_uuid": "H3KSDIp72gvuZ2OD",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H3KSDIp72gvuZ2OD&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "世博天地店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥57/人",
+            "regionName": "世博园",
+            "reviewCount": "381条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=720097479&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=720097479&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 40,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "10:00营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=热门,id=dprank|26|2|1|92596|24340|popscore,ranklabeltype=26,ranklabelrelevance=0,rankname=世博园比萨热门榜 · 第2名,reportstr=dprank|26|2|1|92596|24340|popscore,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=24340&districtid=5&regionid=92596&ranktype=1&sort=popscore&utm_source=poi_meishi",
+                "text": "世博园比萨热门榜第2名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=3,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=4,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "有停车场",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=5,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "免费停车",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含单人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "5-10人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "4.30",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 7,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "iblfWFgf5CUNXypJ",
+            "shop_uuid": "iblfWFgf5CUNXypJ",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=iblfWFgf5CUNXypJ&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "龙华西路店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥52/人",
+            "regionName": "龙华/西岸",
+            "reviewCount": "897条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=13906303&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=13906303&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 35,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "09:30营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=1,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=2,source=DCMeishiLiveTag,type=DCMeishiLiveTag",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "https://p0.meituan.net/travelcube/c129a661240200c8007d565f9e8be07a34404.gif?width=55&height=18&left=0&right=0&top=0&bottom=0&isCircle=0",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 55.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DCMeishiLiveTag",
+                "textSource": "DCMeishiLiveTag",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=3,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "美式风情",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "bizId": "index=4,source=oldshoptype,type=oldshoptype",
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "http://p1.meituan.net/scarlett/2f1221bd76e3046dcfd8eb37138751801936.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 72.5,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "oldshop",
+                "textSource": "oldshoptype",
+                "textType": 0,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=5,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "楼宇餐厅",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含双人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=7,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "5-10人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "3.90",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "促",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_promo.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 8,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "H2pJDgtVx8Fju877",
+            "shop_uuid": "H2pJDgtVx8Fju877",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H2pJDgtVx8Fju877&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "上海浦江生活广场店",
+            "categoryId": 24340,
+            "categoryName": "比萨",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/content/e23e890d6f80d364741b0a6cc40469f5160521.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "达美乐比萨",
+            "priceText": "￥51/人",
+            "regionName": "浦江镇商圈",
+            "reviewCount": "28条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥90",
+                "dealID": "1421263188",
+                "dealTitle": "2-3人餐5件套",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "90",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/3f8597aaf34d8a90032dd52a4d4d2cbf114187.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥130",
+                "mtProductId": 1421263188,
+                "originPriceInfo": "130",
+                "productType": "0",
+                "promoTag": "7折",
+                "saleCount": "半年售21万+",
+                "shopJumpUrl": "dianping://shopinfo?id=1024063641104158&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421263188&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              },
+              {
+                "clickUrl": "",
+                "countDownSeconds": 0,
+                "dealGroupPrice": "¥76.9",
+                "dealID": "1421260311",
+                "dealTitle": "卷边超人气比萨任选2个",
+                "dealTitleList": [],
+                "dealType": 1,
+                "discountPriceInfo": "76.9",
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 2,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "imageUrl": "https://img.meituan.net/content/43d416eb1ea7dccec0e9d2c32c5af137123411.jpg%40220w_220h_1e_1c_1l%7Cwatermark%3D0@format=webp&lossless=1",
+                "marketPrice": "¥122",
+                "mtProductId": 1421260311,
+                "originPriceInfo": "122",
+                "productType": "0",
+                "promoTag": "6.4折",
+                "saleCount": "半年售16万+",
+                "shopJumpUrl": "dianping://shopinfo?id=1024063641104158&shoptype=10&shopcategoryid=116&isoversea=0&cityId=16&searchdealid=1421260311&scroll_to_module=1",
+                "showType": 0,
+                "subTagInfo": [],
+                "tagInfo": [],
+                "weAppShowType": 1
+              }
+            ],
+            "shopPower": 35,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "cornerRadius": 0,
+                "fontSize": 12,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "biztime",
+                "text": "10:00营业",
+                "textColor": "#D68C34",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "bizId": "index=1,source=poichannelrank,type=poichannelrank,id=dprank|26|2|1|12|24340|newshop,ranklabeltype=26,ranklabelrelevance=0,rankname=闵行区比萨新店榜 · 第2名,reportstr=dprank|26|2|1|12|24340|newshop,",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "rank",
+                "tagUrl": "dianping://picassobox?picassoid=rankinglist-union/index-bundle.js&notitlebar=true&cityid=1&cat1id=10&cat2id=24340&districtid=12&regionid=12&ranktype=1&sort=newshop&utm_source=poi_meishi",
+                "text": "闵行区比萨新店榜第2名",
+                "textColor": "#B15E2C",
+                "textSource": "poichannelrank",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#FEEFF4",
+                "bizId": "index=2,source=DPMagicCoupon,type=2,id=shenhuiyuan",
+                "borderColor": "#26FF3333",
+                "cornerRadius": 0,
+                "darkIcon": "https://p0.meituan.net/travelcube/10f1326ed3e5ea6813153781808f5ef74094.png",
+                "fontSize": 11,
+                "icon": "https://p0.meituan.net/travelcube/fe8caaaf21a0030ed58c7995c81edaed3672.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 42,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "DPMagicCoupon",
+                "text": "最高膨至50",
+                "textColor": "#FF4B10",
+                "textSource": "DPMagicCoupon",
+                "textType": 0,
+                "titleInsets": "2,0,2,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=3,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含双人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=4,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "含单人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=5,source=poitag,type=poitag,id=pdc",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "有停车场",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=6,source=poitag,type=poitag,id=lpSearchPoiTag",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "poitag",
+                "text": "5-10人餐",
+                "textColor": "#111111",
+                "textSource": "poitag",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "3.90",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 9,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "l9mqaxxYYpNnCaye",
+            "shop_uuid": "l9mqaxxYYpNnCaye",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=l9mqaxxYYpNnCaye&shopType=10"
+            }
+          }
+        }
+      ],
+      "currentFilter": [
+        {
+          "count": 0,
+          "id": 0,
+          "lat": 0,
+          "lng": 0,
+          "name": "全城",
+          "parentId": -10000,
+          "regionType": 0,
+          "selected": false
+        },
+        {
+          "count": 0,
+          "distance": 0,
+          "favIcon": "",
+          "id": 0,
+          "name": "全部分类",
+          "parentId": 0,
+          "selected": false,
+          "sortId": 0
+        },
+        {
+          "id": "0",
+          "name": "智能排序",
+          "type": 3
+        },
+        {
+          "id": "0",
+          "name": "筛选"
+        }
+      ],
+      "selector": [
+        [
+          {
+            "id": "-1",
+            "name": "附近"
+          },
+          {
+            "id": "-1",
+            "name": "附近（智能范围）",
+            "parentId": "-1"
+          },
+          {
+            "id": "500",
+            "name": "500米",
+            "parentId": "-1"
+          },
+          {
+            "id": "1000",
+            "name": "1000米",
+            "parentId": "-1"
+          },
+          {
+            "id": "2000",
+            "name": "2000米",
+            "parentId": "-1"
+          },
+          {
+            "id": "5000",
+            "name": "5000米",
+            "parentId": "-1"
+          },
+          {
+            "id": -10000,
+            "name": "热门商区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 0,
+            "name": "全城",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 811,
+            "name": "南京西路商圈",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 838,
+            "name": "打浦桥/田子坊",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 854,
+            "name": "五角场/大学路",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 842,
+            "name": "中山公园/江苏路",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 865,
+            "name": "徐家汇商圈",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 872,
+            "name": "漕河泾/田林",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 840,
+            "name": "天山",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 802,
+            "name": "八佰伴",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 846,
+            "name": "虹桥镇商圈",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 849,
+            "name": "莘庄商圈",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 845,
+            "name": "北新泾/淞虹路",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 806,
+            "name": "金桥商圈",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 815,
+            "name": "长寿路商圈",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 848,
+            "name": "七宝商圈",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 856,
+            "name": "中原地区",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 830,
+            "name": "闸北公园",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 5946,
+            "name": "嘉定镇",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 855,
+            "name": "控江地区",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 843,
+            "name": "上海影城/新华路",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 809,
+            "name": "塘桥商圈",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 3,
+            "name": "静安区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 3,
+            "name": "全部静安区",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 811,
+            "name": "南京西路商圈",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 830,
+            "name": "闸北公园",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 827,
+            "name": "上海火车站/客运汽车总站",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 828,
+            "name": "大宁地区",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 814,
+            "name": "同乐坊/江宁路",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 12026,
+            "name": "苏河湾",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 22950,
+            "name": "市北工业园/汶水路",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 22951,
+            "name": "彭浦镇商圈",
+            "parentId": 3,
+            "num": 0
+          },
+          {
+            "id": 4,
+            "name": "长宁区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 4,
+            "name": "全部长宁区",
+            "parentId": 4,
+            "num": 0
+          },
+          {
+            "id": 842,
+            "name": "中山公园/江苏路",
+            "parentId": 4,
+            "num": 0
+          },
+          {
+            "id": 840,
+            "name": "天山",
+            "parentId": 4,
+            "num": 0
+          },
+          {
+            "id": 845,
+            "name": "北新泾/淞虹路",
+            "parentId": 4,
+            "num": 0
+          },
+          {
+            "id": 843,
+            "name": "上海影城/新华路",
+            "parentId": 4,
+            "num": 0
+          },
+          {
+            "id": 2,
+            "name": "徐汇区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 2,
+            "name": "全部徐汇区",
+            "parentId": 2,
+            "num": 0
+          },
+          {
+            "id": 865,
+            "name": "徐家汇商圈",
+            "parentId": 2,
+            "num": 0
+          },
+          {
+            "id": 872,
+            "name": "漕河泾/田林",
+            "parentId": 2,
+            "num": 0
+          },
+          {
+            "id": 871,
+            "name": "龙华/西岸",
+            "parentId": 2,
+            "num": 0
+          },
+          {
+            "id": 869,
+            "name": "肇嘉浜路/中山医院",
+            "parentId": 2,
+            "num": 0
+          },
+          {
+            "id": 873,
+            "name": "上海南站",
+            "parentId": 2,
+            "num": 0
+          },
+          {
+            "id": 102304,
+            "name": "华泾镇商圈",
+            "parentId": 2,
+            "num": 0
+          },
+          {
+            "id": 10,
+            "name": "杨浦区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 10,
+            "name": "全部杨浦区",
+            "parentId": 10,
+            "num": 0
+          },
+          {
+            "id": 854,
+            "name": "五角场/大学路",
+            "parentId": 10,
+            "num": 0
+          },
+          {
+            "id": 856,
+            "name": "中原地区",
+            "parentId": 10,
+            "num": 0
+          },
+          {
+            "id": 855,
+            "name": "控江地区",
+            "parentId": 10,
+            "num": 0
+          },
+          {
+            "id": 858,
+            "name": "平凉路/东外滩",
+            "parentId": 10,
+            "num": 0
+          },
+          {
+            "id": 857,
+            "name": "黄兴公园",
+            "parentId": 10,
+            "num": 0
+          },
+          {
+            "id": 6,
+            "name": "黄浦区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 6,
+            "name": "全部黄浦区",
+            "parentId": 6,
+            "num": 0
+          },
+          {
+            "id": 838,
+            "name": "打浦桥/田子坊",
+            "parentId": 6,
+            "num": 0
+          },
+          {
+            "id": 862,
+            "name": "城隍庙/豫园",
+            "parentId": 6,
+            "num": 0
+          },
+          {
+            "id": 88601,
+            "name": "西藏南路/世博会馆",
+            "parentId": 6,
+            "num": 0
+          },
+          {
+            "id": 9,
+            "name": "虹口区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 9,
+            "name": "全部虹口区",
+            "parentId": 9,
+            "num": 0
+          },
+          {
+            "id": 824,
+            "name": "临平路/和平公园",
+            "parentId": 9,
+            "num": 0
+          },
+          {
+            "id": 822,
+            "name": "四川北路/海伦路",
+            "parentId": 9,
+            "num": 0
+          },
+          {
+            "id": 820,
+            "name": "曲阳地区",
+            "parentId": 9,
+            "num": 0
+          },
+          {
+            "id": 825,
+            "name": "北外滩/外白渡桥",
+            "parentId": 9,
+            "num": 0
+          },
+          {
+            "id": 826,
+            "name": "凉城/江湾镇",
+            "parentId": 9,
+            "num": 0
+          },
+          {
+            "id": 823,
+            "name": "海宁路/七浦路",
+            "parentId": 9,
+            "num": 0
+          },
+          {
+            "id": 7,
+            "name": "普陀区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 7,
+            "name": "全部普陀区",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 815,
+            "name": "长寿路商圈",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 819,
+            "name": "中山北路/甘泉地区",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 818,
+            "name": "梅川路步行街",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 816,
+            "name": "长风公园/华师大",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 2866,
+            "name": "武宁地区",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 2865,
+            "name": "真如商圈",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 12038,
+            "name": "桃浦商圈",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 94522,
+            "name": "真北中环",
+            "parentId": 7,
+            "num": 0
+          },
+          {
+            "id": 12,
+            "name": "闵行区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 12,
+            "name": "全部闵行区",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 846,
+            "name": "虹桥镇商圈",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 849,
+            "name": "莘庄商圈",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 848,
+            "name": "七宝商圈",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 852,
+            "name": "老闵行/交大师大",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 850,
+            "name": "莲花路/南方商城",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 8928,
+            "name": "浦江镇商圈",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 847,
+            "name": "虹梅路商圈",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 851,
+            "name": "春申地区",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 22955,
+            "name": "吴泾镇商圈",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 22953,
+            "name": "颛桥/北桥",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 22952,
+            "name": "华漕商圈",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 91196,
+            "name": "闵行开发区",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 92716,
+            "name": "虹桥火车站/国展中心",
+            "parentId": 12,
+            "num": 0
+          },
+          {
+            "id": 13,
+            "name": "宝山区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 13,
+            "name": "全部宝山区",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 8440,
+            "name": "宝山城区/吴淞",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 831,
+            "name": "大华地区",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 834,
+            "name": "庙行/共康",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 8442,
+            "name": "顾村公园",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 833,
+            "name": "淞滨地区",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 9170,
+            "name": "高境商圈",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 8444,
+            "name": "月浦镇商圈",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 8443,
+            "name": "美兰湖",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 2527,
+            "name": "上海大学",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 9171,
+            "name": "淞南商圈",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 9169,
+            "name": "杨行镇商圈",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 5,
+            "name": "浦东新区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 5,
+            "name": "全部浦东新区",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 802,
+            "name": "八佰伴",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 806,
+            "name": "金桥商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 809,
+            "name": "塘桥商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 804,
+            "name": "上南地区",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 808,
+            "name": "张江商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 807,
+            "name": "源深体育中心",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 8446,
+            "name": "临沂/南码头",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 5947,
+            "name": "康桥/周浦",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 2869,
+            "name": "金杨地区",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 2868,
+            "name": "碧云社区",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 810,
+            "name": "川沙",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 2867,
+            "name": "三林地区",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 22948,
+            "name": "曹路商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 12029,
+            "name": "北蔡商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 805,
+            "name": "外高桥",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 5948,
+            "name": "惠南镇商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 24017,
+            "name": "新场商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 70265,
+            "name": "迪士尼",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 24141,
+            "name": "高行商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 24020,
+            "name": "南汇新城",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 9179,
+            "name": "浦东机场/机场镇",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 70326,
+            "name": "祝桥商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 81213,
+            "name": "唐镇商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 92596,
+            "name": "世博园",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 89405,
+            "name": "滴水湖临港地区",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 94247,
+            "name": "花木商圈",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 89476,
+            "name": "御桥",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 94246,
+            "name": "前滩",
+            "parentId": 5,
+            "num": 0
+          },
+          {
+            "id": 5937,
+            "name": "松江区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 5937,
+            "name": "全部松江区",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 5941,
+            "name": "松江大学城",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 24019,
+            "name": "鹿都国际商业广场",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 5940,
+            "name": "松江镇",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 5943,
+            "name": "九亭商圈",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 5942,
+            "name": "佘山商圈",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 22987,
+            "name": "新松江路",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 11374,
+            "name": "新桥商圈",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 9178,
+            "name": "泗泾镇商圈",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 88598,
+            "name": "洞泾商圈",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 88599,
+            "name": "车墩影视城",
+            "parentId": 5937,
+            "num": 0
+          },
+          {
+            "id": 5938,
+            "name": "嘉定区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 5938,
+            "name": "全部嘉定区",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 5946,
+            "name": "嘉定镇",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 5944,
+            "name": "南翔商圈",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 5945,
+            "name": "安亭镇商圈",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 5962,
+            "name": "江桥",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 22991,
+            "name": "马陆镇商圈",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 27830,
+            "name": "嘉定新城",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 88592,
+            "name": "嘉定西/悠活城",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 91197,
+            "name": "嘉定镇仓场路",
+            "parentId": 5938,
+            "num": 0
+          },
+          {
+            "id": 5939,
+            "name": "青浦区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 5939,
+            "name": "全部青浦区",
+            "parentId": 5939,
+            "num": 0
+          },
+          {
+            "id": 22993,
+            "name": "青浦城区",
+            "parentId": 5939,
+            "num": 0
+          },
+          {
+            "id": 24023,
+            "name": "华新镇商圈",
+            "parentId": 5939,
+            "num": 0
+          },
+          {
+            "id": 70209,
+            "name": "国家会展中心",
+            "parentId": 5939,
+            "num": 0
+          },
+          {
+            "id": 22994,
+            "name": "重固镇商圈",
+            "parentId": 5939,
+            "num": 0
+          },
+          {
+            "id": 91195,
+            "name": "家乐福/富绅国际",
+            "parentId": 5939,
+            "num": 0
+          },
+          {
+            "id": 8847,
+            "name": "金山区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 8847,
+            "name": "全部金山区",
+            "parentId": 8847,
+            "num": 0
+          },
+          {
+            "id": 9174,
+            "name": "金山卫商圈",
+            "parentId": 8847,
+            "num": 0
+          },
+          {
+            "id": 22970,
+            "name": "朱泾镇商圈",
+            "parentId": 8847,
+            "num": 0
+          },
+          {
+            "id": 91716,
+            "name": "欧尚商业中心",
+            "parentId": 8847,
+            "num": 0
+          },
+          {
+            "id": 8846,
+            "name": "奉贤区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 8846,
+            "name": "全部奉贤区",
+            "parentId": 8846,
+            "num": 0
+          },
+          {
+            "id": 9172,
+            "name": "南桥商圈",
+            "parentId": 8846,
+            "num": 0
+          },
+          {
+            "id": 22960,
+            "name": "易买得",
+            "parentId": 8846,
+            "num": 0
+          },
+          {
+            "id": -3580,
+            "name": "崇明区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": -3580,
+            "name": "全部崇明区",
+            "parentId": -3580,
+            "num": 0
+          },
+          {
+            "id": 8848,
+            "name": "崇明区",
+            "parentId": -3580,
+            "num": 0
+          }
+        ],
+        [
+          {
+            "id": 0,
+            "name": "全部分类",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 10,
+            "name": "美食",
+            "parentId": 0,
+            "num": 187
+          },
+          {
+            "id": 10,
+            "name": "全部美食",
+            "parentId": 10,
+            "num": 187
+          },
+          {
+            "id": 116,
+            "name": "西餐",
+            "parentId": 10,
+            "num": 187
+          },
+          {
+            "id": 80,
+            "name": "生活服务",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 80,
+            "name": "全部生活服务",
+            "parentId": 80,
+            "num": 1
+          },
+          {
+            "id": 979,
+            "name": "公司企业",
+            "parentId": 80,
+            "num": 1
+          },
+          {
+            "id": 50167,
+            "name": "其他分类",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 50167,
+            "name": "全部其他分类",
+            "parentId": 50167,
+            "num": 1
+          }
+        ],
+        [
+          {
+            "id": "0",
+            "name": "智能排序"
+          },
+          {
+            "id": "1",
+            "name": "距离优先"
+          },
+          {
+            "id": "2",
+            "name": "人气优先"
+          },
+          {
+            "id": "3",
+            "name": "好评优先"
+          },
+          {
+            "id": "8",
+            "name": "低价优先"
+          },
+          {
+            "id": "9",
+            "name": "高价优先"
+          }
+        ],
+        [
+          {
+            "name": "优惠",
+            "multiSelectable": true,
+            "label": "省钱省心",
+            "filters": [
+              {
+                "id": "8-isshenhuiyuan_1",
+                "name": "神券商家",
+                "selected": false
+              },
+              {
+                "id": "8-hasgroup_1",
+                "name": "团购",
+                "selected": false
+              },
+              {
+                "id": "8-hasshortdeals_1",
+                "name": "促销",
+                "desc": "优惠活动",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "服务",
+            "multiSelectable": true,
+            "filters": [
+              {
+                "id": "8-hasbooksetting_1",
+                "name": "在线订座",
+                "selected": false
+              },
+              {
+                "id": "8-isqueuevisible_1",
+                "name": "在线排队",
+                "selected": false
+              },
+              {
+                "id": "8-hastakeaway_1",
+                "name": "可外卖",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "价格区间",
+            "multiSelectable": false,
+            "filters": [
+              {
+                "id": "3-avgprice_0~50",
+                "name": "50以下",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_50~100",
+                "name": "50-100",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_100~200",
+                "name": "100-200",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_200~300",
+                "name": "200-300",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_300~99999999",
+                "name": "300以上",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "更多",
+            "multiSelectable": true,
+            "filters": [
+              {
+                "id": "8-isnewshop_1",
+                "name": "新店",
+                "selected": false
+              },
+              {
+                "id": "8-shopnewtagid_1116683",
+                "name": "当地人推荐",
+                "selected": false
+              },
+              {
+                "id": "8-shopnewtagid_680",
+                "name": "可带宠物",
+                "selected": false
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "id": 1325,
+            "name": "1号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 1075,
+            "name": "共康路站",
+            "parentId": 1325,
+            "num": 0
+          },
+          {
+            "id": 1109,
+            "name": "莲花路站",
+            "parentId": 1325,
+            "num": 0
+          },
+          {
+            "id": 1326,
+            "name": "2号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 8165,
+            "name": "唐镇站",
+            "parentId": 1326,
+            "num": 0
+          },
+          {
+            "id": 97760,
+            "name": "龙阳路站",
+            "parentId": 1326,
+            "num": 0
+          },
+          {
+            "id": 101858,
+            "name": "浦东南路(原东昌路)站",
+            "parentId": 1326,
+            "num": 0
+          },
+          {
+            "id": 97710,
+            "name": "娄山关路站",
+            "parentId": 1326,
+            "num": 0
+          },
+          {
+            "id": 1139,
+            "name": "淞虹路站",
+            "parentId": 1326,
+            "num": 0
+          },
+          {
+            "id": 1327,
+            "name": "3号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 98036,
+            "name": "宝杨路站",
+            "parentId": 1327,
+            "num": 0
+          },
+          {
+            "id": 1066,
+            "name": "淞滨路站",
+            "parentId": 1327,
+            "num": 0
+          },
+          {
+            "id": 101750,
+            "name": "东宝兴路站",
+            "parentId": 1327,
+            "num": 0
+          },
+          {
+            "id": 1115,
+            "name": "曹杨路站",
+            "parentId": 1327,
+            "num": 0
+          },
+          {
+            "id": 101742,
+            "name": "漕溪路站",
+            "parentId": 1327,
+            "num": 0
+          },
+          {
+            "id": 1328,
+            "name": "4号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 1160,
+            "name": "大木桥路站",
+            "parentId": 1328,
+            "num": 0
+          },
+          {
+            "id": 97521,
+            "name": "蓝村路站",
+            "parentId": 1328,
+            "num": 0
+          },
+          {
+            "id": 96112,
+            "name": "曹杨路站",
+            "parentId": 1328,
+            "num": 0
+          },
+          {
+            "id": 1329,
+            "name": "5号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 101646,
+            "name": "环城东路站",
+            "parentId": 1329,
+            "num": 0
+          },
+          {
+            "id": 90680,
+            "name": "5号线支线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 101733,
+            "name": "金平路站",
+            "parentId": 90680,
+            "num": 0
+          },
+          {
+            "id": 1330,
+            "name": "6号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 8151,
+            "name": "东方体育中心站",
+            "parentId": 1330,
+            "num": 0
+          },
+          {
+            "id": 1360,
+            "name": "高科西路站",
+            "parentId": 1330,
+            "num": 0
+          },
+          {
+            "id": 97522,
+            "name": "蓝村路站",
+            "parentId": 1330,
+            "num": 0
+          },
+          {
+            "id": 101548,
+            "name": "民生路站",
+            "parentId": 1330,
+            "num": 0
+          },
+          {
+            "id": 97810,
+            "name": "德平路站",
+            "parentId": 1330,
+            "num": 0
+          },
+          {
+            "id": 1347,
+            "name": "洲海路站",
+            "parentId": 1330,
+            "num": 0
+          },
+          {
+            "id": 3110,
+            "name": "7号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 96292,
+            "name": "龙阳路站",
+            "parentId": 3110,
+            "num": 0
+          },
+          {
+            "id": 96342,
+            "name": "高科西路站",
+            "parentId": 3110,
+            "num": 0
+          },
+          {
+            "id": 101837,
+            "name": "昌平路站",
+            "parentId": 3110,
+            "num": 0
+          },
+          {
+            "id": 96142,
+            "name": "镇坪路站",
+            "parentId": 3110,
+            "num": 0
+          },
+          {
+            "id": 3134,
+            "name": "场中路站",
+            "parentId": 3110,
+            "num": 0
+          },
+          {
+            "id": 1331,
+            "name": "8号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 8147,
+            "name": "江月路站",
+            "parentId": 1331,
+            "num": 0
+          },
+          {
+            "id": 97145,
+            "name": "芦恒路站",
+            "parentId": 1331,
+            "num": 0
+          },
+          {
+            "id": 8150,
+            "name": "凌兆新村站",
+            "parentId": 1331,
+            "num": 0
+          },
+          {
+            "id": 96109,
+            "name": "东方体育中心站",
+            "parentId": 1331,
+            "num": 0
+          },
+          {
+            "id": 1368,
+            "name": "中华艺术宫站",
+            "parentId": 1331,
+            "num": 0
+          },
+          {
+            "id": 101640,
+            "name": "曲阜路站",
+            "parentId": 1331,
+            "num": 0
+          },
+          {
+            "id": 101542,
+            "name": "鞍山新村站",
+            "parentId": 1331,
+            "num": 0
+          },
+          {
+            "id": 1089,
+            "name": "江浦路站",
+            "parentId": 1331,
+            "num": 0
+          },
+          {
+            "id": 1332,
+            "name": "9号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 101522,
+            "name": "顾唐路站",
+            "parentId": 1332,
+            "num": 0
+          },
+          {
+            "id": 97150,
+            "name": "商城路站",
+            "parentId": 1332,
+            "num": 0
+          },
+          {
+            "id": 6342,
+            "name": "马当路站",
+            "parentId": 1332,
+            "num": 0
+          },
+          {
+            "id": 101594,
+            "name": "桂林路站",
+            "parentId": 1332,
+            "num": 0
+          },
+          {
+            "id": 100542,
+            "name": "九亭站",
+            "parentId": 1332,
+            "num": 0
+          },
+          {
+            "id": 1187,
+            "name": "佘山站",
+            "parentId": 1332,
+            "num": 0
+          },
+          {
+            "id": 1189,
+            "name": "松江大学城站",
+            "parentId": 1332,
+            "num": 0
+          },
+          {
+            "id": 101659,
+            "name": "松江体育中心站",
+            "parentId": 1332,
+            "num": 0
+          },
+          {
+            "id": 90243,
+            "name": "10号线支线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 96414,
+            "name": "邮电新村站",
+            "parentId": 90243,
+            "num": 0
+          },
+          {
+            "id": 98092,
+            "name": "天潼路站",
+            "parentId": 90243,
+            "num": 0
+          },
+          {
+            "id": 6368,
+            "name": "航中路站",
+            "parentId": 90243,
+            "num": 0
+          },
+          {
+            "id": 6338,
+            "name": "10号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 6354,
+            "name": "邮电新村站",
+            "parentId": 6338,
+            "num": 0
+          },
+          {
+            "id": 98091,
+            "name": "天潼路站",
+            "parentId": 6338,
+            "num": 0
+          },
+          {
+            "id": 90244,
+            "name": "11号线支线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 96202,
+            "name": "御桥站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 96448,
+            "name": "浦三路站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 96387,
+            "name": "三林站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 96425,
+            "name": "东方体育中心站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 97544,
+            "name": "云锦路站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 101866,
+            "name": "上海游泳馆站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 96181,
+            "name": "曹杨路站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 96132,
+            "name": "桃浦新村站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 101780,
+            "name": "安亭站",
+            "parentId": 90244,
+            "num": 0
+          },
+          {
+            "id": 6339,
+            "name": "11号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 66751,
+            "name": "御桥站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 66752,
+            "name": "浦三路站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 66754,
+            "name": "三林站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 96577,
+            "name": "东方体育中心站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 97543,
+            "name": "云锦路站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 101928,
+            "name": "上海游泳馆站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 96157,
+            "name": "曹杨路站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 6376,
+            "name": "桃浦新村站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 6381,
+            "name": "嘉定西站",
+            "parentId": 6339,
+            "num": 0
+          },
+          {
+            "id": 25986,
+            "name": "12号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 97565,
+            "name": "七莘路站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 67156,
+            "name": "虹莘路站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 67153,
+            "name": "虹梅路站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 96717,
+            "name": "大木桥路站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 101641,
+            "name": "曲阜路站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 97819,
+            "name": "天潼路站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 25990,
+            "name": "提篮桥站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 25993,
+            "name": "隆昌路站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 96341,
+            "name": "巨峰路站",
+            "parentId": 25986,
+            "num": 0
+          },
+          {
+            "id": 8135,
+            "name": "13号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 89665,
+            "name": "陈春路站",
+            "parentId": 8135,
+            "num": 0
+          },
+          {
+            "id": 89662,
+            "name": "华鹏路站",
+            "parentId": 8135,
+            "num": 0
+          },
+          {
+            "id": 96760,
+            "name": "马当路站",
+            "parentId": 8135,
+            "num": 0
+          },
+          {
+            "id": 101927,
+            "name": "江宁路站",
+            "parentId": 8135,
+            "num": 0
+          },
+          {
+            "id": 8139,
+            "name": "真北路站",
+            "parentId": 8135,
+            "num": 0
+          },
+          {
+            "id": 8136,
+            "name": "金运路站",
+            "parentId": 8135,
+            "num": 0
+          },
+          {
+            "id": 94812,
+            "name": "14号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 96636,
+            "name": "铜川路站",
+            "parentId": 94812,
+            "num": 0
+          },
+          {
+            "id": 96663,
+            "name": "曹杨路站",
+            "parentId": 94812,
+            "num": 0
+          },
+          {
+            "id": 94820,
+            "name": "源深路站",
+            "parentId": 94812,
+            "num": 0
+          },
+          {
+            "id": 93979,
+            "name": "15号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 97556,
+            "name": "桂林路站",
+            "parentId": 93979,
+            "num": 0
+          },
+          {
+            "id": 97640,
+            "name": "长风公园站",
+            "parentId": 93979,
+            "num": 0
+          },
+          {
+            "id": 94002,
+            "name": "锦秋路站",
+            "parentId": 93979,
+            "num": 0
+          },
+          {
+            "id": 26247,
+            "name": "16号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 101613,
+            "name": "临港大道站",
+            "parentId": 26247,
+            "num": 0
+          },
+          {
+            "id": 97932,
+            "name": "龙阳路站",
+            "parentId": 26247,
+            "num": 0
+          },
+          {
+            "id": 83033,
+            "name": "17号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 101674,
+            "name": "汇金路站",
+            "parentId": 83033,
+            "num": 0
+          },
+          {
+            "id": 83036,
+            "name": "徐泾北城站",
+            "parentId": 83033,
+            "num": 0
+          },
+          {
+            "id": 93971,
+            "name": "18号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 104259,
+            "name": "通南路站",
+            "parentId": 93971,
+            "num": 0
+          },
+          {
+            "id": 96185,
+            "name": "江浦路站",
+            "parentId": 93971,
+            "num": 0
+          },
+          {
+            "id": 94836,
+            "name": "平凉路站",
+            "parentId": 93971,
+            "num": 0
+          },
+          {
+            "id": 96370,
+            "name": "民生路站",
+            "parentId": 93971,
+            "num": 0
+          },
+          {
+            "id": 96245,
+            "name": "龙阳路站",
+            "parentId": 93971,
+            "num": 0
+          },
+          {
+            "id": 97524,
+            "name": "御桥站",
+            "parentId": 93971,
+            "num": 0
+          },
+          {
+            "id": 90029,
+            "name": "磁浮线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 90030,
+            "name": "龙阳路站",
+            "parentId": 90029,
+            "num": 0
+          },
+          {
+            "id": 88868,
+            "name": "浦江线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 101635,
+            "name": "汇臻路站",
+            "parentId": 88868,
+            "num": 0
+          }
+        ]
+      ],
+      "hasMetro": true,
+      "showMetro": false
+    },
+    "loginCode": 200
+  },
+  "request_headers": {
+    "Host": "m.dianping.com",
+    "Connection": "keep-alive",
+    "mtgsig": "{\"a1\":\"1.2\",\"a2\":1779307838381,\"a3\":\"852w04x23y415ww3y88z04yyw246vzww80v534y81w147978x01x30vu\",\"a4\":\"dd0d4af0a3e50fd9f04a0dddd90fe5a35db10f9a84beea39\",\"a5\":\"c2WCtHn9dOpoZ61TeV+SWNLS/2DQ6hpHKFSRLKYcIoGEI4ueRxFVHeKvxuXyRAQELZxONJZogzkICYO6WtzIxTXLrBvx4VVnMyKvAFLtInnI2mxbLAn0B2mnU3sMqAWg7evz3bK9rcTcDK1QBhH4BYRjfLL/tXwuBpL7cSnMzAHFQ4MoSYyxoNZvROy4yWaZRPBGuewWXNcYQfF/mUHzngnbZkBvus3TF4nOVBf84S9k66nShC1aKxSB1bAZEl5RrbqLx7p70kQKNATTlKeYo3yRyeTUXzsDPNwgoZ9B+u+HOKFM6+hHiS8KFuiWupeznjPf5SUq1z0xc5A6JDAyK3bbJ070ZPOm/figYU0uOyqT/VFRdsh16LyZs+Z7/gzF8gfo\",\"a6\":\"w1.6AA3JF96jm0XCQvtyKAGM/FaBrNIIZNNweBFG07mWLDN85TtEYkrx0wZ/0DsNseCYhplhGrcaEGp9UGJn/tGrr1YvQwfJEYTEF3IDesoRnWdPZ3QsF1+xkRf4hI0avCfkmJr8viDSEcBfhzwZovvtBjN6eiJbNHsPt+ni6vheyeCXKdBobMZFnEPlZcseqdLNrVZu7447qIoEl2AeyW3yjOnXbdXVKAelGYJQWw9Z2XLC+ACcQPFiAZRwsWP5Ru52ja1DyjMM1Sz9O4+5y7HjYv9FTwiwhzvyvbntde+2JKUq0dY0b+XJ3W1ORZx/uUMWe/eFbySAI2Qb+svcmX09G6gOCZfNSIwcity3iyhiEfSmLIuqdRAIpcu8BZxW4cm1+8BfcZf5nz99VuBw8AbJAX58Vo44gp7eL+UsOKCPfKLtkT0NcHiKU0uDPvhbbERnX3ZJ3sTtDVaO4GlNn4XRyPMuE9Sh5T2SVQDArlzpQACaShK6+uTZkYcatDMkRdTca00Wyo01bhNf4Ix1UeSbzg==\",\"a7\":\"wx734c1ad7b3562129\",\"x0\":3,\"d1\":\"16d849c259f43414e009f8f2092f7bed\"}",
+    "openid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "channel": "weixin",
+    "channelversion": "4.1.1.4",
+    "minaversion": "10.10.4",
+    "wechatversion": "4.1.1.4",
+    "openIdCipher": "AwQAAABJAgAAAAEAAAAyAAAAPLgC95WH3MyqngAoyM/hf1hEoKrGdo0pJ5DI44e1wGF9AT3PH7Wes03actC2n/GVnwfURonD78PewMUppAAAADi5klkizLD1WxFhOBiGOKdSGqAGcnyXHZMutWW/HvYFMBxPZIjyG/P9CAjsysORou2RCD9kiaHo1A==",
+    "sdkversion": "3.8.10",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) XWEB/14910",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "Content-Type": "application/json",
+    "openidPlt": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "xweb_xhr": "1",
+    "platformversion": "6.17.0-23-generic x86_64",
+    "platform": "Android",
+    "minaname": "dianping-wxapp",
+    "token": "02021726875a43eea288f22cbbd527e56fe488687dfef66ebda459d11141d999bf3c1bdaf53bd8529b03e3d568372b1a0ac5c0cc0bf82c33bdfc00000000f43400003a87b6afc1ec494d9347f4d361c5a38f2a563280a598814dfbee47cfe4d347d6aa4d8b6f3299b772a07841f0dc68aa86",
+    "Accept": "*/*",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://servicewechat.com/wx734c1ad7b3562129/693/page-frame.html",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9"
+  },
+  "request_cookies": ""
+}

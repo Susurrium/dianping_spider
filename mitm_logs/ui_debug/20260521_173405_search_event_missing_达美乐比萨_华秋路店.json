@@ -1,0 +1,141 @@
+{
+  "stage": "search_event_missing",
+  "store": "达美乐比萨(华秋路店)",
+  "address": "上海华秋路58弄25-26号",
+  "window": {
+    "window_id": "83886102",
+    "name": "大众点评美食电影运动旅游门票",
+    "x": 1218,
+    "y": 221,
+    "width": 914,
+    "height": 882,
+    "pid": "1460714",
+    "cmdline": "/tmp/.mount_WeChatIcplIj/opt/wechat/RadiumWMPF/runtime/WeChatAppEx --log-level=2 --lang=zh-CN --wechat-files-path=/home/hetaisheng/文档/xwechat_files --product-id=1002 --wechat-sub-user-agent=MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) --web-translate --client_version=4067692804 --wmpf_root_dir=/home/hetaisheng/.xwechat/radium --enable-applet-v3 --wmpf-drm-plugin-path --no-preload --mojo-platform-channel-handle=3"
+  },
+  "recent_events": [
+    {
+      "timestamp": "2026-05-21T17:29:44",
+      "type": "detail",
+      "shopuuid": "G7Wi8pH5kMuR4eqP",
+      "storeName": "Alimentari Grande"
+    },
+    {
+      "timestamp": "2026-05-21T17:30:18",
+      "type": "detail",
+      "shopuuid": "G6YmL1vMdWbGOQKm",
+      "storeName": "王富贵火锅"
+    },
+    {
+      "timestamp": "2026-05-21T17:30:29",
+      "type": "detail",
+      "shopuuid": "H7TyR6EiF7eHjrID",
+      "storeName": "王富贵火锅"
+    },
+    {
+      "timestamp": "2026-05-21T17:30:49",
+      "type": "detail",
+      "shopuuid": "l3buF1AqSPjW92zi",
+      "storeName": "王富贵火锅"
+    },
+    {
+      "timestamp": "2026-05-21T17:30:55",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-21T17:31:12",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-21T17:31:19",
+      "type": "search",
+      "keyword": "膨100减50美食神券",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 0,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_173119.json",
+      "candidates": []
+    },
+    {
+      "timestamp": "2026-05-21T17:32:19",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-21T17:32:55",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-21T17:33:05",
+      "type": "search",
+      "keyword": "王富贵火锅",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 5,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_173302.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "k2siVqZBoJ4UQjZF",
+          "name": "王富贵火锅",
+          "branch": "长寿路店",
+          "address": "",
+          "region": "长寿路商圈",
+          "cityId": "1",
+          "reviewCount": "7377条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G6YmL1vMdWbGOQKm",
+          "name": "王富贵火锅",
+          "branch": "四川北路店",
+          "address": "",
+          "region": "虹口足球场/鲁迅公园",
+          "cityId": "1",
+          "reviewCount": "10633条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T17:33:09",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-21T17:33:10",
+      "type": "search",
+      "keyword": "牛new",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_173309.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "HauHL6KxSzo8ZfWB",
+          "name": "牛New寿喜烧",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "12806条"
+        },
+        {
+          "rank": "1",
+          "uuid": "EXqR0doaxT8O2Km6",
+          "name": "牛New寿喜烧",
+          "branch": "南京东路悦荟广场店",
+          "address": "",
+          "region": "南京东路商圈",
+          "cityId": "1",
+          "reviewCount": "11106条"
+        }
+      ]
+    }
+  ]
+}

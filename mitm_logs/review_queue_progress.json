@@ -1,0 +1,10 @@
+{
+  "completed": {},
+  "failed": {
+    "达美乐比萨(逸仙路店)": {
+      "shopuuid": "G2KUNz2mufYtuZBi",
+      "reason": "non-json status=403"
+    }
+  },
+  "pages": []
+}

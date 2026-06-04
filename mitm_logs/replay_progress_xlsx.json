@@ -1,0 +1,15 @@
+{
+  "completed": {
+    "达美乐比萨(华秋路店)": {
+      "shopUuid": "l8kqlZodGReNcv6y",
+      "reviews": 14,
+      "status": "HTTP/JSON失败 status=403 preview=<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>openrest"
+    }
+  },
+  "failed": {
+    "达美乐比萨(银泰创意城店)": {
+      "shopUuid": "l4cPjrZtLQlAi4Cv",
+      "status": "HTTP/JSON失败 status=403 preview=<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>openrest"
+    }
+  }
+}

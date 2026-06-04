@@ -1,0 +1,212 @@
+{
+  "stage": "review_capture_failed",
+  "store": "达美乐比萨(六道口店)",
+  "address": "北京清华东路15号楼1层103-6",
+  "window": {
+    "window_id": "71303199",
+    "name": "大众点评美食电影运动旅游门票",
+    "x": 1622,
+    "y": 302,
+    "width": 914,
+    "height": 882,
+    "pid": "6860",
+    "cmdline": "/tmp/appimage_extracted_68b6165d45f762a820e8d12f8e7a5cf6/opt/wechat/RadiumWMPF/runtime/WeChatAppEx --log-level=2 --lang=zh-CN --wechat-files-path=/home/hetaisheng/文档/xwechat_files --product-id=1002 --wechat-sub-user-agent=MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) --web-translate --client_version=4067692804 --wmpf_root_dir=/home/hetaisheng/.xwechat/radium --enable-applet-v3 --wmpf-drm-plugin-path --no-preload --mojo-platform-channel-handle=3"
+  },
+  "recent_events": [
+    {
+      "timestamp": "2026-05-22T00:32:32",
+      "type": "search",
+      "keyword": "达美乐比萨 华秋路店",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 1,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_003232.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "l8kqlZodGReNcv6y",
+          "name": "达美乐比萨",
+          "branch": "华秋路店",
+          "address": "",
+          "region": "上海大学",
+          "cityId": "1",
+          "reviewCount": "930条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-22T00:32:50",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_003248.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "l3VhmlPfnNuaMBQu",
+          "name": "红盔甲·小龙虾",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "21507条"
+        },
+        {
+          "rank": "1",
+          "uuid": "k8o2ZffKMsiueUSb",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "上海首店",
+          "address": "",
+          "region": "南京西路商圈",
+          "cityId": "1",
+          "reviewCount": "27252条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-22T00:33:22",
+      "type": "search",
+      "keyword": "朝阳满弟",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 3,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_003314.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "k8r8P63ucnNXCQIr",
+          "name": "朝阳满弟·长沙菜大牌档",
+          "branch": "左家塘店",
+          "address": "",
+          "region": "桂花路/左家塘",
+          "cityId": "344",
+          "reviewCount": "9508条"
+        },
+        {
+          "rank": "1",
+          "uuid": "l3Raa4RMhoLjxfQX",
+          "name": "朝阳满弟·16 小时长沙大排档",
+          "branch": "大桥新雨路地标店",
+          "address": "",
+          "region": "体育新城",
+          "cityId": "344",
+          "reviewCount": "3895条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-22T00:34:06",
+      "type": "search",
+      "keyword": "朝阳满弟",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 0,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_003400.json",
+      "candidates": []
+    },
+    {
+      "timestamp": "2026-05-22T00:34:26",
+      "type": "detail",
+      "shopuuid": "l3Raa4RMhoLjxfQX",
+      "storeName": "朝阳满弟·16 小时长沙大排档"
+    },
+    {
+      "timestamp": "2026-05-22T00:34:45",
+      "type": "detail",
+      "shopuuid": "k8r8P63ucnNXCQIr",
+      "storeName": "朝阳满弟·长沙菜大牌档"
+    },
+    {
+      "timestamp": "2026-05-22T01:49:41",
+      "type": "city_context",
+      "cityId": "2",
+      "locateCityid": "16"
+    },
+    {
+      "timestamp": "2026-05-22T01:59:58",
+      "type": "city_context",
+      "cityId": "2",
+      "locateCityid": "16"
+    },
+    {
+      "timestamp": "2026-05-22T02:24:00",
+      "type": "city_context",
+      "cityId": "2",
+      "locateCityid": "16"
+    },
+    {
+      "timestamp": "2026-05-22T02:24:39",
+      "type": "city_context",
+      "cityId": "2"
+    },
+    {
+      "timestamp": "2026-05-22T02:24:57",
+      "type": "search",
+      "keyword": "达美乐比萨 六道口店",
+      "cityId": "2",
+      "locateCityid": "16",
+      "candidate_count": 2,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_022457.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "k3moopXFSsRlB2Yl",
+          "name": "达美乐比萨",
+          "branch": "六道口店",
+          "address": "",
+          "region": "五道口",
+          "cityId": "2",
+          "reviewCount": "680条"
+        },
+        {
+          "rank": "1",
+          "uuid": "k51oajiNjkEwfx09",
+          "name": "达美乐比萨",
+          "branch": "五道口店",
+          "address": "",
+          "region": "五道口",
+          "cityId": "2",
+          "reviewCount": "3008条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-22T02:25:07",
+      "type": "search",
+      "keyword": "达美乐比萨 六道口店",
+      "cityId": "2",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_022507.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G7XshRlqcS2kZHMv",
+          "name": "京艷·京府菜",
+          "branch": "银泰中心店",
+          "address": "",
+          "region": "国贸/建外",
+          "cityId": "2",
+          "reviewCount": "672条"
+        },
+        {
+          "rank": "1",
+          "uuid": "l9ZQ9nP38iVy8bsN",
+          "name": "小放牛甄选各地特色菜",
+          "branch": "蓝港店",
+          "address": "",
+          "region": "蓝色港湾",
+          "cityId": "2",
+          "reviewCount": "5213条"
+        }
+      ]
+    }
+  ]
+}

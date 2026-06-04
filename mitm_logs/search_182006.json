@@ -1,0 +1,1282 @@
+{
+  "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&page=searchresultlist&_=1779358383381&cookieId=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&cityId=1&openid=oPpUI0amwL-qowGmqt--0SgNTrqw&lxcuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&locateCityid=16&categoryId=0&sortId=0&regionId=0&lat=31.230244&lng=121.473707&myLat=31.230244&myLng=121.473707&keyword=%E5%8D%8E%E7%A7%8B%E8%B7%AF%E5%BA%97&start=0&noProfile=10&mtsiReferrer=%252Fpages%252Flist%252Flist%253F_%253D1779358383381%2526cookieId%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526dpid%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526cityId%253D1%2526openid%253DoPpUI0amwL-qowGmqt--0SgNTrqw%2526lxcuid%253D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%2526locateCityid%253D16%2526categoryId%253D0%2526sortId%253D0%2526regionId%253D0%2526lat%253D31.230244%2526lng%253D121.473707%2526myLat%253D31.230244%2526myLng%253D121.473707%2526keyword%253D%25E5%258D%258E%25E7%25A7%258B%25E8%25B7%25AF%25E5%25BA%2597%2526start%253D0%2526noProfile%253D10&cPosition=8108&device_system=LINUX&wxmp_version=10.10.4",
+  "params": {
+    "yodaReady": "wx",
+    "csecappid": "wx734c1ad7b3562129",
+    "csecplatform": "3",
+    "csecversionname": "10.10.4",
+    "csecversion": "1.4.0",
+    "optimus_uuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "optimus_platform": "13",
+    "optimus_partner": "203",
+    "optimus_risk_level": "71",
+    "optimus_code": "10",
+    "page": "searchresultlist",
+    "_": "1779358383381",
+    "cookieId": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "cityId": "1",
+    "openid": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "lxcuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "locateCityid": "16",
+    "categoryId": "0",
+    "sortId": "0",
+    "regionId": "0",
+    "lat": "31.230244",
+    "lng": "121.473707",
+    "myLat": "31.230244",
+    "myLng": "121.473707",
+    "keyword": "华秋路店",
+    "start": "0",
+    "noProfile": "10",
+    "mtsiReferrer": "%2Fpages%2Flist%2Flist%3F_%3D1779358383381%26cookieId%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26dpid%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26cityId%3D1%26openid%3DoPpUI0amwL-qowGmqt--0SgNTrqw%26lxcuid%3D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%26locateCityid%3D16%26categoryId%3D0%26sortId%3D0%26regionId%3D0%26lat%3D31.230244%26lng%3D121.473707%26myLat%3D31.230244%26myLng%3D121.473707%26keyword%3D%E5%8D%8E%E7%A7%8B%E8%B7%AF%E5%BA%97%26start%3D0%26noProfile%3D10",
+    "cPosition": "8108",
+    "device_system": "LINUX",
+    "wxmp_version": "10.10.4"
+  },
+  "data": {
+    "code": 200,
+    "data": {
+      "queryId": "698d3c01-28ab-4e72-a8d5-1846f860552b",
+      "isEnd": false,
+      "nextStartIndex": 10,
+      "list": [
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "",
+            "categoryId": 33970,
+            "categoryName": "房产中介",
+            "cityId": 1,
+            "defaultPic": "https://p1.meituan.net/travelcube/b7e9f306a7031ceed238aca221cec160127955.png%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "我爱我家",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": 0,
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [],
+            "starScore": 0,
+            "distance": "14.1km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 0,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "k6nB5r7Wca3RHyIZ",
+            "shop_uuid": "k6nB5r7Wca3RHyIZ",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=k6nB5r7Wca3RHyIZ&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "华秋路店",
+            "categoryId": 157,
+            "categoryName": "美发",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/mogu/e834076c12f74bcaa434c88617563dd9907965.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "欧尚形象设计",
+            "priceText": "￥322/人",
+            "regionName": "上海大学",
+            "reviewCount": "8条",
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 50,
+            "tagList": [],
+            "starScore": 0,
+            "distance": "14.1km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 1,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "GaMF8qeV2NCDLm9o",
+            "shop_uuid": "GaMF8qeV2NCDLm9o",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=GaMF8qeV2NCDLm9o&shopType=50"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "",
+            "categoryId": 34306,
+            "categoryName": "幼儿园",
+            "cityId": 1,
+            "defaultPic": "https://img.meituan.net/poiugc/89f37dd71dd203cbf8cdf92f53a23950623813.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "上海市宝山区祁华幼儿园",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": "11条",
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 35,
+            "shopStateInformation": [],
+            "shopType": 75,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "bizId": "index=1,source=publicSchool,type=publicSchool",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "tagName": "dztag|803",
+                "text": "公办学校",
+                "textColor": "#111111",
+                "textSource": "publicSchool",
+                "textType": 1,
+                "titleInsets": "3,5,3,5",
+                "type": 12
+              }
+            ],
+            "starScore": "3.90",
+            "distance": "14.2km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 2,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "G6vWzujpOZDoyPjT",
+            "shop_uuid": "G6vWzujpOZDoyPjT",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=G6vWzujpOZDoyPjT&shopType=75"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "",
+            "categoryId": 3012,
+            "categoryName": "营业网点",
+            "cityId": 1,
+            "defaultPic": "https://qcloud.dpfile.com/pc/U366RhrdX7XF692XUs6naKYj1a2zD559RgwfHWCpEmimunJDrBxAOxBGYM85OBh1FoXqu0G3iT2T27qat3WhLVEuLYk00OmSS1IdNpm8K8sG4JN9RIm2mTKcbLtc2o2vfCF2ubeXzk49OsGrXt_KYDCngOyCwZK-s3fqawWswzk.jpg",
+            "name": "浦发银行锦秋路支行",
+            "priceText": "",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=omnireason,type=omnireason,id=“他就在华秋路入口的那个停车广场旁边”",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 1,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "tagName": "omnireason",
+              "text": "“他就在华秋路入口的那个停车广场旁边”",
+              "textSource": "omnireason",
+              "textType": 1,
+              "type": 12,
+              "textColor": "#111111"
+            },
+            "regionName": "上海大学",
+            "reviewCount": "22条",
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 35,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [],
+            "starScore": "3.60",
+            "distance": "13.8km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 3,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "l9JPRwatjxOjWXI3",
+            "shop_uuid": "l9JPRwatjxOjWXI3",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=l9JPRwatjxOjWXI3&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "祁华路店",
+            "categoryId": 34286,
+            "categoryName": "生鲜",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/poiugc/bf633ac1f761757e4404b609bf121e662350568.png%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "阳澄湖大闸蟹",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": 0,
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 10,
+            "tagList": [],
+            "starScore": 0,
+            "distance": "14.0km",
+            "serviceTags": [
+              {
+                "text": "外",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_takeaway.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 4,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "G9MgzQqIFN4HZ8gn",
+            "shop_uuid": "G9MgzQqIFN4HZ8gn",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=G9MgzQqIFN4HZ8gn&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "",
+            "categoryId": 2874,
+            "categoryName": "美术",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/poipicadd/a85a431a20e5d7ec4ba6f9941c22fb1f231944.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "双子星少儿艺术中心",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": 0,
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 75,
+            "tagList": [],
+            "starScore": 0,
+            "distance": "13.8km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 5,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "G6XfwEppqfoWUAzH",
+            "shop_uuid": "G6XfwEppqfoWUAzH",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=G6XfwEppqfoWUAzH&shopType=75"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "顾村公园店",
+            "categoryId": 33841,
+            "categoryName": "民宿",
+            "cityId": 1,
+            "defaultPic": "https://p1.meituan.net/searchscenerec/fe6b2ef57baaee235b72953b69aa0e4d162687.png%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "MNMINMI的民宿",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": 0,
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 60,
+            "tagList": [],
+            "starScore": 0,
+            "propagateData": "AwMAAAA5AgAAAAIAAAAgAAAALPVvrHrSRoEb/3Iw8F1JvDcc/8DOqUyWjmDNtaXZOlL2k5HVLgX0SSTe4vPlAAAAtSyrQPdXJWcApwIkA/CjZF/lbzyecWu2iXr0vP/0GtivfYR/fB4tNdZsZS71mvyV532t1LEpdNOdQhAYW4rjIGodC4mtUif5Rfdby7Rrcpt3O9aF8lY3BhobG49JXK5elrkjYUqW/Dg9EoOZtet0TqiFsjo4Pu/7qc+b+ssWGzrQXvavrVvA1SvD3ga24YCkrffmN6f1iXXQZTKSoXg0pp33xwr9dQuWtEzLRW4rj2nYT+R4pDI=",
+            "distance": "13.8km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 6,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "EiQJRuv6qgffASyZ",
+            "shop_uuid": "EiQJRuv6qgffASyZ",
+            "navData": {
+              "url": "/packages/detail/pages/detail/detail?shopUuid=EiQJRuv6qgffASyZ&mode=subpackage&propagateData=AwMAAAA5AgAAAAIAAAAgAAAALPVvrHrSRoEb/3Iw8F1JvDcc/8DOqUyWjmDNtaXZOlL2k5HVLgX0SSTe4vPlAAAAtSyrQPdXJWcApwIkA/CjZF/lbzyecWu2iXr0vP/0GtivfYR/fB4tNdZsZS71mvyV532t1LEpdNOdQhAYW4rjIGodC4mtUif5Rfdby7Rrcpt3O9aF8lY3BhobG49JXK5elrkjYUqW/Dg9EoOZtet0TqiFsjo4Pu/7qc+b+ssWGzrQXvavrVvA1SvD3ga24YCkrffmN6f1iXXQZTKSoXg0pp33xwr9dQuWtEzLRW4rj2nYT+R4pDI="
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "顾村公园地区一店",
+            "categoryId": 33841,
+            "categoryName": "民宿",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/tdchotel/baabc295c27b0c84017176b8aa95470e1104497.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "伊间魔都的民宿",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": 0,
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 60,
+            "tagList": [],
+            "starScore": 0,
+            "propagateData": "AwMAAAA5AgAAAAIAAAAgAAAALPVvrHrSRoEb/3Iw8F1JvDcc/8DOqUyWjmDNtaXZOlL2k5HVLgX0SSTe4vPlAAAAugt9+CWimtz2VjdtEVgPefPw/SwrqfzZdOtblBcsmYHexyLmLRGx8ME6URP2Oybzzcxk0M2shg5CU6yml3XQZbUzf9UeabLpnrUxqyggvzz9pacPEXidLLB7gbtFQj9k43TltPgOGubcV+LAaUYfB9byem2tSgd1utBCm/L8m32iPEQAK4ABCGYf1qwwcc31gQmf47GENgZhiYj1t2UmrGsEGDCK6eJoDqdKam9ulOB9o3zvSKcihIwV5Q==",
+            "distance": "13.9km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 7,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "H2NoHnXlYISQLFpy",
+            "shop_uuid": "H2NoHnXlYISQLFpy",
+            "navData": {
+              "url": "/packages/detail/pages/detail/detail?shopUuid=H2NoHnXlYISQLFpy&mode=subpackage&propagateData=AwMAAAA5AgAAAAIAAAAgAAAALPVvrHrSRoEb/3Iw8F1JvDcc/8DOqUyWjmDNtaXZOlL2k5HVLgX0SSTe4vPlAAAAugt9+CWimtz2VjdtEVgPefPw/SwrqfzZdOtblBcsmYHexyLmLRGx8ME6URP2Oybzzcxk0M2shg5CU6yml3XQZbUzf9UeabLpnrUxqyggvzz9pacPEXidLLB7gbtFQj9k43TltPgOGubcV+LAaUYfB9byem2tSgd1utBCm/L8m32iPEQAK4ABCGYf1qwwcc31gQmf47GENgZhiYj1t2UmrGsEGDCK6eJoDqdKam9ulOB9o3zvSKcihIwV5Q=="
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "",
+            "categoryId": 34325,
+            "categoryName": "驾驶陪练",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/dpmerchantpic/940afcd25bef18e148d335b2e5ebeb35588924.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "开驾·学车",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": 0,
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 75,
+            "tagList": [],
+            "starScore": 0,
+            "distance": "13.8km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 8,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "H7WzU3ntgMkMVA3x",
+            "shop_uuid": "H7WzU3ntgMkMVA3x",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H7WzU3ntgMkMVA3x&shopType=75"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "",
+            "categoryId": 979,
+            "categoryName": "公司企业",
+            "cityId": 1,
+            "defaultPic": "https://p1.meituan.net/travelcube/b7e9f306a7031ceed238aca221cec160127955.png%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "青岛琅琊台集团上海运营中心",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": 0,
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [],
+            "starScore": 0,
+            "distance": "14.6km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 9,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "k2uSEx04blhZeDOY",
+            "shop_uuid": "k2uSEx04blhZeDOY",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=k2uSEx04blhZeDOY&shopType=80"
+            }
+          }
+        }
+      ],
+      "currentFilter": [
+        {
+          "count": 0,
+          "id": 0,
+          "lat": 0,
+          "lng": 0,
+          "name": "全城",
+          "parentId": -10000,
+          "regionType": 0,
+          "selected": false
+        },
+        {
+          "count": 0,
+          "distance": 0,
+          "favIcon": "",
+          "id": 0,
+          "name": "全部分类",
+          "parentId": 0,
+          "selected": false,
+          "sortId": 0
+        },
+        {
+          "id": "0",
+          "name": "智能排序",
+          "type": 3
+        },
+        {
+          "id": "0",
+          "name": "筛选"
+        }
+      ],
+      "selector": [
+        [
+          {
+            "id": -10000,
+            "name": "热门商区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 0,
+            "name": "全城",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 2527,
+            "name": "上海大学",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 13,
+            "name": "宝山区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 13,
+            "name": "全部宝山区",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 2527,
+            "name": "上海大学",
+            "parentId": 13,
+            "num": 0
+          }
+        ],
+        [
+          {
+            "id": 0,
+            "name": "全部分类",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 10,
+            "name": "美食",
+            "parentId": 0,
+            "num": 25
+          },
+          {
+            "id": 10,
+            "name": "全部美食",
+            "parentId": 10,
+            "num": 25
+          },
+          {
+            "id": 101,
+            "name": "江浙菜",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 112,
+            "name": "小吃快餐",
+            "parentId": 10,
+            "num": 14
+          },
+          {
+            "id": 132,
+            "name": "咖啡",
+            "parentId": 10,
+            "num": 3
+          },
+          {
+            "id": 110,
+            "name": "火锅",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 116,
+            "name": "西餐",
+            "parentId": 10,
+            "num": 2
+          },
+          {
+            "id": 219,
+            "name": "小龙虾",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 508,
+            "name": "烧烤烤串",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 34236,
+            "name": "饮品",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 215,
+            "name": "面馆",
+            "parentId": 10,
+            "num": 3
+          },
+          {
+            "id": 118,
+            "name": "其他美食",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 104,
+            "name": "湘菜",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 2714,
+            "name": "水果生鲜",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 34351,
+            "name": "地方菜系",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 30,
+            "name": "休闲娱乐",
+            "parentId": 0,
+            "num": 7
+          },
+          {
+            "id": 30,
+            "name": "全部休闲娱乐",
+            "parentId": 30,
+            "num": 7
+          },
+          {
+            "id": 141,
+            "name": "按摩/足疗",
+            "parentId": 30,
+            "num": 1
+          },
+          {
+            "id": 2636,
+            "name": "运动健身",
+            "parentId": 30,
+            "num": 3
+          },
+          {
+            "id": 20042,
+            "name": "网吧/电竞",
+            "parentId": 30,
+            "num": 1
+          },
+          {
+            "id": 32732,
+            "name": "棋牌室",
+            "parentId": 30,
+            "num": 2
+          },
+          {
+            "id": 60,
+            "name": "酒店",
+            "parentId": 0,
+            "num": 13
+          },
+          {
+            "id": 60,
+            "name": "全部酒店",
+            "parentId": 60,
+            "num": 13
+          },
+          {
+            "id": 33841,
+            "name": "民宿",
+            "parentId": 60,
+            "num": 11
+          },
+          {
+            "id": 171,
+            "name": "经济型",
+            "parentId": 60,
+            "num": 2
+          },
+          {
+            "id": 33837,
+            "name": "快捷酒店",
+            "parentId": 60,
+            "num": 1
+          },
+          {
+            "id": 50,
+            "name": "丽人",
+            "parentId": 0,
+            "num": 7
+          },
+          {
+            "id": 50,
+            "name": "全部丽人",
+            "parentId": 50,
+            "num": 7
+          },
+          {
+            "id": 157,
+            "name": "美发",
+            "parentId": 50,
+            "num": 3
+          },
+          {
+            "id": 158,
+            "name": "美容/SPA",
+            "parentId": 50,
+            "num": 4
+          },
+          {
+            "id": 33761,
+            "name": "美甲美睫",
+            "parentId": 50,
+            "num": 1
+          },
+          {
+            "id": 2572,
+            "name": "祛痘",
+            "parentId": 50,
+            "num": 1
+          },
+          {
+            "id": 45,
+            "name": "运动健身",
+            "parentId": 0,
+            "num": 3
+          },
+          {
+            "id": 45,
+            "name": "全部运动健身",
+            "parentId": 45,
+            "num": 3
+          },
+          {
+            "id": 147,
+            "name": "健身中心",
+            "parentId": 45,
+            "num": 2
+          },
+          {
+            "id": 6701,
+            "name": "武术格斗",
+            "parentId": 45,
+            "num": 1
+          },
+          {
+            "id": 35,
+            "name": "景点/周边游",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 35,
+            "name": "全部景点/周边游",
+            "parentId": 35,
+            "num": 1
+          },
+          {
+            "id": 32744,
+            "name": "人文街区",
+            "parentId": 35,
+            "num": 1
+          },
+          {
+            "id": 70,
+            "name": "亲子",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 70,
+            "name": "全部亲子",
+            "parentId": 70,
+            "num": 1
+          },
+          {
+            "id": 34309,
+            "name": "早教",
+            "parentId": 70,
+            "num": 1
+          },
+          {
+            "id": 20,
+            "name": "购物",
+            "parentId": 0,
+            "num": 4
+          },
+          {
+            "id": 20,
+            "name": "全部购物",
+            "parentId": 20,
+            "num": 4
+          },
+          {
+            "id": 187,
+            "name": "超市便利",
+            "parentId": 20,
+            "num": 1
+          },
+          {
+            "id": 235,
+            "name": "药店",
+            "parentId": 20,
+            "num": 1
+          },
+          {
+            "id": 2714,
+            "name": "水果生鲜",
+            "parentId": 20,
+            "num": 1
+          },
+          {
+            "id": 95,
+            "name": "宠物",
+            "parentId": 0,
+            "num": 2
+          },
+          {
+            "id": 95,
+            "name": "全部宠物",
+            "parentId": 95,
+            "num": 2
+          },
+          {
+            "id": 25147,
+            "name": "宠物店",
+            "parentId": 95,
+            "num": 1
+          },
+          {
+            "id": 25148,
+            "name": "宠物医院",
+            "parentId": 95,
+            "num": 1
+          },
+          {
+            "id": 34042,
+            "name": "宠物食品用品",
+            "parentId": 95,
+            "num": 1
+          },
+          {
+            "id": 80,
+            "name": "生活服务",
+            "parentId": 0,
+            "num": 17
+          },
+          {
+            "id": 80,
+            "name": "全部生活服务",
+            "parentId": 80,
+            "num": 17
+          },
+          {
+            "id": 33971,
+            "name": "便民服务",
+            "parentId": 80,
+            "num": 10
+          },
+          {
+            "id": 34003,
+            "name": "金融服务",
+            "parentId": 80,
+            "num": 2
+          },
+          {
+            "id": 2934,
+            "name": "开锁换锁",
+            "parentId": 80,
+            "num": 1
+          },
+          {
+            "id": 979,
+            "name": "公司企业",
+            "parentId": 80,
+            "num": 3
+          },
+          {
+            "id": 75,
+            "name": "学习培训",
+            "parentId": 0,
+            "num": 10
+          },
+          {
+            "id": 75,
+            "name": "全部学习培训",
+            "parentId": 75,
+            "num": 10
+          },
+          {
+            "id": 2874,
+            "name": "美术",
+            "parentId": 75,
+            "num": 3
+          },
+          {
+            "id": 33757,
+            "name": "书法",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34129,
+            "name": "运动培训",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34306,
+            "name": "幼儿园",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34307,
+            "name": "托班/托儿所",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34309,
+            "name": "早教",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34320,
+            "name": "舞蹈培训",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34321,
+            "name": "国学",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34324,
+            "name": "驾驶培训",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 50380,
+            "name": "课后辅导/托管",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 65,
+            "name": "养车/用车",
+            "parentId": 0,
+            "num": 6
+          },
+          {
+            "id": 65,
+            "name": "全部养车/用车",
+            "parentId": 65,
+            "num": 6
+          },
+          {
+            "id": 180,
+            "name": "停车场",
+            "parentId": 65,
+            "num": 5
+          },
+          {
+            "id": 85,
+            "name": "医疗健康",
+            "parentId": 0,
+            "num": 2
+          },
+          {
+            "id": 85,
+            "name": "全部医疗健康",
+            "parentId": 85,
+            "num": 2
+          },
+          {
+            "id": 182,
+            "name": "口腔医疗机构",
+            "parentId": 85,
+            "num": 1
+          },
+          {
+            "id": 2914,
+            "name": "中医机构",
+            "parentId": 85,
+            "num": 1
+          },
+          {
+            "id": 235,
+            "name": "药店",
+            "parentId": 85,
+            "num": 1
+          },
+          {
+            "id": 50124,
+            "name": "地名",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 50124,
+            "name": "全部地名",
+            "parentId": 50124,
+            "num": 1
+          },
+          {
+            "id": 50125,
+            "name": "交通地名",
+            "parentId": 50124,
+            "num": 1
+          },
+          {
+            "id": 50191,
+            "name": "通行设施",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 50191,
+            "name": "全部通行设施",
+            "parentId": 50191,
+            "num": 1
+          },
+          {
+            "id": 50208,
+            "name": "出入口",
+            "parentId": 50191,
+            "num": 1
+          },
+          {
+            "id": 50247,
+            "name": "商务住宅",
+            "parentId": 0,
+            "num": 3
+          },
+          {
+            "id": 50247,
+            "name": "全部商务住宅",
+            "parentId": 50247,
+            "num": 3
+          },
+          {
+            "id": 50249,
+            "name": "楼宇",
+            "parentId": 50247,
+            "num": 1
+          },
+          {
+            "id": 50248,
+            "name": "政府机构及社会团体",
+            "parentId": 0,
+            "num": 5
+          },
+          {
+            "id": 50248,
+            "name": "全部政府机构及社会团体",
+            "parentId": 50248,
+            "num": 5
+          },
+          {
+            "id": 50251,
+            "name": "社会团体",
+            "parentId": 50248,
+            "num": 2
+          },
+          {
+            "id": 50320,
+            "name": "公检法机构",
+            "parentId": 50248,
+            "num": 1
+          },
+          {
+            "id": 50333,
+            "name": "街道社区",
+            "parentId": 50248,
+            "num": 1
+          },
+          {
+            "id": 50342,
+            "name": "事业单位",
+            "parentId": 50248,
+            "num": 1
+          },
+          {
+            "id": 50392,
+            "name": "游玩",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 50392,
+            "name": "全部游玩",
+            "parentId": 50392,
+            "num": 1
+          },
+          {
+            "id": 50014,
+            "name": "休闲街区",
+            "parentId": 50392,
+            "num": 1
+          }
+        ],
+        [
+          {
+            "id": "0",
+            "name": "智能排序"
+          },
+          {
+            "id": "1",
+            "name": "距离优先"
+          },
+          {
+            "id": "2",
+            "name": "人气优先"
+          },
+          {
+            "id": "3",
+            "name": "好评优先"
+          },
+          {
+            "id": "8",
+            "name": "低价优先"
+          },
+          {
+            "id": "9",
+            "name": "高价优先"
+          }
+        ],
+        [
+          {
+            "name": "优惠",
+            "multiSelectable": true,
+            "label": "省钱省心",
+            "filters": [
+              {
+                "id": "8-isshenhuiyuan_1",
+                "name": "神券商家",
+                "selected": false
+              },
+              {
+                "id": "8-hasgroup_1",
+                "name": "团购",
+                "selected": false
+              },
+              {
+                "id": "8-hasshortdeals_1",
+                "name": "促销",
+                "desc": "优惠活动",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "服务",
+            "multiSelectable": true,
+            "filters": [
+              {
+                "id": "8-hasbooksetting_1",
+                "name": "在线订座",
+                "selected": false
+              },
+              {
+                "id": "8-isqueuevisible_1",
+                "name": "在线排队",
+                "selected": false
+              },
+              {
+                "id": "8-hastakeaway_1",
+                "name": "可外卖",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "价格区间",
+            "multiSelectable": false,
+            "filters": [
+              {
+                "id": "3-avgprice_0~50",
+                "name": "50以下",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_50~100",
+                "name": "50-100",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_100~200",
+                "name": "100-200",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_200~300",
+                "name": "200-300",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_300~99999999",
+                "name": "300以上",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "更多",
+            "multiSelectable": true,
+            "filters": [
+              {
+                "id": "8-isnewshop_1",
+                "name": "新店",
+                "selected": false
+              },
+              {
+                "id": "8-shopnewtagid_1116683",
+                "name": "当地人推荐",
+                "selected": false
+              },
+              {
+                "id": "8-shopnewtagid_680",
+                "name": "可带宠物",
+                "selected": false
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "id": 3110,
+            "name": "7号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 66749,
+            "name": "祁华路站",
+            "parentId": 3110,
+            "num": 0
+          },
+          {
+            "id": 93979,
+            "name": "15号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 94002,
+            "name": "锦秋路站",
+            "parentId": 93979,
+            "num": 0
+          }
+        ]
+      ],
+      "hasMetro": true,
+      "showMetro": false
+    },
+    "loginCode": 200
+  },
+  "request_headers": {
+    "Host": "m.dianping.com",
+    "Connection": "keep-alive",
+    "mtgsig": "{\"a1\":\"1.2\",\"a2\":1779358777333,\"a3\":\"852w04x23y415ww3y88z04yyw246vzww80v534y81w147978x01x30vu\",\"a4\":\"1abc97c2b474b1b4c297bc1ab4b174b437a8b0508319c4e4\",\"a5\":\"91gu4e4upxEtee5MsZr1gzCRZnBzqRBpHok8KndWThqjhiMx//5zmTSpGDY1mykcx8dfhfplqi0RnnfrXlQj9fSJxEv3spP6mGTikiK751xaf4/XVW2Doi89JTtWomt5U1hO3aWHLuheysJkh5NrT2XP9V2gSJIHL5mvrWKh+606LEEFQoxXN0HCOO1ieDDlyj+5/Im3S197yfCXnxBykaAEbT3UUc+WGiFhT7BQBrJPubFc4GLG+2ZfMwrrfJTvwt/CfDJ3FhIEr3eNDkpNI4LQMM5/+XiSaeXgccK2DExk6A/pTuQF0gkUTSysj1iq7sEsxf5/yWIqchI=\",\"a6\":\"w1.6hnuWhpJisTcRaWEeREu4pjIPlmyJJ+jengBU6gz55BE6VI89zZ/yCAauL5Q+MqT0gM1VxWl5aEAL/AxP7W0bwRn8kIXBG38yC5FnnMG64NR0C1mPVfav3fW3yulFD3mjf8hXHEknaH6djecOnLPyEOHQzBnxC1p01a2ax4kR+I4ktOx9S2WqI1P7GMgaBbZbTzAV9BZJqixL+6hzHl+sWRHqHc5JcZukJHJXnF2GAZ6JU+zpSWCF5ujUxDdeZtkOpT6qOZBZOoJpj/9ZJ8NEwtZEsTH7OukZU18+n/XRcRe4N5SJfIgTzZykJyRr+47tHeABD0sN3liC/WIfjyqSVobl2egcfTQGom05w0Rl0EwccxWUXXSSjGh06iNjQYDex1M4BRn6Gq8+K/qJMnYl9lAbpq6Jg5FxA79kSilJFBbXvF3NAd47qleSrSfyocqPD2Dv4oKcHFk6TXgru/a8GzTU2s6yym2TkijfSriFPPxvG9nIX8NDP5y0zF/IaVTYowu86PBPvbZnoxdWdMY6kA==\",\"a7\":\"wx734c1ad7b3562129\",\"x0\":3,\"d1\":\"5e99e5a617150a21133884a948302c6e\"}",
+    "openid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "channel": "weixin",
+    "channelversion": "4.1.1.4",
+    "minaversion": "10.10.4",
+    "wechatversion": "4.1.1.4",
+    "openIdCipher": "AwQAAABJAgAAAAEAAAAyAAAAPLgC95WH3MyqngAoyM/hf1hEoKrGdo0pJ5DI44e1wGF9AT3PH7Wes03actC2n/GVnwfURonD78PewMUppAAAADgXCsBM1jVUCpSCseRHuUc11ngYIMQ00ht+pfWq0IYrDpyUYe9AVSMrX20R6Le5XaFqOKyTOslA/w==",
+    "sdkversion": "3.8.10",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) XWEB/14910",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "Content-Type": "application/json",
+    "openidPlt": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "xweb_xhr": "1",
+    "platformversion": "6.17.0-23-generic x86_64",
+    "platform": "Android",
+    "minaname": "dianping-wxapp",
+    "token": "0202ff206dfc6b26d068b130c70c98a1c2254fc5df614338803eecb5269c15f18f160ede36cc58cd33685ef3d727fa3f95561580eb90d2483390000000008f35000074835de90af38d78206f8a320cefa6e98675b9096fd08d28a044f68e4527ec391553406282e81e4cd41404844593b482",
+    "Accept": "*/*",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://servicewechat.com/wx734c1ad7b3562129/693/page-frame.html",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9"
+  },
+  "request_cookies": ""
+}

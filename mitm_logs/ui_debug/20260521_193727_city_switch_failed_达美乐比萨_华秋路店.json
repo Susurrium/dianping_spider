@@ -1,0 +1,389 @@
+{
+  "stage": "city_switch_failed",
+  "store": "达美乐比萨(华秋路店)",
+  "address": "上海华秋路58弄25-26号",
+  "window": {
+    "window_id": "83886102",
+    "name": "大众点评美食电影运动旅游门票",
+    "x": 1218,
+    "y": 221,
+    "width": 914,
+    "height": 882,
+    "pid": "1460714",
+    "cmdline": "/tmp/.mount_WeChatIcplIj/opt/wechat/RadiumWMPF/runtime/WeChatAppEx --log-level=2 --lang=zh-CN --wechat-files-path=/home/hetaisheng/文档/xwechat_files --product-id=1002 --wechat-sub-user-agent=MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) --web-translate --client_version=4067692804 --wmpf_root_dir=/home/hetaisheng/.xwechat/radium --enable-applet-v3 --wmpf-drm-plugin-path --no-preload --mojo-platform-channel-handle=3"
+  },
+  "recent_events": [
+    {
+      "timestamp": "2026-05-21T18:21:14",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182114.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G8ASJ1HVzKVONVty",
+          "name": "庄氏隆兴·蟹点",
+          "branch": "上海首店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "26061条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:15",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182115.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H2Lp3x7RlTVEtQln",
+          "name": "达美乐比萨",
+          "branch": "西藏北路店",
+          "address": "",
+          "region": "苏河湾",
+          "cityId": "1",
+          "reviewCount": "625条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:16",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182116.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G8ASJ1HVzKVONVty",
+          "name": "庄氏隆兴·蟹点",
+          "branch": "上海首店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "26061条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:17",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182117.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G8ASJ1HVzKVONVty",
+          "name": "庄氏隆兴·蟹点",
+          "branch": "上海首店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "26061条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:17",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182117.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H2Lp3x7RlTVEtQln",
+          "name": "达美乐比萨",
+          "branch": "西藏北路店",
+          "address": "",
+          "region": "苏河湾",
+          "cityId": "1",
+          "reviewCount": "625条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:26",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182126.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H2Lp3x7RlTVEtQln",
+          "name": "达美乐比萨",
+          "branch": "西藏北路店",
+          "address": "",
+          "region": "苏河湾",
+          "cityId": "1",
+          "reviewCount": "625条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:31",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182131.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G8ASJ1HVzKVONVty",
+          "name": "庄氏隆兴·蟹点",
+          "branch": "上海首店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "26061条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:35",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182135.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H2Lp3x7RlTVEtQln",
+          "name": "达美乐比萨",
+          "branch": "西藏北路店",
+          "address": "",
+          "region": "苏河湾",
+          "cityId": "1",
+          "reviewCount": "625条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:36",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182136.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G8ASJ1HVzKVONVty",
+          "name": "庄氏隆兴·蟹点",
+          "branch": "上海首店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "26061条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:37",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182137.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G8ASJ1HVzKVONVty",
+          "name": "庄氏隆兴·蟹点",
+          "branch": "上海首店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "26061条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:37",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182137.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G8ASJ1HVzKVONVty",
+          "name": "庄氏隆兴·蟹点",
+          "branch": "上海首店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "26061条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T18:21:38",
+      "type": "search",
+      "cityId": "1",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_182138.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G9LToMNDUtk2M7Re",
+          "name": "裕兴记•蟹黄面馆",
+          "branch": "人民广场店",
+          "address": "",
+          "region": "人民广场/南京路",
+          "cityId": "1",
+          "reviewCount": "28153条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H2Lp3x7RlTVEtQln",
+          "name": "达美乐比萨",
+          "branch": "西藏北路店",
+          "address": "",
+          "region": "苏河湾",
+          "cityId": "1",
+          "reviewCount": "625条"
+        }
+      ]
+    }
+  ]
+}

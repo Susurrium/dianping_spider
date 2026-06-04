@@ -1,0 +1,88 @@
+{
+  "stage": "city_switch_failed",
+  "store": "达美乐比萨(台儿庄店)",
+  "address": "上海台儿庄路373号",
+  "window": {
+    "window_id": "88080441",
+    "name": "大众点评美食电影运动旅游门票",
+    "x": 1622,
+    "y": 50,
+    "width": 914,
+    "height": 882,
+    "pid": "21501",
+    "cmdline": "/tmp/appimage_extracted_68b6165d45f762a820e8d12f8e7a5cf6/opt/wechat/RadiumWMPF/runtime/WeChatAppEx --log-level=2 --lang=zh-CN --wechat-files-path=/home/hetaisheng/文档/xwechat_files --product-id=1002 --wechat-sub-user-agent=MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) --web-translate --client_version=4067692804 --wmpf_root_dir=/home/hetaisheng/.xwechat/radium --enable-applet-v3 --wmpf-drm-plugin-path --no-preload --mojo-platform-channel-handle=3"
+  },
+  "recent_events": [
+    {
+      "timestamp": "2026-05-22T17:20:53",
+      "type": "detail",
+      "shopuuid": "HaYo0ecYQXX0iWYC",
+      "storeName": "烤肉名家•朝鲜族自助烤肉"
+    },
+    {
+      "timestamp": "2026-05-22T17:21:10",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-22T17:21:25",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-22T17:21:41",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-22T17:21:42",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-22T17:21:44",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-22T17:22:24",
+      "type": "detail",
+      "shopuuid": "G6dU5twaJN7MyHRa",
+      "storeName": "Las Tapas"
+    },
+    {
+      "timestamp": "2026-05-22T17:22:24",
+      "type": "city_context",
+      "cityId": "1"
+    },
+    {
+      "timestamp": "2026-05-22T17:22:24",
+      "type": "detail",
+      "shopuuid": "l8kqlZodGReNcv6y",
+      "storeName": "达美乐比萨"
+    },
+    {
+      "timestamp": "2026-05-22T17:22:25",
+      "type": "detail",
+      "shopuuid": "l1870npcj5KMhF1Z",
+      "storeName": "MOSSO·Liveshow"
+    },
+    {
+      "timestamp": "2026-05-22T17:22:25",
+      "type": "detail",
+      "shopuuid": "l2jzfU8WRRvKX5v9",
+      "storeName": "裕兴记•蟹黄面馆"
+    },
+    {
+      "timestamp": "2026-05-22T18:15:45",
+      "type": "review",
+      "shopuuid": "l8kqlZodGReNcv6y",
+      "storeName": "达美乐比萨(华秋路店)",
+      "review_count": 14,
+      "start": "0",
+      "nextStartIndex": "14",
+      "isEnd": false,
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/review_l8kqlZodGReNcv6y_20260522_181539.json"
+    }
+  ]
+}

@@ -1,0 +1,2992 @@
+{
+  "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&page=searchresultlist&_=1779358512068&cookieId=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&cityId=1&openid=oPpUI0amwL-qowGmqt--0SgNTrqw&lxcuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&locateCityid=16&categoryId=0&sortId=0&regionId=0&lat=31.230244&lng=121.473707&myLat=31.230244&myLng=121.473707&keyword=%E5%8D%8E%E7%A7%8B%E8%B7%AF&start=0&noProfile=10&mtsiReferrer=%252Fpages%252Flist%252Flist%253F_%253D1779358512068%2526cookieId%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526dpid%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526cityId%253D1%2526openid%253DoPpUI0amwL-qowGmqt--0SgNTrqw%2526lxcuid%253D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%2526locateCityid%253D16%2526categoryId%253D0%2526sortId%253D0%2526regionId%253D0%2526lat%253D31.230244%2526lng%253D121.473707%2526myLat%253D31.230244%2526myLng%253D121.473707%2526keyword%253D%25E5%258D%258E%25E7%25A7%258B%25E8%25B7%25AF%2526start%253D0%2526noProfile%253D10&cPosition=8108&device_system=LINUX&wxmp_version=10.10.4",
+  "params": {
+    "yodaReady": "wx",
+    "csecappid": "wx734c1ad7b3562129",
+    "csecplatform": "3",
+    "csecversionname": "10.10.4",
+    "csecversion": "1.4.0",
+    "optimus_uuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "optimus_platform": "13",
+    "optimus_partner": "203",
+    "optimus_risk_level": "71",
+    "optimus_code": "10",
+    "page": "searchresultlist",
+    "_": "1779358512068",
+    "cookieId": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "cityId": "1",
+    "openid": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "lxcuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "locateCityid": "16",
+    "categoryId": "0",
+    "sortId": "0",
+    "regionId": "0",
+    "lat": "31.230244",
+    "lng": "121.473707",
+    "myLat": "31.230244",
+    "myLng": "121.473707",
+    "keyword": "华秋路",
+    "start": "0",
+    "noProfile": "10",
+    "mtsiReferrer": "%2Fpages%2Flist%2Flist%3F_%3D1779358512068%26cookieId%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26dpid%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26cityId%3D1%26openid%3DoPpUI0amwL-qowGmqt--0SgNTrqw%26lxcuid%3D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%26locateCityid%3D16%26categoryId%3D0%26sortId%3D0%26regionId%3D0%26lat%3D31.230244%26lng%3D121.473707%26myLat%3D31.230244%26myLng%3D121.473707%26keyword%3D%E5%8D%8E%E7%A7%8B%E8%B7%AF%26start%3D0%26noProfile%3D10",
+    "cPosition": "8108",
+    "device_system": "LINUX",
+    "wxmp_version": "10.10.4"
+  },
+  "data": {
+    "code": 200,
+    "data": {
+      "queryId": "930e9554-c84f-460a-8769-401f1b1fd584",
+      "isEnd": false,
+      "nextStartIndex": 10,
+      "list": [
+        {
+          "type": 1,
+          "shopInfo": {
+            "adShop": false,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "",
+            "categoryId": 2934,
+            "categoryName": "开锁换锁",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/poipicadd/8a8f28b57cae6902050f649d54fad03b205866.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "开锁换锁",
+            "priceText": "",
+            "regionName": "上海大学",
+            "reviewCount": 0,
+            "searchDishList": [],
+            "shopDealInfos": [],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [],
+            "starScore": 0,
+            "distance": "14.1km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 0,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "H9T4uReT20bDmuz7",
+            "shop_uuid": "H9T4uReT20bDmuz7",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H9T4uReT20bDmuz7&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLabel": "{\"adicon\":\"\",\"adtag\":\"横线\",\"adiconLength\":\"2\",\"adiconWidth\":\"2\"}",
+              "adLx": "{\"accountid\":71961199,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":41704430,\"targetid\":56671627,\"entityid\":23078747,\"entitytype\":1,\"adshopid\":23078747,\"product_id\":\"315\",\"sver\":\"2\",\"ad_ci\":\"9oXGJpu7E0ik4uLSx2A694mkgp6OUQ4macsHWdcZ9-iUALC1xGcjAKSvCOcaTUZ_t1e2AmlFecg\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=315&ad_biz=search-sieve&priceMode=7&pctr=0.004701155855156759&recalled_match_unit=0&ad_cj=NgH8gIN9t3PelIkaUzQpjI7nfHbGu-EswwlPlYqTn682pyTVeHVgk-seEF8rW6CcHIQnqWWWeSKv3emSbBTdkzUY5qHiYA8VjhPzLQsAZD-UVCgaH4T56XFy2Cl35gAFfDZyz_14HTnpjNqz1wPYCxkXFG3ZVxDyGMtkFigZ9f2B5i7GVnjhjPf2C9lVlnkbvoJHjytJHNoC0D6-GHaodE7kyp6cj3JZ-bRPlpwDd0M4lSp_&ad_ci=NgH8jIUp53_Yk5MdVyJtkYvlaXrRgbV5yQ9OhdjM3fR1-D_UNBM6zrkbFlwrRPHGUMh78yWAe3Dt0O-EOUua3CwO9r2vNBRU2hn4KURWNljDXjdJRv-bmnwm0SIhtloPeQ&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.09504760056734085&discount=1.0&userid=2342114723&rawpleadsnew=0.0&adshoptype=289&pcvr=0.0064519545994699&adload_type=3&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=0&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3&discmode=1"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": "",
+            "branchName": "上大校区",
+            "categoryId": 50410,
+            "categoryName": "课后辅导",
+            "cityId": 1,
+            "defaultPic": "https://p1.meituan.net/adunion/17c91f98b03e0ef5f4d56c11d84f9abe247073.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "吉的堡成长中心",
+            "priceText": "1142人预约",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“在我们学习太累的时候 她会快速的讲完题 让我们休息”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "上海大学",
+            "reviewCount": "436条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1315059236",
+                "dealTitle": "1元 【3-6岁英语体验】零基础起步",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1332056257",
+                "dealTitle": "6元 【3岁+语言全套】1V1能力评估+单次体验课",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "promoDetail": "{\"title\":\"优惠明细\",\"promoItems\":[{\"title\":\"吃喝玩乐神券\",\"desc\":\"吃喝玩乐神券，3元无门槛优惠券\",\"promoPrice\":\"-￥3\"},{\"title\":\"特惠促销\",\"desc\":\"下单立省179元\",\"promoPrice\":\"-￥179\"}],\"totalPromoLab\":\"共优惠：\",\"totalPromoPrice\":\"-￥182\"}",
+                "showType": 0,
+                "subDealTitle": "",
+                "tagInfo": [
+                  {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconCornerRadius": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconType": 0,
+                    "iconWidth": 0,
+                    "keepStyle": 0,
+                    "lineNum": 0,
+                    "priority": 0,
+                    "tagHeight": 0,
+                    "text": "2项已优惠182",
+                    "textType": 0,
+                    "type": 1
+                  }
+                ],
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 45,
+            "shopStateInformation": [],
+            "shopType": 75,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "上海大学课后辅导好评榜第3名",
+                "textColor": "#B15E2C",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.60",
+            "distance": "12.9km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 1,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "GaGJWVPOB7T0oD6o",
+            "shop_uuid": "GaGJWVPOB7T0oD6o",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=GaGJWVPOB7T0oD6o&shopType=75"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLx": "{\"accountid\":82083926,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":48815135,\"targetid\":93977899,\"entityid\":1418051725,\"entitytype\":1,\"adshopid\":1418051725,\"product_id\":\"74\",\"sver\":\"2\",\"ad_ci\":\"syUaMM7EKbERRKjbKWcjFtoJjzwHAEWSlJpR9YRlckv_-jcXd-PEgp-nxe6_-SqjHmaoyoZq8w\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.03769897668350281&recalled_match_unit=0&ad_cj=0ITLJP3-2gGRo-ssON75Ltad0hKm7zqWe3i-mrupZGYQxVo457_tvASs9rcHNdQaZBV8yktSZKv7vG60vMlZgmdHCh8IqCh_slR3WrTG_y4H_bAIi7XDHwbMoJ2uSez6EFbztI2RmePehLdNo5JY7643TViT20ZuoYuNV8URUQbwI7almkpQm9fDwOO-Dk2ImwKZdTkJLol1NguqQmiCZXfo1ssbsJWCqj5BEow3jmZ4ZvacTw&ad_ci=0ITLKPuqigSavO47aYK7KsWG1hLvg2PCYCTj1-XqJTZN3hlpp9O05FCm9bUWbohbKEIimwhPNfa_sX7h4owD0HNcFwpQpD8po1V1Te6QmHkD4uNR_tewEgHLrs7-S-_5&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.26607444882392883&userid=2342114723&ecpcLambda=1.1|&freCtrl=false&rawpleadsnew=0.0&adshoptype=3&pcvr=0.02190427854657173&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&auctionTag=7|0&lite_set_cell=default-cell&floatRatio=50&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "宝山经纬汇店",
+            "categoryId": 50437,
+            "categoryName": "民谣酒馆",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/adunion/4f0ed5086e773d1ae2d9649be9a1bc93237025.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "Flywheel 飞轮民谣酒吧",
+            "priceText": "￥123/人",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“真香预警！上海大学的宝藏商家，你值得拥有👍🏻”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "上海大学",
+            "reviewCount": "672条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "842109014",
+                "dealTitle": "133元 2人套餐|经典鸡尾酒系列鸡尾酒2杯+小食2份",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "promoDetail": "{\"title\":\"优惠明细\",\"promoItems\":[{\"title\":\"吃喝玩乐神券\",\"desc\":\"吃喝玩乐神券，3元无门槛优惠券\",\"promoPrice\":\"-￥3\"}],\"totalPromoLab\":\"共优惠：\",\"totalPromoPrice\":\"-￥3\"}",
+                "showType": 0,
+                "subDealTitle": "",
+                "tagInfo": [
+                  {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconCornerRadius": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconType": 0,
+                    "iconWidth": 0,
+                    "keepStyle": 0,
+                    "lineNum": 0,
+                    "priority": 0,
+                    "tagHeight": 0,
+                    "text": "已优惠3",
+                    "textType": 0,
+                    "type": 1
+                  }
+                ],
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "830634081",
+                "dealTitle": "226元 3-4人│生啤│比利时小麦/百香果/朝日啤酒 3L+小食2份",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "promoDetail": "{\"title\":\"优惠明细\",\"promoItems\":[{\"title\":\"吃喝玩乐神券\",\"desc\":\"吃喝玩乐神券，3元无门槛优惠券\",\"promoPrice\":\"-￥3\"}],\"totalPromoLab\":\"共优惠：\",\"totalPromoPrice\":\"-￥3\"}",
+                "showType": 0,
+                "subDealTitle": "",
+                "tagInfo": [
+                  {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconCornerRadius": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconType": 0,
+                    "iconWidth": 0,
+                    "keepStyle": 0,
+                    "lineNum": 0,
+                    "priority": 0,
+                    "tagHeight": 0,
+                    "text": "已优惠3",
+                    "textType": 0,
+                    "type": 1
+                  }
+                ],
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 45,
+            "shopStateInformation": [],
+            "shopType": 30,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "上海大学酒吧好评榜第2名",
+                "textColor": "#B15E2C",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "卡座",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "威士忌",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "啤酒",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "有歌手驻唱",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "鸡尾酒",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "精酿啤酒",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.60",
+            "distance": "12.8km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 2,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "k5QyyhEWO8Uxv4WT",
+            "shop_uuid": "k5QyyhEWO8Uxv4WT",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=k5QyyhEWO8Uxv4WT&shopType=30"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLx": "{\"accountid\":81205877,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":48398788,\"targetid\":93218009,\"entityid\":1725502386,\"entitytype\":1,\"adshopid\":1725502386,\"product_id\":\"315\",\"sver\":\"2\",\"ad_ci\":\"XyyIkPY17dRQ4pPextm3VCppn2qdBQhsL0zEx3hGA75D3OY5eaIe8--7t6fyDXte_8itMW0tie4\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=315&ad_biz=search-sieve&priceMode=7&pctr=0.014043588988994347&recalled_match_unit=0&ad_cj=kpEwGAmyb93-MHMrk5vUOOdo6dcuwHNgT1ph_KIehS9DB0hB26x1DCcpImmtyRduKClwMneyVe6aOlysKRjJ1N0Afk9TeVD6TzNWgagiLQ0ohYjKniWnaUzkEEMNX3YLUB1i7CifaWLtmaGhjZe1McINt-mJRAtQ1A3872o984wyWIyM42ZmhXA0r28H_MrvcyrbVYJl2vcK-uU8EdjWmJyUgAeQ7wa6x9bXtdHv1Fjt3qBR5lY&ad_ci=kpEwFA_mP9j_J38kjcGbKPZo59E_oigwSkU3oOdPwWYTRQcVncopVHImIGas1kY0ZGUsaDekV7zcN1q6fEeOm8QWblMeLUu7Gzldhed1ZnN-ntKT7U_UZBnmREQIWCRY&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.04712609574198723&discount=0.5&userid=2342114723&rawpleadsnew=0.0&adshoptype=3&pcvr=0.037148796021938324&adload_type=3&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=500&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3&discmode=1"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "上大店",
+            "categoryId": 50401,
+            "categoryName": "采耳头疗",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/adunion/11ee5027dc7b5e654feeb492d5fa6afa381431.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "轻悦专业采耳·SPA·头疗",
+            "priceText": "￥149/人",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“从人民广场/南京路来上海大学的友友快来这家，值哭了好么！”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "上海大学",
+            "reviewCount": "437条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1322065562",
+                "dealTitle": "146元 采耳60分钟|【新客特惠】采耳+耳浴  60分钟",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "promoDetail": "{\"title\":\"优惠明细\",\"promoItems\":[{\"title\":\"吃喝玩乐神券\",\"desc\":\"吃喝玩乐神券，3元无门槛优惠券\",\"promoPrice\":\"-￥3\"}],\"totalPromoLab\":\"共优惠：\",\"totalPromoPrice\":\"-￥3\"}",
+                "showType": 0,
+                "subDealTitle": "",
+                "tagInfo": [
+                  {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconCornerRadius": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconType": 0,
+                    "iconWidth": 0,
+                    "keepStyle": 0,
+                    "lineNum": 0,
+                    "priority": 0,
+                    "tagHeight": 0,
+                    "text": "已优惠3",
+                    "textType": 0,
+                    "type": 1
+                  }
+                ],
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1318670438",
+                "dealTitle": "166元 采耳60分钟|【招牌推荐】特级采耳+洗耳/头肩颈按摩",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "promoDetail": "{\"title\":\"优惠明细\",\"promoItems\":[{\"title\":\"吃喝玩乐神券\",\"desc\":\"吃喝玩乐神券，3元无门槛优惠券\",\"promoPrice\":\"-￥3\"}],\"totalPromoLab\":\"共优惠：\",\"totalPromoPrice\":\"-￥3\"}",
+                "showType": 0,
+                "subDealTitle": "",
+                "tagInfo": [
+                  {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconCornerRadius": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconType": 0,
+                    "iconWidth": 0,
+                    "keepStyle": 0,
+                    "lineNum": 0,
+                    "priority": 0,
+                    "tagHeight": 0,
+                    "text": "已优惠3",
+                    "textType": 0,
+                    "type": 1
+                  }
+                ],
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 45,
+            "shopStateInformation": [],
+            "shopType": 30,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "刮痧",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "头部按摩",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "SPA",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "精油SPA",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "拔罐",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.50",
+            "distance": "13.1km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 3,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "H2mDLhkQvaFZFXrF",
+            "shop_uuid": "H2mDLhkQvaFZFXrF",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H2mDLhkQvaFZFXrF&shopType=30"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLx": "{\"accountid\":76792736,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":36839752,\"targetid\":40205526,\"entityid\":1429508134,\"entitytype\":1,\"adshopid\":1429508134,\"product_id\":\"74\",\"sver\":\"2\",\"ad_ci\":\"Lg4YEDyJ8wEc3ZY6xZScXbSxys7AVOuIMJ3irPW2OQHWdSYWrWqZIw5DZoxVpuKqC0toP29ho37i\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.012341490674179523&recalled_match_unit=0&ad_cj=dtE08d5v7-x-8ToS-qWC5-6MqK0kDBQAgv61hM7Gfp_fET2BNueSzaJB2LKHr7OIqNjyKiXLc3riU1DCejoDTTumlArA_2BWaDPLNcEor47GzeLbA9sPYEyMEwlDGRZtLw-4Zbpwq8jGr08CtzDeDHAzvPNjUOOyCT-pHZJ3bmGuLFw54izP9few471mt4FsI4rK-CCoCfjdAjQIhIZvS8heZKeIh9o-5gQBJ93QHr-hKfNcXBEA7S4&ad_ci=dtE0_dg7uOd08i0d-7HG-uuOvaEzNkBWj_KxkJudP8SdTiaAeoLPkv5J2b2BpbSb8o-1aWzVeXD4U1DKei1VBSKghBaJtzZDJ2uOM5R46ceRsaCFW6htE0faEl9GGUduIw&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.21428850293159485&userid=2342114723&ecpcLambda=0.86|&rawpleadsnew=0.0&adshoptype=388&pcvr=0.005812479183077812&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&auctionTag=7|0&lite_set_cell=default-cell&floatRatio=30&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": "",
+            "categoryId": 1040,
+            "categoryName": "酒店婚宴/宴会",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/adunion/69bf2544f6988e5e64a32f48bd883635324289.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "宝玥宴·一站式婚宴中心",
+            "priceText": "2380元/桌起  3-50桌",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“陪姐姐来选婚礼场地”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "顾村公园",
+            "reviewCount": "368条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1097044426",
+                "dealTitle": "1元 【眼见为实-仅预约食材挑选档期】回门宴食材亲自挑",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1053142942",
+                "dealTitle": "10元 【实价成交】婚礼无增项",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 45,
+            "shopStateInformation": [],
+            "shopType": 55,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "顾村公园婚宴/宴会场地好评榜第2名",
+                "textColor": "#B15E2C",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "草坪婚礼",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "停车免费",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.70",
+            "distance": "15.1km",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "团",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 4,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "k6VlwwTeoA5SQ4Jy",
+            "shop_uuid": "k6VlwwTeoA5SQ4Jy",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=k6VlwwTeoA5SQ4Jy&shopType=55"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLx": "{\"accountid\":73488755,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":46172765,\"targetid\":88937349,\"entityid\":1593739515,\"entitytype\":1,\"adshopid\":1593739515,\"product_id\":\"315\",\"sver\":\"2\",\"ad_ci\":\"38vmoM7A771Pq3AIDiuXWMYPfarzVCNGbhVb92wePg2VnM4i4WZZETMFqL2WCplS7h4pa9jqheM\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=315&ad_biz=search-sieve&priceMode=7&pctr=0.007573068878800632&recalled_match_unit=0&ad_cj=JW3UxxhqzJxagVbQAvySq5He2mMdE3oDGBe3EALP93gbrqP4aC4C_sQ-QV_Uy8QKRFgwkVHaFk5pSCUMqPmTqJEQVu7pWRwxkKo9-0W2nztVyINw41P1dLrnbayIgsHMgCVh0qdNIyAgQleB9XWnjwLPiWyGxGeJFAk_dJNAKuE4L-UkenoEM62WD2-ZikW178gdLvAI92FPPFfPxNWxEdg2QYEMGaxg3qGu1fgvbflOA2TROw&ad_ci=JW3Uyx4-nJdbmFLREqvdu4De1GUMcSVRA0rhXViMvSVGteCoIElcoJg2QV3FkJhLCA9uwBLHRxMtRTVZ9rzJ-oULS_uxVQtngas_7B_j-Gxe19ApmDGGeb63OKvSj8zK&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.024950839579105377&discount=0.5&userid=2342114723&rawpleadsnew=0.0&adshoptype=3&pcvr=0.027930986136198044&adload_type=3&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=500&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3&discmode=1"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "聚丰园路店",
+            "categoryId": 50405,
+            "categoryName": "休闲按摩足浴",
+            "cityId": 1,
+            "defaultPic": "https://p1.meituan.net/adunion/baabf42905fc57d806e4952201130f67189266.png%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "彼爱荟美容会所",
+            "priceText": "￥284/人",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“从人民广场/南京路来上海大学的友友快来这家，值哭了好么！”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "上海大学",
+            "reviewCount": "135条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1501909398",
+                "dealTitle": "17.9元 特色手膜护理【叠加项目】",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "promoDetail": "{\"title\":\"优惠明细\",\"promoItems\":[{\"title\":\"吃喝玩乐神券\",\"desc\":\"吃喝玩乐神券，3元无门槛优惠券\",\"promoPrice\":\"-￥3\"}],\"totalPromoLab\":\"共优惠：\",\"totalPromoPrice\":\"-￥3\"}",
+                "showType": 0,
+                "subDealTitle": "",
+                "tagInfo": [
+                  {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconCornerRadius": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconType": 0,
+                    "iconWidth": 0,
+                    "keepStyle": 0,
+                    "lineNum": 0,
+                    "priority": 0,
+                    "tagHeight": 0,
+                    "text": "已优惠3",
+                    "textType": 0,
+                    "type": 1
+                  }
+                ],
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1496717810",
+                "dealTitle": "215元 120min｜头肩背腿+面部维养｜全身安心静心SPA",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "promoDetail": "{\"title\":\"优惠明细\",\"promoItems\":[{\"title\":\"吃喝玩乐神券\",\"desc\":\"吃喝玩乐神券，3元无门槛优惠券\",\"promoPrice\":\"-￥3\"},{\"title\":\"特惠促销\",\"desc\":\"下单立省180元，每人可享受1次\",\"promoPrice\":\"-￥180\"}],\"totalPromoLab\":\"共优惠：\",\"totalPromoPrice\":\"-￥183\"}",
+                "showType": 0,
+                "subDealTitle": "",
+                "tagInfo": [
+                  {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconCornerRadius": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconType": 0,
+                    "iconWidth": 0,
+                    "keepStyle": 0,
+                    "lineNum": 0,
+                    "priority": 0,
+                    "tagHeight": 0,
+                    "text": "2项已优惠183",
+                    "textType": 0,
+                    "type": 1
+                  }
+                ],
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 45,
+            "shopStateInformation": [],
+            "shopType": 30,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "SPA",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.50",
+            "distance": "13.0km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 5,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "DTaJMJV0ZXjSzxDX",
+            "shop_uuid": "DTaJMJV0ZXjSzxDX",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=DTaJMJV0ZXjSzxDX&shopType=30"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLx": "{\"accountid\":83028091,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":50307323,\"targetid\":96864990,\"entityid\":1011221973303583,\"entitytype\":1,\"adshopid\":1011221973303583,\"product_id\":\"74\",\"sver\":\"2\",\"ad_ci\":\"v4J4Q_C4ekV8g1x4HWeFy07G_cjLmgofveyjntIqSGBBu_sh_PHEtOC-rtyXXEWwtlWFZn3xsmw\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=1&pctr=0.038805108579682855&recalled_match_unit=0&ad_cj=LKECLdVq70TPze7gMwLE5SuR1GhW_-5JsmigGq0VR6FKMNJjjbHx-Lz0WCGtwtGsNDUTjLWtHeZnF3XNrkj4P3ExpT580GM5QGSvry8GCt4Z71idDCB7zfnSi-T6LgjI9Syol1bJKAfK0LW_tZ2q_2Xtq8tJbrOp8g8tPIYYx-3UTpOdhEH0UNDfn5v0lb9etts_LDURVdM_5zZH2XdzIWpyMHnOfHg9dEKbqDRNR_FCiozd8KAuEZ6BCkKZjKmZ_TDF&ad_ci=LKECIdM-vknO0-7iJ1OL9TqR2m5HnbUavnfzTO9ICuETcp03zNSpp-v4UCGpyNKqOTUTnfGxBf18RyWY8ET6KSx4pDU1iDEwRnS8ry8FAotAqEmTKjtczamHguX8Kgia&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.20630234479904175&userid=2342114723&freCtrl=false&rawpleadsnew=0.0&adshoptype=226&pcvr=0.038657329976558685&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=0&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "categoryId": 1783,
+            "categoryName": "家常菜",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/adunion/a142429ec73ec73edfd4d122a525f46e138301.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "日酒生情大排档小酒馆·小龙虾·烧烤",
+            "priceText": "￥88/人",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“别犹豫，快来体验上千人咨询过的好店🙋🏻‍♀️”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "上海大学",
+            "reviewCount": "265条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1519242914",
+                "dealTitle": "110元 双人暖心脆皮鸡煲套餐",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1642507014",
+                "dealTitle": "196元 双人龙虾烧烤尝鲜套餐",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 50,
+            "shopStateInformation": [],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "上海家常菜口味榜第1名",
+                "textColor": "#B15E2C",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "特色主题",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "有露天位",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "可带宠物",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "地铁直达",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "团队包场",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "老洋房",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "10人以下包厢",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.80",
+            "distance": "12.8km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 6,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "FlkYYYRpQ5mDwhOM",
+            "shop_uuid": "FlkYYYRpQ5mDwhOM",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=FlkYYYRpQ5mDwhOM&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLx": "{\"accountid\":71743955,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":40757583,\"targetid\":53360851,\"entityid\":22656889,\"entitytype\":1,\"adshopid\":22656889,\"product_id\":\"74\",\"sver\":\"2\",\"ad_ci\":\"p4lAtQ2mkg5UHJz6GiXtT10NgO56LOZewSGuWSl4tNLYrkjJUi7rHjUDCRMmwY7bq57osXCzeYA\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=6&pctr=0.05577242350473287&recalled_match_unit=0&ad_cj=Mgtfs4C9lhYhrw8vJ25n0iF2SXOyB4qLM0sV2ZneHJQFuyzmR0PS1EPpi2EzNBzFoHDjZZI5gTXFhjUxjmW1ra1fH_C0U0KA3WyIZXWk69RjhPIuElCslAFFUYIPPZLFZbca-m0zwuS_PnHoPumKHpxdEzk47OghYvsZtPx1Zb1sOTTGSAk3BAGhT2YbFk8siSGPJyJyLHblLVa17DvctEud_MX13R9tlWI7bt0_d0dF&ad_ci=Mgtfv4bpxhsntAgsOT8owjB2R3WjZdLfOFhDhNuHUNhd-WOxBCGOjx7sg3BmYluE9yW2N9p32GmX3m111yD__7lAHqi4RAeYzneMZQHx-N1nkqd3YTLfmApCUYIJOMPa&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.20205499231815338&userid=2342114723&freCtrl=false&rawpleadsnew=0.0&adshoptype=226&pcvr=0.030179539695382118&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=100&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": "1",
+            "branchName": "顾村公园正大乐城店",
+            "categoryId": 3243,
+            "categoryName": "新疆菜",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/adunion/a11205014ade164ff1e236ba26a0ab5a189298.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "耶里夏丽·新疆菜·喀什小馆",
+            "priceText": "￥84/人",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“从黄浦区来宝山区的友友快来这家，值哭了好么！”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "顾村公园",
+            "reviewCount": "16557条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1629249736",
+                "dealTitle": "98元 代金券1张",
+                "dealType": 2,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "券",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_coupon.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "spu",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "1296612742",
+                "dealTitle": "26元 【超大鸡腿】工作日单人餐｜烤鸡腿抓饭/炒饭/炒凉皮（3选1）",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 40,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "backgroundColor": "#FF6633",
+                "borderColor": "",
+                "cornerRadius": 1,
+                "fontSize": 11,
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "status",
+                "text": "连锁",
+                "textColor": "#FFFFFF",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 10,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "宝山区新疆菜打卡人气榜第1名",
+                "textColor": "#B15E2C",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "可预订",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "有宴会厅",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "有舞台表演",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "10人以下包厢",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "品牌连锁",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "开放厨房",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "特色主题",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.40",
+            "distance": "16.5km",
+            "hasTagList": true,
+            "serviceTags": [
+              {
+                "text": "买",
+                "url": "https://p1.meituan.net/wedding/3f098cc03a66b64ada152594d01395802486.png%402048w_2048h_0e_1l%7Cwatermark%3D0",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "订",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_book.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              },
+              {
+                "text": "促",
+                "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_promo.png",
+                "width": "32rpx",
+                "height": "32rpx"
+              }
+            ],
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 7,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "G23pklMuNqsUB1g2",
+            "shop_uuid": "G23pklMuNqsUB1g2",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=G23pklMuNqsUB1g2&shopType=10"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLx": "{\"accountid\":74287451,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":40977543,\"targetid\":54117455,\"entityid\":1119278428,\"entitytype\":1,\"adshopid\":1119278428,\"product_id\":\"315\",\"sver\":\"2\",\"ad_ci\":\"ZTJf_b94uSDmA2FNqTwlP2sDa5GrU9Q5a9j6Ce9a4SPUaewzMqO-TxfhBTWwE09O4SJKdTtjOA\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=315&ad_biz=search-sieve&priceMode=7&pctr=0.0071744635364078685&recalled_match_unit=0&ad_cj=3lkeH-5fB8S9MvZxMxY0L-jho2vnrESTcFldT3jhT83LUdm4cGjfwQewIJtdPxy_TkGUf0EoqjwWeed2nyEqZOZevmvKox1xBrNpoJLfpIsIZ7SdlsYg4SDAtDWaikzp-pbeJ2TGySIJ8ABWoPYcqg0BGsHbwlOQbAv04YK5rthMuiK2YeNjgdnA-2E6SND4HpRmQE_pRU7aIw8A3LLmks3Mecf-gSi0PfTju1ONKpUHFRF0&ad_ci=3lkeE-gLV8m0K_diZUx2K_v6p2uuxR3RKAIdFz2vEpzDRprsOA6BlFa_KYoIaVv-GRTBLQlm9GNSYrQo23ltO_9IqmvKox1iHLt4osqm7oAXNO3m9LUt4ySRtDmR0xY&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.023358091711997986&discount=0.3&userid=2342114723&rawpleadsnew=0.0&adshoptype=2&pcvr=0.016809018328785896&adload_type=3&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=0&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3&discmode=1"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "branchName": "宝山店",
+            "categoryId": 33955,
+            "categoryName": "皮肤管理",
+            "cityId": 1,
+            "defaultPic": "https://p1.meituan.net/adunion/9e405e5db34fe686ed9ad2531e434fd476412.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "LILIA MedSpa德国功效护肤沙龙",
+            "priceText": "￥401/人",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“总的来说是非常好的体验！而且开在家门口 会经常来光顾滴”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "上海大学",
+            "reviewCount": "668条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "721664799",
+                "dealTitle": "398元 60分钟美白嫩肤|德赞臣灯泡肌亮颜+深层水润祛黄气",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "721933791",
+                "dealTitle": "188.25元 70分钟补水修护|德赞臣多维水光+清洁｜德国清透白",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "promoDetail": "{\"title\":\"优惠明细\",\"promoItems\":[{\"title\":\"美团补贴\",\"desc\":\"下单立省9.75元，每人每日最多享受2次，总共可享受5次\",\"promoPrice\":\"-￥9.75\"},{\"title\":\"特惠促销\",\"desc\":\"下单立省240元，每人可享受99999999次\",\"promoPrice\":\"-￥240\"}],\"totalPromoLab\":\"共优惠：\",\"totalPromoPrice\":\"-￥249.75\"}",
+                "showType": 0,
+                "subDealTitle": "",
+                "tagInfo": [
+                  {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconCornerRadius": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconType": 0,
+                    "iconWidth": 0,
+                    "keepStyle": 0,
+                    "lineNum": 0,
+                    "priority": 0,
+                    "tagHeight": 0,
+                    "text": "2项已优惠249.75",
+                    "textType": 0,
+                    "type": 1
+                  }
+                ],
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 45,
+            "shopStateInformation": [
+              {
+                "alignType": 1,
+                "backgroundColor": "#FF6633",
+                "borderColor": "",
+                "cornerRadius": 1,
+                "fontSize": 11,
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 1,
+                "lineNum": 0,
+                "priority": 2,
+                "tagHeight": 0,
+                "tagName": "status",
+                "text": "连锁",
+                "textColor": "#FFFFFF",
+                "textSource": "secondLineShopStatus",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "shopType": 50,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#FFEEDF",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "https://img.meituan.net/dpmobile/939e581eb8a718f0b5fb42e1f57bcb653403.png",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 18,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 18,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "上海大学美容/SPA热门榜第2名",
+                "textColor": "#B15E2C",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "头部按摩",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              },
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "品牌连锁",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.50",
+            "distance": "12.9km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 8,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "G3pxexUJtp7i0sQV",
+            "shop_uuid": "G3pxexUJtp7i0sQV",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=G3pxexUJtp7i0sQV&shopType=50"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "adLx": "{\"accountid\":77772534,\"slotid\":60013,\"ad_request_id\":\"930e9554-c84f-460a-8769-401f1b1fd584\",\"launchid\":50409721,\"targetid\":97062473,\"entityid\":706877421,\"entitytype\":1,\"adshopid\":706877421,\"product_id\":\"74\",\"sver\":\"2\",\"ad_ci\":\"TrXVoxeUUWpSWxW11eNNphqpbuBlprjgqEn83QrMiLYDR_E3lro1zJoUUq8gie8izc9nKerYEw53\"}",
+              "adType": "26",
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=6&pctr=0.009328494041832596&recalled_match_unit=0&ad_cj=85sOB5SyLJtKTfSssloNWHGA_MTZydmEzfQRarHPpyVcpsR7wBwFsXgh1tP2QaoShfD47UGa_BWeYhyDOJVtu7uzbxYi7yWhv5PdbnocgMsuphz-5uL8SRMGbk4fRd7-rdfIObk57KVrlEoIJYm-xWRWwW1yhIPKn85mnklE3saAojq4TFr6PbXzPZg1iinfrfbkfcTmuSqRy7MRduLZtetSjuV43XN6KvDkzJ97Se4u3Vh3D_2e&ad_ci=85sOC5LmfZZPT-Out01JRXSC6cjO843RwvgRfOKT53sb-d96jH9c6iUr0NDzSb9F0ry_tQqP9RTXbBqDLsEw6b-ocgdmrmbs_NzdYyZf34BT8wesv5GePB4PPx0dGIX2rg&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.201764777302742&userid=2342114723&rawpleadsnew=0.0&adshoptype=4&pcvr=0.015398966148495674&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,21-7437:28148,20-1224:5395,20-1514:6677,20-7569:28565,21-1608:7076,21-6265:23974,20-7919:30123,21-4045:16094,21-7700:29090,21-248:1429,21-6455:29956,21-7498:29006,21-1472:6419,20-843:41814,20-574:2986,20-7596:28616,21-10268:37415,21-11478:41530,20-4630:18790,20-1544:6832,20-2835:11521,21-216:1188,20-1548:28362,21-109:868,20-4622:18726,20-7704:29100,21-1204:6541,21-157:775,20-10550:38401,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,21-279:1672,20-4667:18977,21-190:985,20-4325:17419,20-1594:7034,20-443:2513,21-981:4526,20-10644:41457,20-4495:18158,20-7522:28462,20-10535:38351,20-294:1781,21-81:232,20-4398:17713,20-10646:38828,21-82:1268,20-1537:24364,20-11470:41508,20-10740:39145,21-11455:41446,20-4657:18941,21-7634:28778,20-1318:5674,21-138:555,20-562:2903,20-766:3691,20-818:3808,21-257:23723,21-10514:38215,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,20-11395:41269,20-4625:18744,20-10527:38323,20-1026:4759,20-10264:37410,21-4373:17639,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_chenzonghui_1765889155556:1445126,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_ab_arena_ab_arena_dp_porn_risk_supervise:1480835,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,354-8229:31268,354-8232:31288,354-8239:31301,351-10722:39094,354-8224:31233,354-8244:31310,354-8218:31220,429-10284:37358,dpAdsFiled:default,,meishiRankTagClick10002:exp2,,ScriptPlayNewRankExp:true,searchAntiClimbExp:false,priceHighLightExp:A,ShopCardStyleExp:exp,,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=50&page_city_id=1&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=3"
+            },
+            "adShop": true,
+            "authorityLabelColor": "#22A3DD",
+            "categoryId": 50166,
+            "categoryName": "养老院/康养中心",
+            "cityId": 1,
+            "defaultPic": "https://p0.meituan.net/adunion/cad79c60fe6ad2cb48469b989ff9eac1257684.jpg%40180w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "name": "星辰家养老院",
+            "priceText": "￥6170",
+            "recommendReason": {
+              "alignType": 0,
+              "bizId": "index=1,source=ugccontent,type=ugccontent",
+              "cornerRadius": 0,
+              "fontSize": 12,
+              "from": "ad",
+              "iconAlignType": 0,
+              "iconCornerRadius": 0,
+              "iconHeight": 0,
+              "iconTextSpacing": 0,
+              "iconType": 0,
+              "iconWidth": 0,
+              "keepStyle": 0,
+              "lineNum": 0,
+              "priority": 0,
+              "tagHeight": 0,
+              "text": "“🍂店里环境没得说，服务超赞的”",
+              "textType": 1,
+              "type": 12
+            },
+            "regionName": "上海大学",
+            "reviewCount": "72条",
+            "searchDishList": [],
+            "shopDealInfos": [
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "891244771",
+                "dealTitle": "1元 到店礼",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              },
+              {
+                "countDownSeconds": 0,
+                "dealGroupPrice": 0,
+                "dealID": "891290419",
+                "dealTitle": "1元 量血糖",
+                "dealType": 1,
+                "iconType": 0,
+                "iconUrl": {
+                  "cornerRadius": 0,
+                  "fontSize": 0,
+                  "height": 16,
+                  "iconType": 0,
+                  "name": "团",
+                  "priority": 0,
+                  "type": 0,
+                  "url": "https://www.dpfile.com/sc/mobile/mapi-dp-web/search_list_tuan.png",
+                  "width": 16
+                },
+                "marketPrice": 0,
+                "mtProductId": 0,
+                "productType": "deal",
+                "showType": 0,
+                "subDealTitle": "",
+                "weAppShowType": 0
+              }
+            ],
+            "shopPower": 40,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [
+              {
+                "alignType": 0,
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "cornerRadius": 0,
+                "fontSize": 11,
+                "from": "ad",
+                "icon": "",
+                "iconAlignType": 0,
+                "iconCornerRadius": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconType": 0,
+                "iconWidth": 0,
+                "keepStyle": 0,
+                "lineNum": 0,
+                "priority": 0,
+                "tagHeight": 0,
+                "text": "支持医保",
+                "textColor": "#111111",
+                "textType": 0,
+                "type": 12
+              }
+            ],
+            "starScore": "4.20",
+            "distance": "13.1km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 9,
+            "listStart": 0,
+            "myLat": "31.230244",
+            "myLng": "121.473707",
+            "shopUuid": "l5a9kDAT10A9Rrho",
+            "shop_uuid": "l5a9kDAT10A9Rrho",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=l5a9kDAT10A9Rrho&shopType=80"
+            }
+          }
+        }
+      ],
+      "currentFilter": [
+        {
+          "count": 0,
+          "id": 0,
+          "lat": 0,
+          "lng": 0,
+          "name": "全城",
+          "parentId": -10000,
+          "regionType": 0,
+          "selected": false
+        },
+        {
+          "count": 0,
+          "distance": 0,
+          "favIcon": "",
+          "id": 0,
+          "name": "全部分类",
+          "parentId": 0,
+          "selected": false,
+          "sortId": 0
+        },
+        {
+          "id": "0",
+          "name": "智能排序",
+          "type": 3
+        },
+        {
+          "id": "0",
+          "name": "筛选"
+        }
+      ],
+      "selector": [
+        [
+          {
+            "id": -10000,
+            "name": "热门商区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 0,
+            "name": "全城",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 2527,
+            "name": "上海大学",
+            "parentId": -10000,
+            "num": 0
+          },
+          {
+            "id": 13,
+            "name": "宝山区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 13,
+            "name": "全部宝山区",
+            "parentId": 13,
+            "num": 0
+          },
+          {
+            "id": 2527,
+            "name": "上海大学",
+            "parentId": 13,
+            "num": 0
+          }
+        ],
+        [
+          {
+            "id": 0,
+            "name": "全部分类",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 10,
+            "name": "美食",
+            "parentId": 0,
+            "num": 25
+          },
+          {
+            "id": 10,
+            "name": "全部美食",
+            "parentId": 10,
+            "num": 25
+          },
+          {
+            "id": 101,
+            "name": "江浙菜",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 112,
+            "name": "小吃快餐",
+            "parentId": 10,
+            "num": 14
+          },
+          {
+            "id": 132,
+            "name": "咖啡",
+            "parentId": 10,
+            "num": 3
+          },
+          {
+            "id": 110,
+            "name": "火锅",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 116,
+            "name": "西餐",
+            "parentId": 10,
+            "num": 2
+          },
+          {
+            "id": 219,
+            "name": "小龙虾",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 508,
+            "name": "烧烤烤串",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 34236,
+            "name": "饮品",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 215,
+            "name": "面馆",
+            "parentId": 10,
+            "num": 3
+          },
+          {
+            "id": 118,
+            "name": "其他美食",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 104,
+            "name": "湘菜",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 2714,
+            "name": "水果生鲜",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 34351,
+            "name": "地方菜系",
+            "parentId": 10,
+            "num": 1
+          },
+          {
+            "id": 30,
+            "name": "休闲娱乐",
+            "parentId": 0,
+            "num": 7
+          },
+          {
+            "id": 30,
+            "name": "全部休闲娱乐",
+            "parentId": 30,
+            "num": 7
+          },
+          {
+            "id": 141,
+            "name": "按摩/足疗",
+            "parentId": 30,
+            "num": 1
+          },
+          {
+            "id": 2636,
+            "name": "运动健身",
+            "parentId": 30,
+            "num": 3
+          },
+          {
+            "id": 20042,
+            "name": "网吧/电竞",
+            "parentId": 30,
+            "num": 1
+          },
+          {
+            "id": 32732,
+            "name": "棋牌室",
+            "parentId": 30,
+            "num": 2
+          },
+          {
+            "id": 60,
+            "name": "酒店",
+            "parentId": 0,
+            "num": 13
+          },
+          {
+            "id": 60,
+            "name": "全部酒店",
+            "parentId": 60,
+            "num": 13
+          },
+          {
+            "id": 33841,
+            "name": "民宿",
+            "parentId": 60,
+            "num": 11
+          },
+          {
+            "id": 171,
+            "name": "经济型",
+            "parentId": 60,
+            "num": 2
+          },
+          {
+            "id": 33837,
+            "name": "快捷酒店",
+            "parentId": 60,
+            "num": 1
+          },
+          {
+            "id": 50,
+            "name": "丽人",
+            "parentId": 0,
+            "num": 7
+          },
+          {
+            "id": 50,
+            "name": "全部丽人",
+            "parentId": 50,
+            "num": 7
+          },
+          {
+            "id": 157,
+            "name": "美发",
+            "parentId": 50,
+            "num": 3
+          },
+          {
+            "id": 158,
+            "name": "美容/SPA",
+            "parentId": 50,
+            "num": 4
+          },
+          {
+            "id": 33761,
+            "name": "美甲美睫",
+            "parentId": 50,
+            "num": 1
+          },
+          {
+            "id": 2572,
+            "name": "祛痘",
+            "parentId": 50,
+            "num": 1
+          },
+          {
+            "id": 45,
+            "name": "运动健身",
+            "parentId": 0,
+            "num": 3
+          },
+          {
+            "id": 45,
+            "name": "全部运动健身",
+            "parentId": 45,
+            "num": 3
+          },
+          {
+            "id": 147,
+            "name": "健身中心",
+            "parentId": 45,
+            "num": 2
+          },
+          {
+            "id": 6701,
+            "name": "武术格斗",
+            "parentId": 45,
+            "num": 1
+          },
+          {
+            "id": 35,
+            "name": "景点/周边游",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 35,
+            "name": "全部景点/周边游",
+            "parentId": 35,
+            "num": 1
+          },
+          {
+            "id": 32744,
+            "name": "人文街区",
+            "parentId": 35,
+            "num": 1
+          },
+          {
+            "id": 70,
+            "name": "亲子",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 70,
+            "name": "全部亲子",
+            "parentId": 70,
+            "num": 1
+          },
+          {
+            "id": 34309,
+            "name": "早教",
+            "parentId": 70,
+            "num": 1
+          },
+          {
+            "id": 20,
+            "name": "购物",
+            "parentId": 0,
+            "num": 4
+          },
+          {
+            "id": 20,
+            "name": "全部购物",
+            "parentId": 20,
+            "num": 4
+          },
+          {
+            "id": 187,
+            "name": "超市便利",
+            "parentId": 20,
+            "num": 1
+          },
+          {
+            "id": 235,
+            "name": "药店",
+            "parentId": 20,
+            "num": 1
+          },
+          {
+            "id": 2714,
+            "name": "水果生鲜",
+            "parentId": 20,
+            "num": 1
+          },
+          {
+            "id": 95,
+            "name": "宠物",
+            "parentId": 0,
+            "num": 2
+          },
+          {
+            "id": 95,
+            "name": "全部宠物",
+            "parentId": 95,
+            "num": 2
+          },
+          {
+            "id": 25147,
+            "name": "宠物店",
+            "parentId": 95,
+            "num": 1
+          },
+          {
+            "id": 25148,
+            "name": "宠物医院",
+            "parentId": 95,
+            "num": 1
+          },
+          {
+            "id": 34042,
+            "name": "宠物食品用品",
+            "parentId": 95,
+            "num": 1
+          },
+          {
+            "id": 80,
+            "name": "生活服务",
+            "parentId": 0,
+            "num": 17
+          },
+          {
+            "id": 80,
+            "name": "全部生活服务",
+            "parentId": 80,
+            "num": 17
+          },
+          {
+            "id": 33971,
+            "name": "便民服务",
+            "parentId": 80,
+            "num": 10
+          },
+          {
+            "id": 34003,
+            "name": "金融服务",
+            "parentId": 80,
+            "num": 2
+          },
+          {
+            "id": 2934,
+            "name": "开锁换锁",
+            "parentId": 80,
+            "num": 1
+          },
+          {
+            "id": 979,
+            "name": "公司企业",
+            "parentId": 80,
+            "num": 3
+          },
+          {
+            "id": 75,
+            "name": "学习培训",
+            "parentId": 0,
+            "num": 10
+          },
+          {
+            "id": 75,
+            "name": "全部学习培训",
+            "parentId": 75,
+            "num": 10
+          },
+          {
+            "id": 2874,
+            "name": "美术",
+            "parentId": 75,
+            "num": 3
+          },
+          {
+            "id": 33757,
+            "name": "书法",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34129,
+            "name": "运动培训",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34306,
+            "name": "幼儿园",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34307,
+            "name": "托班/托儿所",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34309,
+            "name": "早教",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34320,
+            "name": "舞蹈培训",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34321,
+            "name": "国学",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 34324,
+            "name": "驾驶培训",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 50380,
+            "name": "课后辅导/托管",
+            "parentId": 75,
+            "num": 1
+          },
+          {
+            "id": 65,
+            "name": "养车/用车",
+            "parentId": 0,
+            "num": 6
+          },
+          {
+            "id": 65,
+            "name": "全部养车/用车",
+            "parentId": 65,
+            "num": 6
+          },
+          {
+            "id": 180,
+            "name": "停车场",
+            "parentId": 65,
+            "num": 5
+          },
+          {
+            "id": 85,
+            "name": "医疗健康",
+            "parentId": 0,
+            "num": 2
+          },
+          {
+            "id": 85,
+            "name": "全部医疗健康",
+            "parentId": 85,
+            "num": 2
+          },
+          {
+            "id": 182,
+            "name": "口腔医疗机构",
+            "parentId": 85,
+            "num": 1
+          },
+          {
+            "id": 2914,
+            "name": "中医机构",
+            "parentId": 85,
+            "num": 1
+          },
+          {
+            "id": 235,
+            "name": "药店",
+            "parentId": 85,
+            "num": 1
+          },
+          {
+            "id": 50124,
+            "name": "地名",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 50124,
+            "name": "全部地名",
+            "parentId": 50124,
+            "num": 1
+          },
+          {
+            "id": 50125,
+            "name": "交通地名",
+            "parentId": 50124,
+            "num": 1
+          },
+          {
+            "id": 50191,
+            "name": "通行设施",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 50191,
+            "name": "全部通行设施",
+            "parentId": 50191,
+            "num": 1
+          },
+          {
+            "id": 50208,
+            "name": "出入口",
+            "parentId": 50191,
+            "num": 1
+          },
+          {
+            "id": 50247,
+            "name": "商务住宅",
+            "parentId": 0,
+            "num": 3
+          },
+          {
+            "id": 50247,
+            "name": "全部商务住宅",
+            "parentId": 50247,
+            "num": 3
+          },
+          {
+            "id": 50249,
+            "name": "楼宇",
+            "parentId": 50247,
+            "num": 1
+          },
+          {
+            "id": 50248,
+            "name": "政府机构及社会团体",
+            "parentId": 0,
+            "num": 5
+          },
+          {
+            "id": 50248,
+            "name": "全部政府机构及社会团体",
+            "parentId": 50248,
+            "num": 5
+          },
+          {
+            "id": 50251,
+            "name": "社会团体",
+            "parentId": 50248,
+            "num": 2
+          },
+          {
+            "id": 50320,
+            "name": "公检法机构",
+            "parentId": 50248,
+            "num": 1
+          },
+          {
+            "id": 50333,
+            "name": "街道社区",
+            "parentId": 50248,
+            "num": 1
+          },
+          {
+            "id": 50342,
+            "name": "事业单位",
+            "parentId": 50248,
+            "num": 1
+          },
+          {
+            "id": 50392,
+            "name": "游玩",
+            "parentId": 0,
+            "num": 1
+          },
+          {
+            "id": 50392,
+            "name": "全部游玩",
+            "parentId": 50392,
+            "num": 1
+          },
+          {
+            "id": 50014,
+            "name": "休闲街区",
+            "parentId": 50392,
+            "num": 1
+          }
+        ],
+        [
+          {
+            "id": "0",
+            "name": "智能排序"
+          },
+          {
+            "id": "1",
+            "name": "距离优先"
+          },
+          {
+            "id": "2",
+            "name": "人气优先"
+          },
+          {
+            "id": "3",
+            "name": "好评优先"
+          },
+          {
+            "id": "8",
+            "name": "低价优先"
+          },
+          {
+            "id": "9",
+            "name": "高价优先"
+          }
+        ],
+        [
+          {
+            "name": "价格区间",
+            "multiSelectable": false,
+            "filters": [
+              {
+                "id": "3-avgprice_0~50",
+                "name": "50以下",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_50~100",
+                "name": "50-100",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_100~200",
+                "name": "100-200",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_200~300",
+                "name": "200-300",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_300~99999999",
+                "name": "300以上",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "更多",
+            "multiSelectable": true,
+            "filters": [
+              {
+                "id": "8-isnewshop_1",
+                "name": "新店",
+                "selected": false
+              },
+              {
+                "id": "4-10",
+                "name": "营业中",
+                "selected": false
+              },
+              {
+                "id": "8-shopnewtagid_309228",
+                "name": "可停车",
+                "selected": false
+              },
+              {
+                "id": "8-biztime_1",
+                "name": "24小时营业",
+                "selected": false
+              },
+              {
+                "id": "8-shopnewtagid_1116522|shopnewtagid_316712",
+                "name": "充电宝",
+                "selected": false
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "id": 3110,
+            "name": "7号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 66749,
+            "name": "祁华路站",
+            "parentId": 3110,
+            "num": 0
+          },
+          {
+            "id": 93979,
+            "name": "15号线",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 94002,
+            "name": "锦秋路站",
+            "parentId": 93979,
+            "num": 0
+          }
+        ]
+      ],
+      "hasMetro": true,
+      "showMetro": false
+    },
+    "loginCode": 200
+  },
+  "request_headers": {
+    "Host": "m.dianping.com",
+    "Connection": "keep-alive",
+    "mtgsig": "{\"a1\":\"1.2\",\"a2\":1779358833369,\"a3\":\"852w04x23y415ww3y88z04yyw246vzww80v534y81w147978x01x30vu\",\"a4\":\"2d1de38df70cbf468de31d2d46bf0cf754f9106712461c90\",\"a5\":\"CuGKu7xR2kMtez38FXJFOvCemp90IJ3i8tsYWXsOV8o6saAv4Zcw8V4GJAP+bBBaduKee5dyrnxicmVsR2UVMSSwDf8alQ/1BF1Fju+hDM2PCfyUsMO+rQe1ZzkqO3r95uInOWg9tvvwll1aTrUDa6YMgyOQxCyAeDZR+R26zdSHoWbg60UWiYQMv7lnAOWNHYyhm9FGUnAtXYvV2bNQEHDDaLXORxSvjavgUdcc17zLgN7PEyDzVJ5byhM+bLA81QEnlvOzGlQqmOGtv8MyWbmzh6a1wwJWVaAbbiiuhjOmGo8Hi7d57fwwSsYmuT+QR5rE2ii1uRHWUVZ=\",\"a6\":\"w1.6jhGj4HU0z2yy3jVle7Pzh95UtsLWH0VK/4W9Ac6+Pv3GDGtSBQVB59K++W9aGAA3YSHKwRSnl1PVNyMwAMsHxo9JvsiJf+jllepQg0Yen8a2KGOL+JvHVK6OU/fb2n43OVquIGuY614geur/450Uq9CkS3UdJBjCEeqYgG+4NsbZRzeFFNgCrFM3CIbzbikQwhxRk8c7LgOl11xFE6LvmeCpQJM/CuZdhqHrJ1tE8UHVEovcd3Nt+Ox1WVE2I6XBY7vZcwE1HoJ6neMMpj2vM6XhGEKUo4Y84fI69MNf0YE4h5Ma1P8LffgYZ+/EjTOP9YWTAdFFHYdBfiB9Li3yRqVtJAahoL4YGppyP2By0+vjmTppBn+iRLQ4LOnbv3gHmrapROIiSWjvoic44MvicasACyqQC/lZdgFJEc0XpeeVWKCVrEJ0xDwXfBHKThpzAq2JrIZiilqT/bc6v6Fr62mBQbiS7Ym+yTLaAVa72ZhYicDstGYzxSNFp3XwiA4w6UdCeWOFn6TrxsbkQjDKNg==\",\"a7\":\"wx734c1ad7b3562129\",\"x0\":3,\"d1\":\"1c323d74e0e29f2e7cc1760f4c0cfbc0\"}",
+    "openid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "channel": "weixin",
+    "channelversion": "4.1.1.4",
+    "minaversion": "10.10.4",
+    "wechatversion": "4.1.1.4",
+    "openIdCipher": "AwQAAABJAgAAAAEAAAAyAAAAPLgC95WH3MyqngAoyM/hf1hEoKrGdo0pJ5DI44e1wGF9AT3PH7Wes03actC2n/GVnwfURonD78PewMUppAAAADgXCsBM1jVUCpSCseRHuUc11ngYIMQ00ht+pfWq0IYrDpyUYe9AVSMrX20R6Le5XaFqOKyTOslA/w==",
+    "sdkversion": "3.8.10",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) XWEB/14910",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "Content-Type": "application/json",
+    "openidPlt": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "xweb_xhr": "1",
+    "platformversion": "6.17.0-23-generic x86_64",
+    "platform": "Android",
+    "minaname": "dianping-wxapp",
+    "token": "0202ff206dfc6b26d068b130c70c98a1c2254fc5df614338803eecb5269c15f18f160ede36cc58cd33685ef3d727fa3f95561580eb90d2483390000000008f35000074835de90af38d78206f8a320cefa6e98675b9096fd08d28a044f68e4527ec391553406282e81e4cd41404844593b482",
+    "Accept": "*/*",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://servicewechat.com/wx734c1ad7b3562129/693/page-frame.html",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9"
+  },
+  "request_cookies": ""
+}

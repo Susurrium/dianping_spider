@@ -1,0 +1,221 @@
+{
+  "url": "https://m.dianping.com/wxmapi/wxsearch/search?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&page=searchresultlist&_=1779313265066&cookieId=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&cityId=2&openid=oPpUI0amwL-qowGmqt--0SgNTrqw&lxcuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&locateCityid=16&categoryId=0&sortId=0&regionId=0&lat=39.904526&lng=116.407335&myLat=39.904526&myLng=116.407335&keyword=%E9%80%B8%E4%BB%99%E8%B7%AF%E5%BA%97%20%E9%80%B8%E4%BB%99%E8%B7%AF519%E5%8F%B71%E5%B1%8208%E5%AE%A4&start=0&noProfile=10&mtsiReferrer=%252Fpages%252Flist%252Flist%253F_%253D1779313265066%2526cookieId%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526dpid%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526cityId%253D2%2526openid%253DoPpUI0amwL-qowGmqt--0SgNTrqw%2526lxcuid%253D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%2526locateCityid%253D16%2526categoryId%253D0%2526sortId%253D0%2526regionId%253D0%2526lat%253D39.904526%2526lng%253D116.407335%2526myLat%253D39.904526%2526myLng%253D116.407335%2526keyword%253D%25E9%2580%25B8%25E4%25BB%2599%25E8%25B7%25AF%25E5%25BA%2597%2520%25E9%2580%25B8%25E4%25BB%2599%25E8%25B7%25AF519%25E5%258F%25B71%25E5%25B1%258208%25E5%25AE%25A4%2526start%253D0%2526noProfile%253D10&cPosition=8108&device_system=LINUX&wxmp_version=10.10.4",
+  "params": {
+    "yodaReady": "wx",
+    "csecappid": "wx734c1ad7b3562129",
+    "csecplatform": "3",
+    "csecversionname": "10.10.4",
+    "csecversion": "1.4.0",
+    "optimus_uuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "optimus_platform": "13",
+    "optimus_partner": "203",
+    "optimus_risk_level": "71",
+    "optimus_code": "10",
+    "page": "searchresultlist",
+    "_": "1779313265066",
+    "cookieId": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "cityId": "2",
+    "openid": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "lxcuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "locateCityid": "16",
+    "categoryId": "0",
+    "sortId": "0",
+    "regionId": "0",
+    "lat": "39.904526",
+    "lng": "116.407335",
+    "myLat": "39.904526",
+    "myLng": "116.407335",
+    "keyword": "逸仙路店 逸仙路519号1层08室",
+    "start": "0",
+    "noProfile": "10",
+    "mtsiReferrer": "%2Fpages%2Flist%2Flist%3F_%3D1779313265066%26cookieId%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26dpid%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26cityId%3D2%26openid%3DoPpUI0amwL-qowGmqt--0SgNTrqw%26lxcuid%3D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%26locateCityid%3D16%26categoryId%3D0%26sortId%3D0%26regionId%3D0%26lat%3D39.904526%26lng%3D116.407335%26myLat%3D39.904526%26myLng%3D116.407335%26keyword%3D%E9%80%B8%E4%BB%99%E8%B7%AF%E5%BA%97%20%E9%80%B8%E4%BB%99%E8%B7%AF519%E5%8F%B71%E5%B1%8208%E5%AE%A4%26start%3D0%26noProfile%3D10",
+    "cPosition": "8108",
+    "device_system": "LINUX",
+    "wxmp_version": "10.10.4"
+  },
+  "data": {
+    "code": 200,
+    "data": {
+      "queryId": "1f59148e-2fff-43fa-8e7e-9746006c5393",
+      "isEnd": true,
+      "currentFilter": [
+        {
+          "count": 0,
+          "id": 0,
+          "lat": 0,
+          "lng": 0,
+          "name": "全城",
+          "parentId": -10000,
+          "regionType": 0,
+          "selected": false
+        },
+        {
+          "count": 0,
+          "distance": 0,
+          "favIcon": "",
+          "id": 0,
+          "name": "全部分类",
+          "parentId": 0,
+          "selected": false,
+          "sortId": 0
+        },
+        {
+          "id": "0",
+          "name": "智能排序",
+          "type": 3
+        },
+        {
+          "id": "0",
+          "name": "筛选"
+        }
+      ],
+      "selector": [
+        [
+          {
+            "id": -10000,
+            "name": "热门商区",
+            "parentId": 0,
+            "num": 0
+          },
+          {
+            "id": 0,
+            "name": "全城",
+            "parentId": -10000,
+            "num": 0
+          }
+        ],
+        [
+          {
+            "id": 0,
+            "name": "全部分类",
+            "parentId": 0,
+            "num": 0
+          }
+        ],
+        [
+          {
+            "id": "0",
+            "name": "智能排序"
+          },
+          {
+            "id": "1",
+            "name": "距离优先"
+          },
+          {
+            "id": "2",
+            "name": "人气优先"
+          },
+          {
+            "id": "3",
+            "name": "好评优先"
+          },
+          {
+            "id": "8",
+            "name": "低价优先"
+          },
+          {
+            "id": "9",
+            "name": "高价优先"
+          }
+        ],
+        [
+          {
+            "name": "价格区间",
+            "multiSelectable": false,
+            "filters": [
+              {
+                "id": "3-avgprice_0~50",
+                "name": "50以下",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_50~100",
+                "name": "50-100",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_100~200",
+                "name": "100-200",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_200~300",
+                "name": "200-300",
+                "selected": false
+              },
+              {
+                "id": "3-avgprice_300~99999999",
+                "name": "300以上",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "更多",
+            "multiSelectable": true,
+            "filters": [
+              {
+                "id": "8-isnewshop_1",
+                "name": "新店",
+                "selected": false
+              },
+              {
+                "id": "4-10",
+                "name": "营业中",
+                "selected": false
+              },
+              {
+                "id": "8-shopnewtagid_309228",
+                "name": "可停车",
+                "selected": false
+              },
+              {
+                "id": "8-biztime_1",
+                "name": "24小时营业",
+                "selected": false
+              },
+              {
+                "id": "8-shopnewtagid_1116522|shopnewtagid_316712",
+                "name": "充电宝",
+                "selected": false
+              }
+            ]
+          }
+        ]
+      ],
+      "hasMetro": false,
+      "showMetro": false
+    },
+    "loginCode": 200
+  },
+  "request_headers": {
+    "Host": "m.dianping.com",
+    "Connection": "keep-alive",
+    "mtgsig": "{\"a1\":\"1.2\",\"a2\":1779313265071,\"a3\":\"852w04x23y415ww3y88z04yyw246vzww80v534y81w147978x01x30vu\",\"a4\":\"47ab1edf7b88081ddf1eab471d08887b70d7fe006ddf767b\",\"a5\":\"DBDSUyzcwkMopqf67g1NGEFkX4BnW/pV/UuYVTgiDM1Uxz3DGmpxwI6uQ5iOKaUikEfgmH5fYAI/SHtCVtQTq/aEHSt6O83Fmi3UNaeUiTtwFb/94UpiBJuggJWRabYah7EH5w3JY5m77n31FCg6miZXp4qa8PGg2jYUfhRd/qb77AI0g4JaC3/Klnaw72DwLswKEiJ0F+qTE+OAGbScMJwIzf/Yd9gcV3OuP1cXPnlAql/2cEpq+aYSrFgXSodGsP/tQ04SM+X3xMsjTnbDqyNK+VKu7v4yb4V6fxRPACI6gCmSe5LLGY8phCsCPfpnyzdyBl9icuChZWSDaCqijJaDGzPFb8/54ToRAX0xffw2WzRQd27AIzOaw/ffpuUA4ftbLguj1rFlyGOetwZ=\",\"a6\":\"w1.6H0z6642Voql4AagJd6ojV+JTVAlRqEEELJmyly8SF5UinJtIU5HfXPOhCcD5aomT6E2yDgVXV4pPq67rFPElO5Z9H0I+KXyXa/YFRcSh1tzeRLRg4dzRe2ZzrfVq0dt83SXaFZjzT1zUfhih9SqSElYCbXw09gHx7vpm4iYe9pzT2nUBPpYAisLirvG5Fo47KqqpT4jYYPRglst+ZUccULpzhMDAREnYYVGZ2M5a/NhE9w4LroZ0W43zx+Q4UgI69nk71cM7JaK3txyYNr0hu2PsHaOviCu/voKubparspAXJdsT7B/19sNDb0Iob2Gz8m0R/6/vE0KjVdH2Q7yiZzw1WX4vdQTqppgYJ2U8WvMxLPZESF/B0hKszQxTkqeL3odmJozGpk4vOqBYjF/u5FlUqyH40Ey+vbLfm7YHNcY+qqT8S4rLnUlkmHjSospeiLbhyOd+GV1nufcM1ofYgLTES0lpXg4jRjsL97fjpvMPTz+iPOkvaoWImOZPIH6uEgNN/Am0Fz7pxKwaDtP3lA==\",\"a7\":\"wx734c1ad7b3562129\",\"x0\":3,\"d1\":\"0f511f3ad86cb98c66a4761d944c9910\"}",
+    "openid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "channel": "weixin",
+    "channelversion": "4.1.1.4",
+    "minaversion": "10.10.4",
+    "wechatversion": "4.1.1.4",
+    "openIdCipher": "AwQAAABJAgAAAAEAAAAyAAAAPLgC95WH3MyqngAoyM/hf1hEoKrGdo0pJ5DI44e1wGF9AT3PH7Wes03actC2n/GVnwfURonD78PewMUppAAAADi5klkizLD1WxFhOBiGOKdSGqAGcnyXHZMutWW/HvYFMBxPZIjyG/P9CAjsysORou2RCD9kiaHo1A==",
+    "sdkversion": "3.8.10",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) XWEB/14910",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "Content-Type": "application/json",
+    "openidPlt": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "xweb_xhr": "1",
+    "platformversion": "6.17.0-23-generic x86_64",
+    "platform": "Android",
+    "minaname": "dianping-wxapp",
+    "token": "02021726875a43eea288f22cbbd527e56fe488687dfef66ebda459d11141d999bf3c1bdaf53bd8529b03e3d568372b1a0ac5c0cc0bf82c33bdfc00000000f43400003a87b6afc1ec494d9347f4d361c5a38f2a563280a598814dfbee47cfe4d347d6aa4d8b6f3299b772a07841f0dc68aa86",
+    "Accept": "*/*",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://servicewechat.com/wx734c1ad7b3562129/693/page-frame.html",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9"
+  },
+  "request_cookies": ""
+}

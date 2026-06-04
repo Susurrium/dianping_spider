@@ -1,0 +1,308 @@
+{
+  "stage": "search_city_mismatch",
+  "store": "达美乐比萨(华秋路店)",
+  "address": "上海华秋路58弄25-26号",
+  "window": {
+    "window_id": "71303199",
+    "name": "大众点评美食电影运动旅游门票",
+    "x": 1622,
+    "y": 221,
+    "width": 914,
+    "height": 882,
+    "pid": "6860",
+    "cmdline": "/tmp/appimage_extracted_68b6165d45f762a820e8d12f8e7a5cf6/opt/wechat/RadiumWMPF/runtime/WeChatAppEx --log-level=2 --lang=zh-CN --wechat-files-path=/home/hetaisheng/文档/xwechat_files --product-id=1002 --wechat-sub-user-agent=MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) --web-translate --client_version=4067692804 --wmpf_root_dir=/home/hetaisheng/.xwechat/radium --enable-applet-v3 --wmpf-drm-plugin-path --no-preload --mojo-platform-channel-handle=3"
+  },
+  "recent_events": [
+    {
+      "timestamp": "2026-05-21T23:34:19",
+      "type": "search",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_233419.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "k11zdiz66hmg96oy",
+          "name": "蜜雪冰城",
+          "branch": "理工大东门店",
+          "address": "",
+          "region": "南湖花园",
+          "cityId": "16",
+          "reviewCount": "281条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H1hs7CzNJHUav0yb",
+          "name": "金婶·鸽子·烤全羊·特色菜",
+          "branch": "文治街店",
+          "address": "",
+          "region": "石牌岭/街道口",
+          "cityId": "16",
+          "reviewCount": "7350条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:34:29",
+      "type": "search",
+      "keyword": "九筒烧烤龙虾华农店",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 1,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_233429.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "G6fOipIZtznr2eP2",
+          "name": "九筒烧烤龙虾",
+          "branch": "华农店",
+          "address": "",
+          "region": "南湖花园",
+          "cityId": "16",
+          "reviewCount": "885条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:34:47",
+      "type": "search",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_233447.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "k11zdiz66hmg96oy",
+          "name": "蜜雪冰城",
+          "branch": "理工大东门店",
+          "address": "",
+          "region": "南湖花园",
+          "cityId": "16",
+          "reviewCount": "281条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H1hs7CzNJHUav0yb",
+          "name": "金婶·鸽子·烤全羊·特色菜",
+          "branch": "文治街店",
+          "address": "",
+          "region": "石牌岭/街道口",
+          "cityId": "16",
+          "reviewCount": "7350条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:34:55",
+      "type": "search",
+      "keyword": "达美乐比萨 华秋路店",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 7,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_233455.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "l8kqlZodGReNcv6y",
+          "name": "达美乐比萨",
+          "branch": "华秋路店",
+          "address": "",
+          "region": "上海大学",
+          "cityId": "1",
+          "reviewCount": "930条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G7AA73mQhVEeozHS",
+          "name": "达美乐比萨",
+          "branch": "尚北路店",
+          "address": "",
+          "region": "宝山区",
+          "cityId": "1",
+          "reviewCount": "249条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:51:58",
+      "type": "search",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_235156.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "k11zdiz66hmg96oy",
+          "name": "蜜雪冰城",
+          "branch": "理工大东门店",
+          "address": "",
+          "region": "南湖花园",
+          "cityId": "16",
+          "reviewCount": "281条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H1hs7CzNJHUav0yb",
+          "name": "金婶·鸽子·烤全羊·特色菜",
+          "branch": "文治街店",
+          "address": "",
+          "region": "石牌岭/街道口",
+          "cityId": "16",
+          "reviewCount": "7350条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:52:37",
+      "type": "city_context",
+      "cityId": "16"
+    },
+    {
+      "timestamp": "2026-05-21T23:53:01",
+      "type": "search",
+      "keyword": "达美乐比萨 华秋路店",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 7,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_235258.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "l8kqlZodGReNcv6y",
+          "name": "达美乐比萨",
+          "branch": "华秋路店",
+          "address": "",
+          "region": "上海大学",
+          "cityId": "1",
+          "reviewCount": "930条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G7AA73mQhVEeozHS",
+          "name": "达美乐比萨",
+          "branch": "尚北路店",
+          "address": "",
+          "region": "宝山区",
+          "cityId": "1",
+          "reviewCount": "249条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:53:08",
+      "type": "search",
+      "keyword": "免费试吃",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_235308.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "H2dcHoS7LKGrndWm",
+          "name": "好利来",
+          "branch": "银泰店",
+          "address": "",
+          "region": "广埠屯",
+          "cityId": "16",
+          "reviewCount": "768条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H89b0wEiM8iYBHw2",
+          "name": "UH祐禾",
+          "branch": "银泰创意城店",
+          "address": "",
+          "region": "广埠屯",
+          "cityId": "16",
+          "reviewCount": "1395条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:53:09",
+      "type": "search",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 10,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_235308.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "k11zdiz66hmg96oy",
+          "name": "蜜雪冰城",
+          "branch": "理工大东门店",
+          "address": "",
+          "region": "南湖花园",
+          "cityId": "16",
+          "reviewCount": "281条"
+        },
+        {
+          "rank": "1",
+          "uuid": "H1hs7CzNJHUav0yb",
+          "name": "金婶·鸽子·烤全羊·特色菜",
+          "branch": "文治街店",
+          "address": "",
+          "region": "石牌岭/街道口",
+          "cityId": "16",
+          "reviewCount": "7350条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:53:13",
+      "type": "city_context",
+      "cityId": "16",
+      "locateCityid": "16"
+    },
+    {
+      "timestamp": "2026-05-21T23:53:13",
+      "type": "search",
+      "keyword": "达美乐比萨 华秋路店",
+      "cityId": "16",
+      "locateCityid": "16",
+      "candidate_count": 7,
+      "start": "0",
+      "saved_path": "/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/search_235313.json",
+      "candidates": [
+        {
+          "rank": "0",
+          "uuid": "l8kqlZodGReNcv6y",
+          "name": "达美乐比萨",
+          "branch": "华秋路店",
+          "address": "",
+          "region": "上海大学",
+          "cityId": "1",
+          "reviewCount": "930条"
+        },
+        {
+          "rank": "1",
+          "uuid": "G7AA73mQhVEeozHS",
+          "name": "达美乐比萨",
+          "branch": "尚北路店",
+          "address": "",
+          "region": "宝山区",
+          "cityId": "1",
+          "reviewCount": "249条"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-05-21T23:53:15",
+      "type": "city_context",
+      "cityId": "1",
+      "locateCityid": "16"
+    }
+  ]
+}

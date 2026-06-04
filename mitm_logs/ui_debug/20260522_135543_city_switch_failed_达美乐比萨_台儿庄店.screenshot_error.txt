@@ -1,0 +1,1 @@
+Command '['xwd', '-silent', '-id', '88080406', '-out', '/media/hetaisheng/thinkplus/dianping_spider/mitm_logs/ui_debug/20260522_135543_city_switch_failed_达美乐比萨_台儿庄店.xwd']' timed out after 15 seconds

@@ -1,0 +1,567 @@
+{
+  "url": "https://m.dianping.com/wx/program/minitakeoutsearch.bin?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&keyword=%E8%BE%BE%E7%BE%8E%E4%B9%90%E6%AF%94%E8%90%A8&selectedCityId=16&selectedLat=30.59276008605957&selectedLng=114.30525207519531&pageIndex=20&pageSize=10&filterSpeed=&filterScore=&filterMix=&lxsdk_cuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&device_system=LINUX&wxmp_version=10.10.4",
+  "params": {
+    "yodaReady": "wx",
+    "csecappid": "wx734c1ad7b3562129",
+    "csecplatform": "3",
+    "csecversionname": "10.10.4",
+    "csecversion": "1.4.0",
+    "keyword": "达美乐比萨",
+    "selectedCityId": "16",
+    "selectedLat": "30.59276008605957",
+    "selectedLng": "114.30525207519531",
+    "pageIndex": "20",
+    "pageSize": "10",
+    "filterSpeed": "",
+    "filterScore": "",
+    "filterMix": "",
+    "lxsdk_cuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "device_system": "LINUX",
+    "wxmp_version": "10.10.4"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "msg": "成功",
+    "result": {
+      "takeoutShopList": [
+        {
+          "shopId": "27498359",
+          "schema": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=gc2JWjvOUh3sqjlIsp-kZwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+          "shopPic": "https://p0.meituan.net/waimaipoi/783352ddbcf7906357f23e1c26fae06a443372.jpg",
+          "shopIcon": null,
+          "shopIconWidth": null,
+          "shopIconHeight": null,
+          "shopCategory": "意面披萨",
+          "shopName": "达美乐比萨代购（武汉金地店）",
+          "shopScoreIcon": "https://p0.meituan.net/scarlett/5bfa0e3732d6f468fd3faf1207c16269980.png",
+          "shopScoreText": "4.6",
+          "commentsCount": null,
+          "avgPrice": 44,
+          "mtQuickDeliveryTagIcon": null,
+          "deliveryFee": "配送 ¥15",
+          "minDeliveryPrice": "起送 ¥0",
+          "deliveryTime": null,
+          "distance": null,
+          "coupon": {
+            "couponDesc": "满28可用",
+            "backgroundImage": "https://p1.meituan.net/api/96f1e10c92543a920e00f9c4c3fc4e2238091.png",
+            "jumpUrl": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=gc2JWjvOUh3sqjlIsp-kZwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+            "couponPrice": "10",
+            "guideBtnText": "去使用"
+          },
+          "fourthLineTagList": null,
+          "takeoutItemList": [
+            {
+              "itemId": "19485330626",
+              "itemName": "经典意式肉酱比萨🍕",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/06f0a05e1630ae676e87ca9859240d09573679.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=19485330626&source=1&code=97&poi_id_str=gc2JWjvOUh3sqjlIsp-kZwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "19485093105",
+              "itemName": "金沙咸蛋黄嫩鸡比萨🍕",
+              "itemPicUrl": "https://p1.meituan.net/wmproduct/97348a29606bcab71dad4cb4b7e9a354581400.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=19485093105&source=1&code=97&poi_id_str=gc2JWjvOUh3sqjlIsp-kZwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥89",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "19485330625",
+              "itemName": "韩式炸鸡滋香比萨🍕",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/c79ecbf81dff7006121f8196b17f8763585805.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=19485330625&source=1&code=97&poi_id_str=gc2JWjvOUh3sqjlIsp-kZwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "19735098821",
+              "itemName": "经典意式肉酱比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/2a0aafed80302753497584972f6a2cbe155661.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=19735098821&source=1&code=97&poi_id_str=gc2JWjvOUh3sqjlIsp-kZwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "19485532466",
+              "itemName": "美国风情土豆培根比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/a8398e8e1a9d4b00b795a9d402e8b1ee1495040.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=19485532466&source=1&code=97&poi_id_str=gc2JWjvOUh3sqjlIsp-kZwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥69",
+              "itemPriceDesc": null
+            }
+          ]
+        },
+        {
+          "shopId": "24052841",
+          "schema": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=rjiin12T4N2ynALjoDh-QwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+          "shopPic": "https://p0.meituan.net/waimaipoi/783352ddbcf7906357f23e1c26fae06a443372.jpg",
+          "shopIcon": null,
+          "shopIconWidth": null,
+          "shopIconHeight": null,
+          "shopCategory": "意面披萨",
+          "shopName": "达美乐比萨代购(汉商银座店)",
+          "shopScoreIcon": "https://p0.meituan.net/scarlett/5bfa0e3732d6f468fd3faf1207c16269980.png",
+          "shopScoreText": "4.6",
+          "commentsCount": null,
+          "avgPrice": null,
+          "mtQuickDeliveryTagIcon": null,
+          "deliveryFee": "配送 ¥9",
+          "minDeliveryPrice": "起送 ¥0",
+          "deliveryTime": null,
+          "distance": null,
+          "coupon": {
+            "couponDesc": "无门槛",
+            "backgroundImage": "https://p1.meituan.net/api/96f1e10c92543a920e00f9c4c3fc4e2238091.png",
+            "jumpUrl": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=rjiin12T4N2ynALjoDh-QwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+            "couponPrice": "3",
+            "guideBtnText": "去使用"
+          },
+          "fourthLineTagList": null,
+          "takeoutItemList": [
+            {
+              "itemId": "16297836184",
+              "itemName": "经典意式肉酱比萨🍕",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/06f0a05e1630ae676e87ca9859240d09573679.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=16297836184&source=1&code=97&poi_id_str=rjiin12T4N2ynALjoDh-QwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "16298506211",
+              "itemName": "金沙咸蛋黄嫩鸡比萨🍕",
+              "itemPicUrl": "https://p1.meituan.net/wmproduct/97348a29606bcab71dad4cb4b7e9a354581400.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=16298506211&source=1&code=97&poi_id_str=rjiin12T4N2ynALjoDh-QwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥89",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "16297597154",
+              "itemName": "韩式炸鸡滋香比萨🍕",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/c79ecbf81dff7006121f8196b17f8763585805.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=16297597154&source=1&code=97&poi_id_str=rjiin12T4N2ynALjoDh-QwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "19730044693",
+              "itemName": "经典意式肉酱比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/2a0aafed80302753497584972f6a2cbe155661.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=19730044693&source=1&code=97&poi_id_str=rjiin12T4N2ynALjoDh-QwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "16151584405",
+              "itemName": "[DD]超值比萨单人餐",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/9347ff21bc3f90c5815c70e89f3c310c574511.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=16151584405&source=1&code=97&poi_id_str=rjiin12T4N2ynALjoDh-QwI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥67.86",
+              "itemPriceDesc": null
+            }
+          ]
+        },
+        {
+          "shopId": "31921278",
+          "schema": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=xCCqzUWvMbWWcefdo8-DrAI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+          "shopPic": "https://p0.meituan.net/waimaipoi/0a7cd0e42f0174699864351c7631997e143845.jpg",
+          "shopIcon": null,
+          "shopIconWidth": null,
+          "shopIconHeight": null,
+          "shopCategory": "意面披萨",
+          "shopName": "达美乐比萨代购（武汉菱角湖万达广场店）",
+          "shopScoreIcon": "https://p0.meituan.net/scarlett/5bfa0e3732d6f468fd3faf1207c16269980.png",
+          "shopScoreText": "4.5",
+          "commentsCount": null,
+          "avgPrice": null,
+          "mtQuickDeliveryTagIcon": null,
+          "deliveryFee": "免配送费",
+          "minDeliveryPrice": "起送 ¥0",
+          "deliveryTime": null,
+          "distance": null,
+          "coupon": {
+            "couponDesc": "无门槛",
+            "backgroundImage": "https://p1.meituan.net/api/96f1e10c92543a920e00f9c4c3fc4e2238091.png",
+            "jumpUrl": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=xCCqzUWvMbWWcefdo8-DrAI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+            "couponPrice": "3",
+            "guideBtnText": "去使用"
+          },
+          "fourthLineTagList": null,
+          "takeoutItemList": [
+            {
+              "itemId": "24742495977",
+              "itemName": "经典意式肉酱披萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/46fdc4ff71fb3dface5249dba0df16746806679.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=24742495977&source=1&code=97&poi_id_str=xCCqzUWvMbWWcefdo8-DrAI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "24742495973",
+              "itemName": "韩式炸鸡滋香披萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/52ebe1a087d2861d8aaf7eb5d46094465461167.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=24742495973&source=1&code=97&poi_id_str=xCCqzUWvMbWWcefdo8-DrAI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "25620904584",
+              "itemName": "金沙咸蛋黄嫩鸡“可颂”披萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/9d135287177aae151567bf2246953852244436.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=25620904584&source=1&code=97&poi_id_str=xCCqzUWvMbWWcefdo8-DrAI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥121.5",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "25620904583",
+              "itemName": "意式帕帕罗尼腊肠  “可颂”披萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/77d11175ef25c69998cbeba944d2603b231847.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=25620904583&source=1&code=97&poi_id_str=xCCqzUWvMbWWcefdo8-DrAI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥121.5",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "25620904586",
+              "itemName": "意式肉酱肉肉PLUS“可颂”披萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/9e8886bc1c44548309de645407f541ec254199.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=25620904586&source=1&code=97&poi_id_str=xCCqzUWvMbWWcefdo8-DrAI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥106.5",
+              "itemPriceDesc": null
+            }
+          ]
+        },
+        {
+          "shopId": "32334413",
+          "schema": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=mnwulv0OUkU1QTA7pzn3HQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+          "shopPic": "https://p0.meituan.net/waimaipoi/783352ddbcf7906357f23e1c26fae06a443372.jpg",
+          "shopIcon": null,
+          "shopIconWidth": null,
+          "shopIconHeight": null,
+          "shopCategory": "意面披萨",
+          "shopName": "达美乐比萨代购（常青花园店）",
+          "shopScoreIcon": "https://p0.meituan.net/scarlett/5bfa0e3732d6f468fd3faf1207c16269980.png",
+          "shopScoreText": "4.6",
+          "commentsCount": null,
+          "avgPrice": null,
+          "mtQuickDeliveryTagIcon": null,
+          "deliveryFee": "配送 ¥12",
+          "minDeliveryPrice": "起送 ¥0",
+          "deliveryTime": null,
+          "distance": null,
+          "coupon": null,
+          "fourthLineTagList": null,
+          "takeoutItemList": [
+            {
+              "itemId": "24987715159",
+              "itemName": "经典意式肉酱比萨🍕",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/06f0a05e1630ae676e87ca9859240d09573679.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=24987715159&source=1&code=97&poi_id_str=mnwulv0OUkU1QTA7pzn3HQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "24973663529",
+              "itemName": "金沙咸蛋黄嫩鸡比萨🍕",
+              "itemPicUrl": "https://p1.meituan.net/wmproduct/97348a29606bcab71dad4cb4b7e9a354581400.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=24973663529&source=1&code=97&poi_id_str=mnwulv0OUkU1QTA7pzn3HQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥89",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "24985399350",
+              "itemName": "经典意式肉酱比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/2a0aafed80302753497584972f6a2cbe155661.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=24985399350&source=1&code=97&poi_id_str=mnwulv0OUkU1QTA7pzn3HQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "24970547723",
+              "itemName": "雪球芝士玛格丽特比萨",
+              "itemPicUrl": "https://p1.meituan.net/wmproduct/66992e9e5b8497248a0b3a666c00b45b179440.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=24970547723&source=1&code=97&poi_id_str=mnwulv0OUkU1QTA7pzn3HQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥53",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "24972426372",
+              "itemName": "[DD]超值比萨单人餐",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/9347ff21bc3f90c5815c70e89f3c310c574511.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=24972426372&source=1&code=97&poi_id_str=mnwulv0OUkU1QTA7pzn3HQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥67.86",
+              "itemPriceDesc": null
+            }
+          ]
+        },
+        {
+          "shopId": "21207314",
+          "schema": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=l-fhEAv1HVB6VW5iCdjU3AI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+          "shopPic": "https://p0.meituan.net/waimaipoi/783352ddbcf7906357f23e1c26fae06a443372.jpg",
+          "shopIcon": null,
+          "shopIconWidth": null,
+          "shopIconHeight": null,
+          "shopCategory": "意面披萨",
+          "shopName": "达美乐比萨代购(青山印象城店)",
+          "shopScoreIcon": "https://p1.meituan.net/scarlett/872298bbffec8ab4e1e7177499189caa921.png",
+          "shopScoreText": "4.4",
+          "commentsCount": null,
+          "avgPrice": 48,
+          "mtQuickDeliveryTagIcon": null,
+          "deliveryFee": "免配送费",
+          "minDeliveryPrice": "起送 ¥0",
+          "deliveryTime": null,
+          "distance": null,
+          "coupon": {
+            "couponDesc": "无门槛",
+            "backgroundImage": "https://p1.meituan.net/api/96f1e10c92543a920e00f9c4c3fc4e2238091.png",
+            "jumpUrl": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=l-fhEAv1HVB6VW5iCdjU3AI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+            "couponPrice": "3",
+            "guideBtnText": "去使用"
+          },
+          "fourthLineTagList": null,
+          "takeoutItemList": [
+            {
+              "itemId": "14832222093",
+              "itemName": "经典意式肉酱比萨🍕",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/06f0a05e1630ae676e87ca9859240d09573679.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=14832222093&source=1&code=97&poi_id_str=l-fhEAv1HVB6VW5iCdjU3AI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "14832884067",
+              "itemName": "金沙咸蛋黄嫩鸡比萨🍕",
+              "itemPicUrl": "https://p1.meituan.net/wmproduct/97348a29606bcab71dad4cb4b7e9a354581400.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=14832884067&source=1&code=97&poi_id_str=l-fhEAv1HVB6VW5iCdjU3AI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥89",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "14832222091",
+              "itemName": "韩式炸鸡滋香比萨🍕",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/c79ecbf81dff7006121f8196b17f8763585805.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=14832222091&source=1&code=97&poi_id_str=l-fhEAv1HVB6VW5iCdjU3AI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "19730044714",
+              "itemName": "经典意式肉酱比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/2a0aafed80302753497584972f6a2cbe155661.jpg",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=19730044714&source=1&code=97&poi_id_str=l-fhEAv1HVB6VW5iCdjU3AI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "14832340223",
+              "itemName": "照烧风味牛肉土豆比萨🍕",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/4e91412617f2d019582ab12bad04bdf8583854.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=14832340223&source=1&code=97&poi_id_str=l-fhEAv1HVB6VW5iCdjU3AI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥89",
+              "itemPriceDesc": null
+            }
+          ]
+        },
+        {
+          "shopId": "28904254",
+          "schema": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=TRD1KA8OjFxTRHXSzN1RLQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+          "shopPic": "https://p0.meituan.net/waimaipoi/0a7cd0e42f0174699864351c7631997e143845.jpg",
+          "shopIcon": null,
+          "shopIconWidth": null,
+          "shopIconHeight": null,
+          "shopCategory": "意面披萨",
+          "shopName": "达美乐比萨代购(武汉新荣天街店)",
+          "shopScoreIcon": "https://p1.meituan.net/scarlett/872298bbffec8ab4e1e7177499189caa921.png",
+          "shopScoreText": "4.4",
+          "commentsCount": null,
+          "avgPrice": 45,
+          "mtQuickDeliveryTagIcon": null,
+          "deliveryFee": "配送 ¥-3",
+          "minDeliveryPrice": "起送 ¥0",
+          "deliveryTime": null,
+          "distance": null,
+          "coupon": {
+            "couponDesc": "满28可用",
+            "backgroundImage": "https://p1.meituan.net/api/96f1e10c92543a920e00f9c4c3fc4e2238091.png",
+            "jumpUrl": "dianping://takeawaydishlist?mtwmpoiid=-100&source=1&code=97&poi_id_str=TRD1KA8OjFxTRHXSzN1RLQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+            "couponPrice": "10",
+            "guideBtnText": "去使用"
+          },
+          "fourthLineTagList": null,
+          "takeoutItemList": [
+            {
+              "itemId": "21457072789",
+              "itemName": "经典意式肉酱比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/46fdc4ff71fb3dface5249dba0df16746806679.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=21457072789&source=1&code=97&poi_id_str=TRD1KA8OjFxTRHXSzN1RLQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "21457072787",
+              "itemName": "金沙咸蛋黄嫩鸡比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/b89bebc1d6afbec389e88320e6c416ad5257195.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=21457072787&source=1&code=97&poi_id_str=TRD1KA8OjFxTRHXSzN1RLQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥89",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "21457072788",
+              "itemName": "韩式炸鸡滋香比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/52ebe1a087d2861d8aaf7eb5d46094465461167.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=21457072788&source=1&code=97&poi_id_str=TRD1KA8OjFxTRHXSzN1RLQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥59",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "21457072786",
+              "itemName": "美国风情土豆培根比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/f57f834d6f30b4fe540cdaeb914d788a6879088.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=21457072786&source=1&code=97&poi_id_str=TRD1KA8OjFxTRHXSzN1RLQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥69",
+              "itemPriceDesc": null
+            },
+            {
+              "itemId": "21437185853",
+              "itemName": "苏丹王榴莲多多比萨",
+              "itemPicUrl": "https://p0.meituan.net/wmproduct/94ec9ddd20c8bd4f465a9bcbd36d56216377794.png",
+              "itemJumpUrl": "dianping://takeawaydishlist?scrolldish=1&mtwmpoiid=-100&spuid=21437185853&source=1&code=97&poi_id_str=TRD1KA8OjFxTRHXSzN1RLQI&mt_selected_latitude=30.59035020946856&mt_selected_longitude=114.31069661797939&mt_selected_latitude=30.59276008605957&mt_selected_longitude=114.30525207519531&utm_content=%7B%22wm_order_channel%22%3A%22dpwxappwm%22%7D",
+              "itemOriginPrice": null,
+              "itemFinalPrice": "¥117",
+              "itemPriceDesc": null
+            }
+          ]
+        }
+      ],
+      "filterOptionsDTO": {
+        "address": "汉口江滩2期",
+        "speedOptions": [
+          {
+            "optionName": "速度",
+            "optionValue": "0"
+          },
+          {
+            "optionName": "30分钟内",
+            "optionValue": "30"
+          },
+          {
+            "optionName": "40分钟内",
+            "optionValue": "40"
+          },
+          {
+            "optionName": "50分钟内",
+            "optionValue": "50"
+          },
+          {
+            "optionName": "60分钟内",
+            "optionValue": "60"
+          }
+        ],
+        "scoreOptions": [
+          {
+            "optionName": "点评评分",
+            "optionValue": "0"
+          },
+          {
+            "optionName": "4.5星以上",
+            "optionValue": "4.5"
+          },
+          {
+            "optionName": "4.0星以上",
+            "optionValue": "4.0"
+          },
+          {
+            "optionName": "3.5星以上",
+            "optionValue": "3.5"
+          },
+          {
+            "optionName": "3.0星以上",
+            "optionValue": "3.0"
+          }
+        ],
+        "mixOptions": [
+          {
+            "optionName": "综合排序",
+            "optionValue": "0"
+          },
+          {
+            "optionName": "可堂食",
+            "optionValue": "1"
+          },
+          {
+            "optionName": "到店自取",
+            "optionValue": "2"
+          },
+          {
+            "optionName": "营业中",
+            "optionValue": "4"
+          }
+        ]
+      },
+      "isEnd": false,
+      "queryId": "7c6b85cb-8566-4b4d-bcb0-fc46b07a05d9",
+      "firstQueryId": null
+    }
+  },
+  "headers": {
+    "Host": "m.dianping.com",
+    "Connection": "keep-alive",
+    "mtgsig": "{\"a1\":\"1.2\",\"a2\":1779304639699,\"a3\":\"852w04x23y415ww3y88z04yyw246vzww80v534y81w147978x01x30vu\",\"a4\":\"6786772305a5ff5c237786675cffa505f05b5421aca4f124\",\"a5\":\"Nz3zmSAC0L+BFjA/RWZ9byhec0EWkzRGVNCeM0Y+0W6iWmGiWcJRsACc3n3+7wh0mN5IW2vn3gAlyOKvAuMGJS0HjyAeReDqB9VFgHMAFgUs8oTrG0rJSGLnSNVdmRO4zUt6Hpt1XxnoWTMqYh/Vp+r7i5bHgkCWWr9/TA9TwXld4hKjjL9yGqEPELbLds0Nqb65ZyxVOm0/tpptvawbvXz1xpQ6/YFW246qCCL3kZNaKxvXOIjCtzwhRgCbtFJgm6AQrkNxMjG++BV2WtLNV9cNei3OHvX7kT5RjUXFR823L7yGJ5oooUP8JjV1HNUSFunb7jTOatHpPLtDkDGqMHBmYGicPu4zBwMf4bI2ifcVZC9+Fv5ikK8xNX/n84QsYSW=\",\"a6\":\"w1.6pt1AblOjUSoFpBrk1laAmC3k8GQ1O0zIhwsV0SkMFyxhfuyGoiKhaCD5h1ENX7Fu3gpgENw+3hZJrNA3Y86Nu+uus6ipReE4HAgRW8ZCF1mPDyXpClvwNM9Birg4XODzuCKJVWoG53MVu35aKytKWZbOTNRzmlx3rJWpmyvtt0kqZdgaKiFDt+iLG0uFp2IPumcTdt3ImM+0mJB3/QpRmw/K84GAhWN4ejhGeirFj2nwo8d0Pjo/NIGnyrW9DRktzeis4IEBWHbdX84CZSL+6ZWq41cWasMVuUFNSZ+5WK4hK+hKJReh56Zf7Px9mV863tD11WTm2mwhQEGW1fgjuUtUaXQwOh5s+OtWdkckvdAqaGINoF0IqzUNCHvJIWj08e2XYAGePHbugr998ycjdsHzi+mNoSe6XVR2bTwppUxKNgm6hMw8CmcF3hk7PhCbM2UvsLiXt04t9rlEgxd1oMws2NA5ZcoW5R13ch8RNis5ZKB9qEjWboJcb6kcbpuXdwh7Fao/ShML5XCYPYuHxg==\",\"a7\":\"wx734c1ad7b3562129\",\"x0\":3,\"d1\":\"be9716ebc7d54578095b17d7f51130e1\"}",
+    "openid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "channel": "weixin",
+    "channelversion": "4.1.1.4",
+    "minaversion": "10.10.4",
+    "wechatversion": "4.1.1.4",
+    "openIdCipher": "AwQAAABJAgAAAAEAAAAyAAAAPLgC95WH3MyqngAoyM/hf1hEoKrGdo0pJ5DI44e1wGF9AT3PH7Wes03actC2n/GVnwfURonD78PewMUppAAAADi5klkizLD1WxFhOBiGOKdSGqAGcnyXHZMutWW/HvYFMBxPZIjyG/P9CAjsysORou2RCD9kiaHo1A==",
+    "sdkversion": "3.8.10",
+    "isMicroMessenger": "true",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "Content-Type": "application/json",
+    "openidPlt": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) XWEB/14910",
+    "xweb_xhr": "1",
+    "platformversion": "6.17.0-23-generic x86_64",
+    "platform": "Android",
+    "token": "02021726875a43eea288f22cbbd527e56fe488687dfef66ebda459d11141d999bf3c1bdaf53bd8529b03e3d568372b1a0ac5c0cc0bf82c33bdfc00000000f43400003a87b6afc1ec494d9347f4d361c5a38f2a563280a598814dfbee47cfe4d347d6aa4d8b6f3299b772a07841f0dc68aa86",
+    "minaname": "dianping-wxapp",
+    "Accept": "*/*",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://servicewechat.com/wx734c1ad7b3562129/693/page-frame.html",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9"
+  },
+  "cookies": ""
+}

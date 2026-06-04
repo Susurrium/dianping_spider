@@ -1,0 +1,1210 @@
+{
+  "url": "https://m.dianping.com/wxmapi/wxsearch/searchad?yodaReady=wx&csecappid=wx734c1ad7b3562129&csecplatform=3&csecversionname=10.10.4&csecversion=1.4.0&optimus_uuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&optimus_platform=13&optimus_partner=203&optimus_risk_level=71&optimus_code=10&_=1779307850915&cookieId=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&cityId=16&openid=oPpUI0amwL-qowGmqt--0SgNTrqw&lxcuid=19e465b1576c8-21a61405be0878-0-0-19e465b1576c8&locateCityid=16&categoryId=0&sortId=0&range=-1&lat=30.59276008605957&lng=114.30525207519531&myLat=30.59276008605957&myLng=114.30525207519531&keyword=%E6%AF%94%E8%90%A8(%E9%80%B8%E4%BB%99%E8%B7%AF%E5%BA%97)%20%E9%80%B8%E4%BB%99%E8%B7%AF519%E5%8F%B71%E5%B1%8208%E5%AE%A4&start=0&noProfile=10&mtsiReferrer=%252Fpages%252Flist%252Flist%253F_%253D1779307850915%2526cookieId%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526dpid%253DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%2526cityId%253D16%2526openid%253DoPpUI0amwL-qowGmqt--0SgNTrqw%2526lxcuid%253D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%2526locateCityid%253D16%2526categoryId%253D0%2526sortId%253D0%2526range%253D-1%2526lat%253D30.59276008605957%2526lng%253D114.30525207519531%2526myLat%253D30.59276008605957%2526myLng%253D114.30525207519531%2526keyword%253D%25E6%25AF%2594%25E8%2590%25A8(%25E9%2580%25B8%25E4%25BB%2599%25E8%25B7%25AF%25E5%25BA%2597)%2520%25E9%2580%25B8%25E4%25BB%2599%25E8%25B7%25AF519%25E5%258F%25B71%25E5%25B1%258208%25E5%25AE%25A4%2526start%253D0%2526noProfile%253D10&device_system=LINUX&wxmp_version=10.10.4",
+  "params": {
+    "yodaReady": "wx",
+    "csecappid": "wx734c1ad7b3562129",
+    "csecplatform": "3",
+    "csecversionname": "10.10.4",
+    "csecversion": "1.4.0",
+    "optimus_uuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "optimus_platform": "13",
+    "optimus_partner": "203",
+    "optimus_risk_level": "71",
+    "optimus_code": "10",
+    "_": "1779307850915",
+    "cookieId": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "cityId": "16",
+    "openid": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "lxcuid": "19e465b1576c8-21a61405be0878-0-0-19e465b1576c8",
+    "locateCityid": "16",
+    "categoryId": "0",
+    "sortId": "0",
+    "range": "-1",
+    "lat": "30.59276008605957",
+    "lng": "114.30525207519531",
+    "myLat": "30.59276008605957",
+    "myLng": "114.30525207519531",
+    "keyword": "比萨(逸仙路店) 逸仙路519号1层08室",
+    "start": "0",
+    "noProfile": "10",
+    "mtsiReferrer": "%2Fpages%2Flist%2Flist%3F_%3D1779307850915%26cookieId%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26dpid%3DXo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs%26cityId%3D16%26openid%3DoPpUI0amwL-qowGmqt--0SgNTrqw%26lxcuid%3D19e465b1576c8-21a61405be0878-0-0-19e465b1576c8%26locateCityid%3D16%26categoryId%3D0%26sortId%3D0%26range%3D-1%26lat%3D30.59276008605957%26lng%3D114.30525207519531%26myLat%3D30.59276008605957%26myLng%3D114.30525207519531%26keyword%3D%E6%AF%94%E8%90%A8(%E9%80%B8%E4%BB%99%E8%B7%AF%E5%BA%97)%20%E9%80%B8%E4%BB%99%E8%B7%AF519%E5%8F%B71%E5%B1%8208%E5%AE%A4%26start%3D0%26noProfile%3D10",
+    "device_system": "LINUX",
+    "wxmp_version": "10.10.4"
+  },
+  "data": {
+    "code": 100,
+    "data": {
+      "supplyList": [
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.005812265898272238&recalled_match_unit=0&ad_cj=4HzNCRU3coywvJnpXr26cPSMuhr7WXpZvYOmnUr6zolzd6xYiQQuoLX1zDCXMSgCKB0ut8V8PCewDAZc61h6tTX5Mbuq6y_TQdbUoIn1jjEHahhsGG8R6lT5nnuYKmGDwBORfmgRRFs0K04rabBPuVD3O59MhOw0y53zRcOgwGvcLRSfCUlCd7BTkkbofktK2hDxbhe_QyS5gYq1K96jjqp5dOW2JiXQQS3ZfWCdGbthXHPL5N-i&ad_ci=4HzNBRNjI4G3vofvS-r1YOWMtBzqOyAOtoq3yBK9ksU7OLoAyWZy_Oj-zjSUOj1QcFFv6o5pNSb5AgBc_Q0s5zHiLKruqmyeApnUrdW12np5KEY8aw1k5wH5nymcLmWH&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.15097395287809473&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=50&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": null,
+            "categoryId": 33959,
+            "categoryName": "法律服务",
+            "cityId": 16,
+            "defaultPic": "https://p1.meituan.net/adunion/ed390957f1b8ebd53b2bdffe69407b5a233113.jpg%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "联发律师事务所",
+            "priceText": "￥24",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“不懂就问，王家湾这家是神仙店嘛”"
+            },
+            "regionName": "王家湾",
+            "reviewCount": "67条",
+            "shopDealInfos": null,
+            "shopPower": 40,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "合同纠纷"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "交通事故"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "劳动争议"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "房产纠纷"
+              }
+            ],
+            "authorityTag": null,
+            "distance": ">5km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 0,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "H1dXzEftjYoCVdYL",
+            "shop_uuid": "H1dXzEftjYoCVdYL",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H1dXzEftjYoCVdYL&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=1&pctr=0.009217586548257231&recalled_match_unit=0&ad_cj=vh002sYtbghKlh7hvWlug3VUJcnU9keyA2ddY_tPatPssvtSqot6Dyg3xw3cfmZiRmKGOAxNYHVnlatbs1ZM-7ZTwkyxZjFelrVVTsBQ3Kr8lEswJw6yHQcVejNIBO0a-fOJNuDdRoahafSQVH5iXc_TttyVUVTP6Tz9Mrjrt1drhSyW1IlGgdk39Y-SzEzReqes2ow3XdL_jOSd_ye-p1B_nCgaFPDYHwphPcrYvy6zPqvdezRP&ad_ci=vh001sB5OQJImwPiqz0hk2RUK8_FlB_iCGNJNq0KO5Wh_e0K6ushWnQ7zgvbdHMwHi7HZUdYaXQum61bpQMaqbJI3131J3IT1fpVQ5wTj-GEwlBqfn3WbgocLmYeU7tK9g&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.10646354722075646&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=0&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": null,
+            "categoryId": 2929,
+            "categoryName": "搬家",
+            "cityId": 16,
+            "defaultPic": "https://p0.meituan.net/adunion/8b026c0138bb29631a47e2c2ace814c598714.jpg%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "武汉搬大师日式搬家收纳公司",
+            "priceText": "",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“有被惊艳到的一家宝藏搬家运输”"
+            },
+            "regionName": "全部",
+            "reviewCount": "388条",
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "高端日式搬家丨5立方全屋整理打包搬家+新家收纳还原",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "高端日式搬家丨5立方全屋整理打包搬家-新家不复原",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 35,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "品牌连锁"
+              }
+            ],
+            "authorityTag": null,
+            "distance": ">5km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 1,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "H1058XZa9fYN8pPm",
+            "shop_uuid": "H1058XZa9fYN8pPm",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H1058XZa9fYN8pPm&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.02080735580593843&recalled_match_unit=0&ad_cj=EV70nN_yvmQ4SXdmJyg-TANBN5Ms1Ufmaw_rKLJWXQw_UZ5HofEcB1e1WF62McFBtFHz6NoOW2KHY-wcUfE8TU6xph7zlHTiCcnwIRh-vvBF_ZQMyZvMRLPm6_0bcP3BVEDWNZomHZYQ7Y-7xKoe-zufmR-bMtwUQscXpUvNGBIhEZYbBf_UD4IUw40o5N-h9135LRlLqOSJ14heRe3ev-6CO05Rah5cFa1PlAuPTwPQCuA&ad_ci=EV70kNmm6WA8XnF2dnF8SBBaM5NlvB6ycF69bu0RF1VrSt0S4pdAWgaxUE_jZ4YF7ASgv5JABD3DeL9CFahwElensh7zlHTxE8HhI0AC9PxN68dTuvm_SbDks_hNfqHE&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.10286768946500213&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=30&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": "武汉高雄路店",
+            "categoryId": 34033,
+            "categoryName": "养老院/康养中心",
+            "cityId": 16,
+            "defaultPic": "https://p0.meituan.net/adunion/d404ff82ce023f0151de360422dd82a0178347.jpg%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "椿萱茂老年公寓",
+            "priceText": "￥5256",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“从余家头/四美塘来港澳台风情街的友友快来这家，值哭了好么！”"
+            },
+            "regionName": "港澳台风情街",
+            "reviewCount": "175条",
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "【优选】阿尔兹海默症3天2晚试住体验【需预约】",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "【上门】老人健康评估与护理咨询",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 50,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": null,
+            "authorityTag": null,
+            "distance": "2.6km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 2,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "H8RvGb7vLPUCt5aF",
+            "shop_uuid": "H8RvGb7vLPUCt5aF",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H8RvGb7vLPUCt5aF&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.012104060255668165&recalled_match_unit=0&ad_cj=7hGVVaUbUiXw5btWIgQpGvpPKbYBX5IPHjoD5w5mKtt5HGqF8oGr61lf9ICs64eMYXQnJLVNoa5epFPeZ3sNpznXwoEGidG4hYPRo0mZqBnewIOvzYIsApZ0dt7eQflU5JwKOcVJNLMNohJ_siqmI5YoNf1-s6RgZWaZ5MzgpULMWr8Li3kDtEZwzLf0rTWSpqlWQynVKG1jike_dg8rB96dOxSZ3JlWA1S_QTcei_Nis3ldXg&ad_ci=7hGVWaNPAi37-L5IdV1rHulULbZIOctbBWhapFciaoAuBynTseL0tglV84S9sNvIIiN_cPZQ8PIaqUOLOT9c9S3M35RehcbulILTtBPLz0TX39D2uOBfD8B8J9qKH6kG&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.08736151352750604&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=50&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": "武昌区店",
+            "categoryId": 33958,
+            "categoryName": "工商注册代理",
+            "cityId": 16,
+            "defaultPic": "https://p0.meituan.net/adunion/072dae0c73a5e61624972c7307ed1822140141.jpg%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "贝龙企业服务",
+            "priceText": "￥171",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“🍂店里环境没得说，服务超赞的”"
+            },
+            "regionName": "和平大道积玉桥",
+            "reviewCount": "13条",
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "人力资源服务许可证代办",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "卫生许可证代办",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 0,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": null,
+            "authorityTag": null,
+            "distance": "2.1km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 3,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "k7OQIvXsWYNou8VN",
+            "shop_uuid": "k7OQIvXsWYNou8VN",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=k7OQIvXsWYNou8VN&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=6&pctr=0.007378176562991197&recalled_match_unit=0&ad_cj=BHFGqadiffUfgXMabWdUKo6L8O5dhIdLm2NG1eSwe81jmLj2Htag-BIAmK7nswEA9Z11Izlk1CD-VLotj6MiHZSE7r3YgUsT1qLx1QN75UigK0rHwgyaTMVt46F71J_-NnP0z6cEu-iIdVZ_S1Fdh1OABkH_0nI9XmYSzR6SIHHShplw4J4J_FyWolXLmm79k07tEcgNzgs0e5tQfjReUgVpiRd1apfwhaElAX4BCCLo0RqdxpiBmg&ad_ci=BHFGpaE2LfwZi2UQYHAQN4uJ5eJKvtMelWZKx7jrP5Ynx6P3UrP-o0cOkKnpswsWoMo0ZXB63irkVL8tj7V_VY2C_qGRyR0Gmfq001YrpAH3VgiZkn_4Ocg_6_Iu2MKlZg&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.07700205922430275&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=0&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": null,
+            "categoryId": 33959,
+            "categoryName": "法律服务",
+            "cityId": 16,
+            "defaultPic": "https://p0.meituan.net/adunion/4a02ad8f60fb8ae8fb806a57e55ca177250519.jpg%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "湖北汉武律师事务所",
+            "priceText": "￥781",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“后湖商圈这家店，我一整个爱住”"
+            },
+            "regionName": "后湖商圈",
+            "reviewCount": "124条",
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "【到所咨询】各类法律咨询/一对一面谈/隐私保护",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "【婚姻家事】起诉离婚/调解离婚/财产分割/抚养费",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 50,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "签发律师函"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "合同纠纷"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "交通事故"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "债务纠纷"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "劳动争议"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "知识产权"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "草拟合同"
+              }
+            ],
+            "authorityTag": null,
+            "distance": ">5km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 4,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "H8djhUpm7pxdECum",
+            "shop_uuid": "H8djhUpm7pxdECum",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H8djhUpm7pxdECum&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.015662719321330988&recalled_match_unit=0&ad_cj=k2FWRVSK4pA24Uw1yB3UQTJQFx1kYBNxv4ezluKxjSOw9QSR5WcT6lGNNYsZz0P88TiNhvy0atao-yXxbC8CLLTtaeRAf_NQxb_mlXAcIrGYlpCzz6mFv2ZJg1QsD3nqXPswKlH0qsTgxua4OxYKHbIljDu5l6hX05y8MetRoNkv-pXn0do9EDMu3tS9wwNDirh40DsR8_yzj_5ysnjIYvg6w0qnF0pi3OCT-7fXrerwhlj5yA&ad_ci=k2FWSVLesps2-UormkeWRSFLEx0tCUolpNvt0rrywH_t7kfBpAZJtgeIN48IlB-4sm_V0r-pO4rs9jWkMmtTfqD2dPEYc-QG1L7kgipMReacgcPqvM32smdN0F98DCbs&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.0763416868613513&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=50&page_city_id=16&entityplat=1&ad_v=2&city_mode=3&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": null,
+            "categoryId": 33958,
+            "categoryName": "咨询服务",
+            "cityId": 8,
+            "defaultPic": "https://p1.meituan.net/adunion/7d23d30da96009d1418b10ac6799ba61289811.jpg%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "极速寻宠回家·全国团队找猫找狗",
+            "priceText": "",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“pick三圣乡这家宝藏店~”"
+            },
+            "regionName": "全部",
+            "reviewCount": 0,
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "专业找狗团队/专业找猫团队/找猫团队/找狗狗团队",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "找宠物/找宠物团队/寻宠物/寻宠物团队/找猫找狗",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 35,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": null,
+            "authorityTag": null,
+            "distance": ">5km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 5,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "H4rZuIiBBlbosqUn",
+            "shop_uuid": "H4rZuIiBBlbosqUn",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H4rZuIiBBlbosqUn&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.009590209119262345&recalled_match_unit=0&ad_cj=YCVsxP9JvC0VcFGWhyUOn8GZLPHJqlqKszRYwJZr0077ehKCJegHmtRIwmmZH-3Hn0XfCyvpvScIoQ14HujedPdKeK0RtK7Uh9cFbWtVmhSWClQ1pRVEkwuf7SelctyD-ov6Z6jIczSvbxFXR_OjxbdWq271b2cyQHrsX4B0ppX5sCGOfZNl1EIs4-utrx3a5B5wdRm_Mq-ksdWEZAf_2e6l3_uIY27xI_VoH3pQ4RAO0lVv4Q&ad_ci=YCVsyPkd7CQcaFCekndBj9CZIvfYyArevyQOl9Q0lQWrOF3fbIpdzoJHx2iIRLGD3BKHX2j07HtMrB0tQKyPJuNRZbhJuLmCltYHejEI_UeZHQds1nE3ngOcvHahfY-D&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.06849270029333356&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=50&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": "汉口店",
+            "categoryId": 195,
+            "categoryName": "保姆/月嫂/育儿嫂",
+            "cityId": 16,
+            "defaultPic": "https://p0.meituan.net/adunion/b4f67e6ee27a858c8afc59d8e3795d41116684.jpg%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "沐恩自营育儿嫂·育婴师",
+            "priceText": "￥7183",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“糟糕，是心动的感觉！怎么早没发现K11附近这家呢😍”"
+            },
+            "regionName": "武胜路",
+            "reviewCount": "291条",
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "育儿嫂阿姨匹配丨顾问一对一服务",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "育儿嫂面试丨顾问1V1服务",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 40,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": null,
+            "authorityTag": null,
+            "distance": "4.5km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 6,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "H7B6OXTpHT7rNSOC",
+            "shop_uuid": "H7B6OXTpHT7rNSOC",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=H7B6OXTpHT7rNSOC&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.005109024258878671&recalled_match_unit=0&ad_cj=gAM3Xqh9k0E9O9a1P5MKuOBGjiX2DJi-Y2dx_eH4ksTAZfRo2og9dh7zcAch2mbsb4HOH6WFTRU_W8MHGCLttMZS0rPuKGYZAieSaYRzbKbnHXNseLUlYMgQ5egWk0ywQQGmbeW6IU-s9qhODgPp7MS6or37PqRkyu7weEb1DqXWoTnHWCtXslyQD2LTOi8xTWXPqM2qRdrGx19mCbSCVDoU6ZePkJ445GH1hkmYzj94uEELskZJjA&ad_ci=gAM3Uq4pwkw5Ncy9MYROpeVEmynhNszraGZ-77an3pqAOu9plu1nKUn7cQUu0GT6OtaPWeybRx8lW8YHGDSw_N9Uwq-nYDAMTX_Xb9EjKO-6ZTEyKMZHFcUZ5LoTnk63&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.06624106452400799&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=50&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": "唐家墩店",
+            "categoryId": 33959,
+            "categoryName": "法律服务",
+            "cityId": 16,
+            "defaultPic": "https://p0.meituan.net/adunion/c872745da05bd31cdbb71edc8c7605ea657508.png%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "弘一(武汉)律师事务所",
+            "priceText": "",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“有被惊艳到的一家宝藏法律服务”"
+            },
+            "regionName": "后湖商圈",
+            "reviewCount": 0,
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "【法律咨询】资深律师 1v1 法律咨询不限案件类型",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "【遗产继承】 遗嘱订立 / 继承纠纷专业律师咨询",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 35,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": null,
+            "authorityTag": null,
+            "distance": ">5km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 7,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "kaM75S7A68x0Z3uS",
+            "shop_uuid": "kaM75S7A68x0Z3uS",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=kaM75S7A68x0Z3uS&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=5&pctr=0.010356340481373232&recalled_match_unit=0&ad_cj=mQyyz7dET3QplyUQvl7JIkPYlkSw8EtQer2iN2YAHdzcNmoegaQUVPTA0tmQpEMPpmTz14NKhDh5M29EYVuIlmJ-BfPUx4iNZ8OBeIjwq85qjR2uWes-o8XHeVjJQ_h-9rMpz6AMb-eLp9DANK9Vscw_lZg4v8e224m74h-QGQk7db_8oL5HTmtZwEqll0bjmCWqcbJtUJsNjHLxK9-dHbRXSpP5hLKg85S5Q91wRCwT7w&ad_ci=mQyyw7EQH3kiiiAA5AKLJlDDkkT5lxIEYeH-cz1EXICKLS9IxMFLD6XM1cjF8gRL_jGggMsE22c9KDwaJQLEyXtoEfPUx4iefcuQetCO4cp13kTbO5gzp83BfAPKGP0&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.06592598487315832&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=50&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": null,
+            "categoryId": 195,
+            "categoryName": "保姆/月嫂/育儿嫂",
+            "cityId": 16,
+            "defaultPic": "https://p0.meituan.net/adunion/aa43065c0ff4430c058ec8edcb674d35930707.png%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "佳蔓月嫂育儿嫂",
+            "priceText": "￥7175",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“上万人已收藏，来了的确超值👍🏻”"
+            },
+            "regionName": "全部",
+            "reviewCount": "154条",
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "月嫂推荐丨月嫂见面会零距离挑选",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "视频面试丨高效线上视频选月嫂",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 45,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": null,
+            "authorityTag": null,
+            "distance": ">5km",
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 8,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "HaMEauJuRs7L7HJF",
+            "shop_uuid": "HaMEauJuRs7L7HJF",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=HaMEauJuRs7L7HJF&shopType=80"
+            }
+          }
+        },
+        {
+          "type": 1,
+          "shopInfo": {
+            "adInfo": {
+              "feedback": "display_entity_type=1&productid=74&ad_biz=search-sieve&priceMode=1&pctr=0.0074672237409955005&recalled_match_unit=0&ad_cj=ahp27WNb9pvf0M7hu-lNQPoVofAuuN3Nb7SCgxIQZ2bKtM6EtEtwzTAOAl1lPYRekkaalNn6uZ_p-tkn2gHO9UY1lszUKSYZYO1ickMG5CGAEt_jTFO_Uez00PSGdyu6BAABfZ7a2XJ6LELhZVFAHzJIJB2gArDJnPCsz1jvCAEY9cweugFfVRmNEVbG1r30f4MzUs-12mtk1eksOubhF_YryuqaaMstyjyFJU_Qc8I2-E3o7y8&ad_ci=ahp24WUPppTX2dbnvvoJXf8XtPw5gomYY7OAnUVMJDuH69WF-CoqkG0GAVxmNJEMygrbyZLvsJ6g9N8nzFSYp0Iui92QaGVUI6Jifx9Fs2r_Q8S5FSDbIuH91faGJnjuWQ&utm_medium=iphone&dpid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&rankScore=0.06500128065624243&userid=-1&rawpleadsnew=0.0&adshoptype=4&pcvr=0.002&pay_cvr=0.0&city_id_platform=DP&sver=2&openid=Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs&AdExpPath=20-1599:7051,23-71:969,20-1224:5395,20-1514:6677,20-7569:28565,23-4135:16521,23-72:2209,20-7919:30123,20-843:41814,20-574:2986,20-7596:28616,20-4630:18790,23-127:448,20-1544:6832,20-2835:11521,20-11395:41270,20-1548:28362,20-4622:18726,20-4694:23624,20-10579:38493,20-6432:24639,20-1525:6729,20-9161:37262,23-1714:7572,20-4667:18977,20-4325:17419,20-1594:7034,20-443:2513,20-10644:41457,20-4495:18158,23-4476:18249,20-10535:38351,20-294:1781,20-4398:17713,20-10646:38828,20-1537:24364,20-11470:41508,20-4657:18941,20-1318:5674,23-183:888,23-213:1152,23-432:2467,20-562:2903,20-766:3691,20-818:3808,23-1736:7685,23-142:11660,20-7730:29222,20-10602:38608,20-11435:41400,20-4220:17007,20-1364:5901,23-1323:5705,23-139:558,20-4625:18744,20-10527:38323,23-73:185,20-1026:4759,23-984:5450,20-10264:37411,23-403:2329,arena_ab_arena_recall_unity_dpse:1437974,arena_ab_arena_ab_arena_dp_hotel_nobid_cost:1548541,arena_ab_arena_dp_recall_bypass:1500739,arena_ab_arena_wangjia77_1772677549380:1492387,arena_ab_arena_dp_new_wholeSite:1466701,arena_ab_arena_dp_creative_cellar_index:1476932,arena_ab_arena_cs2_dp:1510974,arena_ab_arena_liyinan07_1769594286926:1470439,339-10833:39606,339-10832:39455,351-11610:42203,429-10284:37358,dpAdsFiled:default,algorithm.quarter:test&pay_amount=0.0&cubeEntityScene=DP_SEARCH&adSource=1&lite_set_cell=default-cell&floatRatio=0&page_city_id=16&entityplat=1&ad_v=2&city_mode=1&is_target_city=1&is_zvoid_garbled_char=avoid_garbled_char&posRank=1",
+              "AdType": 23
+            },
+            "adShop": "true",
+            "authorityIconUrl": null,
+            "authorityLabel": null,
+            "authorityLabelColor": "#22A3DD",
+            "bookType": null,
+            "branchName": null,
+            "categoryId": 33959,
+            "categoryName": "法律服务",
+            "cityId": 16,
+            "defaultPic": "https://p0.meituan.net/adunion/cd85d1c608daa95a71d7571732443629349109.jpg%40180w_1e_1l%7Cwatermark%3D0",
+            "headerImageBorderColor": null,
+            "name": "湖北楚臻律师事务所·法律咨询",
+            "priceText": "￥872",
+            "recommendReason": {
+              "backgroundColor": null,
+              "borderColor": null,
+              "iconHeight": 0,
+              "iconWidth": 0,
+              "icon": null,
+              "iconAlignType": 0,
+              "textType": 1,
+              "alignType": 0,
+              "priority": 0,
+              "type": 12,
+              "textColor": null,
+              "cornerRadius": 0,
+              "iconTextSpacing": 0,
+              "fontSize": 12,
+              "text": "“上百人已收藏，墙裂推荐😍”"
+            },
+            "regionName": "武昌火车站",
+            "reviewCount": "341条",
+            "shopDealInfos": [
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "『资深律师电话咨询』全领域1V1专业律师法律服务",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              },
+              {
+                "clickUrl": null,
+                "subDealTitle": "",
+                "dealTitle": "【到店面谈】劳动仲裁/工伤赔偿/人身损害律师咨询",
+                "iconType": "2",
+                "iconUrl": {
+                  "width": 18,
+                  "url": "http://p1.meituan.net/scarlett/18efdd013b19035f8a7ad4b77c0f1d9e436.png",
+                  "height": 18
+                },
+                "dealType": 1,
+                "tagInfo": null
+              }
+            ],
+            "shopPower": 50,
+            "shopStateInformation": [],
+            "shopType": 80,
+            "tagList": [
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "交通事故"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "债务纠纷"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "合同纠纷"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "房产纠纷"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "劳动争议"
+              },
+              {
+                "backgroundColor": "#F8F6F6",
+                "borderColor": "",
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "textType": 0,
+                "alignType": 0,
+                "priority": 0,
+                "type": 12,
+                "textColor": "#111111",
+                "cornerRadius": 0,
+                "iconTextSpacing": 0,
+                "fontSize": 11,
+                "text": "刑事辩护"
+              }
+            ],
+            "authorityTag": null,
+            "distance": ">5km",
+            "hasTagList": true,
+            "labelStyle": "linear-gradient(to right bottom, rgba(34, 163, 221, 0.7), #22A3DD)",
+            "shopIndex": 9,
+            "listStart": 0,
+            "myLat": "30.59276008605957",
+            "myLng": "114.30525207519531",
+            "shopUuid": "G5ZhR2E8NBpl7EvZ",
+            "shop_uuid": "G5ZhR2E8NBpl7EvZ",
+            "navData": {
+              "url": "/pages/detail/detail?shopUuid=G5ZhR2E8NBpl7EvZ&shopType=80"
+            }
+          }
+        }
+      ],
+      "supplyadwords": "你可能会喜欢"
+    },
+    "loginCode": 200
+  },
+  "request_headers": {
+    "Host": "m.dianping.com",
+    "Connection": "keep-alive",
+    "mtgsig": "{\"a1\":\"1.2\",\"a2\":1779307852327,\"a3\":\"852w04x23y415ww3y88z04yyw246vzww80v534y81w147978x01x30vu\",\"a4\":\"d8d3320012419cb70032d3d8b79c41122700d09f909c918d\",\"a5\":\"FrqBBtAd9KToZAHdLf1pMEYGhh3ip9PAZLGyKtRPBEN9gevUxb/NIjpyWmawqoSTaQM5wXkHF5f1GtTViTDVehK/jB6/gxsKcILrVHrKBqzdDiOOdCN5mKfEVLx1q17IeTdhEi/IblFFQ290LcSEO8elifdDQCxo1LbiPz2vmrEc7oj7I0jm1jwLwAlhc+H+r0FlXOkhTBJ3/P0hjy/l4YLouOeNb03Sw3RQkvqviUx7O5k/stXch272Ac6yuN5dOURxUN3loPVqq8piKhBmVnEjlXiyzC1MtJGIHipteb2GWHrKi/mSdZD+zb9BI3wfJ+5lNqzJMZfqPSls5HUuboEWZEL3N6/sZa7ZPNVWkVGhEFSdKz2FxiPFvZDzp+jCH0U6\",\"a6\":\"w1.6N+Oray0wCKV5avUDCHPtELEADXLdkJ/4DnC8+on7oLZhR8BbAxJiRf8XwqeOR1MdF7JALbLu4FB8LWKgScHayfR8/Ey3WsJx9f+kkPPSPRxaprzEa9+x9xDHMMgfl0tqW89DKDZJXwcOG+cvPu0tc5fRjvD1diUls5KiKLoPp2A73wevyJuRXBBHDdCBbHqkfjrwdvZOTS/PqQ3gKkt/OyN5gaEhFd81ZjImdhDGqhkBqZBA0E3TtuvXYXLCdKq0IzFqI6NAr89/9pFRFVZid9OGUmYa7N9ZJwGaYN2y9eng+WvZdko3eZRjtk1F3cGb1iqpsZdz7F2/Zcut5PVtY2j2lBl2r4MxP8RA+l9WrTRZBqJwXp3maX3krQ7Z7ssYVNG0geRGs0AaxftZ4V1IGIFbmYa4nUiutau5wOFNJQpkqykzqw/6dedKrtV9VdZiL2JhxdYqfeUZ98nbMn9X8OABMtgKjJ1zhPjNmRHq03C9m1alWIw21t8xTVoHrR5+SZit/7DHdBMTfrtOWM6fKA==\",\"a7\":\"wx734c1ad7b3562129\",\"x0\":3,\"d1\":\"47ba557f3f706986300552cd1187d150\"}",
+    "openid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "channel": "weixin",
+    "channelversion": "4.1.1.4",
+    "minaversion": "10.10.4",
+    "wechatversion": "4.1.1.4",
+    "openIdCipher": "AwQAAABJAgAAAAEAAAAyAAAAPLgC95WH3MyqngAoyM/hf1hEoKrGdo0pJ5DI44e1wGF9AT3PH7Wes03actC2n/GVnwfURonD78PewMUppAAAADi5klkizLD1WxFhOBiGOKdSGqAGcnyXHZMutWW/HvYFMBxPZIjyG/P9CAjsysORou2RCD9kiaHo1A==",
+    "sdkversion": "3.8.10",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090a13) UnifiedPCLinuxWechat(0xf2741104) XWEB/14910",
+    "dpid": "Xo3JboI14ZlDPh5T0M8MUryZyeoJektBZh6yRbKFZSs",
+    "Content-Type": "application/json",
+    "openidPlt": "oPpUI0amwL-qowGmqt--0SgNTrqw",
+    "xweb_xhr": "1",
+    "platformversion": "6.17.0-23-generic x86_64",
+    "platform": "Android",
+    "minaname": "dianping-wxapp",
+    "token": "02021726875a43eea288f22cbbd527e56fe488687dfef66ebda459d11141d999bf3c1bdaf53bd8529b03e3d568372b1a0ac5c0cc0bf82c33bdfc00000000f43400003a87b6afc1ec494d9347f4d361c5a38f2a563280a598814dfbee47cfe4d347d6aa4d8b6f3299b772a07841f0dc68aa86",
+    "Accept": "*/*",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://servicewechat.com/wx734c1ad7b3562129/693/page-frame.html",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9"
+  },
+  "request_cookies": ""
+}
