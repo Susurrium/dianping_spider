@@ -158,7 +158,16 @@ class ReviewExporterTests(unittest.TestCase):
 
         self.assertEqual(
             rows,
-            [{"门店": "达美乐比萨(测试店)", "发布时间": "5月3日", "发布人": "用户A", "评分": "4", "文字": "第一条"}],
+            [
+                {
+                    "门店": "达美乐比萨(测试店)",
+                    "发布时间": "5月3日",
+                    "发布人": "用户A",
+                    "顾客评分": "4",
+                    "评分": "4",
+                    "文字": "第一条",
+                }
+            ],
         )
         self.assertEqual(stats["review_files"], 1)
         self.assertEqual(stats["reviews_exported"], 1)
@@ -233,7 +242,16 @@ class ReviewExporterTests(unittest.TestCase):
 
         self.assertEqual(
             rows,
-            [{"门店": "达美乐比萨(武汉K11店)", "发布时间": "5月3日", "发布人": "用户A", "评分": "5", "文字": "还会再点"}],
+            [
+                {
+                    "门店": "达美乐比萨(武汉K11店)",
+                    "发布时间": "5月3日",
+                    "发布人": "用户A",
+                    "顾客评分": "5",
+                    "评分": "5",
+                    "文字": "还会再点",
+                }
+            ],
         )
         self.assertEqual(stats["reviews_exported"], 1)
         self.assertEqual(stats["stores_with_reviews"], 1)

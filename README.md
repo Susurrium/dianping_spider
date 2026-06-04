@@ -1,202 +1,514 @@
-# Sniper
+# Dianping Spider
 
+大众点评 / 美团微信小程序评论抓取与导出工具。当前主流程以 PC 微信小程序抓包为核心：`mitmdump` 负责捕获评论 API，`run.py` 负责辅助滚动评价页并按门店写入 JSON。
 
+本仓库基于开源大众点评爬虫思路继续改造，重点支持：
 
-[![](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/)
-<img src="https://img.shields.io/badge/license-GPL--3.0-brightgreen">
+- 大众点评微信小程序评论自动抓取
+- 每家店单独保存评论 JSON
+- 评论发布时间、发布人、评论文本、顾客评分字段
+- 美团微信小程序抓包、门店 ID 解析和评论导出
+- Excel 门店清单驱动的批量采集
+- Linux 桌面微信 + mitmproxy + xdotool 的半自动工作流
 
-*仅限学习交流使用，禁止商用。未经授权禁止转载*
+仅限学习、研究和内部数据分析。请遵守平台服务条款、当地法律法规和数据合规要求，不要用于未授权、商用或高频压测场景。
 
+## 项目状态
 
-##### 本项目遵守GPL-3.0开源协议
+推荐入口是：
 
-##### 您可以使用本项目for yourself，如果您使用本项目获利（包括但不限于商用、程序代做以及其他私活），则不被允许；
+```bash
+python3 run.py
+```
 
-##### 如果您未经允许使用本项目获利，本人保留因侵权连带的一切追责权利；同时造成的法律纠纷与本人无关。
+美团入口是：
 
-### 由于工作的原因，这个仓库可能不会 ~~怎么有时间~~ 维护。但是不出意外的话该仓库的代码未来相当长一段时间内都会有效。
+```bash
+python3 run.py --platform meituan
+```
 
-本程序可以爬取大众点评搜索页、详情页以及评论页中的相关信息，并将结果写入文件或数据库中。支持多cookie、ip代理以及多数据源爬取。
+历史脚本较多，根目录下的 `main.py`、`go.py`、`grab.py` 等保留为旧流程或实验工具。新用户优先看 `run.py`、`start_mitm.sh`、`mitm_dianping.py`、`review_exporter.py` 和 `docs/meituan_miniapp.md`。
 
-目前支持的写入类型如下：
-- MongoDB数据库
-- ~~csv~~（版本更新后不支持写入，暂时没有适配计划）
+## 目录结构
 
+```text
+.
+├── run.py                         # 当前主入口：交互选择门店、自动滚动评价页
+├── start_mitm.sh                  # Linux/GNOME 下启动 mitmdump + 微信 + 系统代理
+├── stop_mitm.sh                   # 停止 mitmdump/微信并恢复系统代理
+├── mitm_dianping.py               # mitmdump addon，直接写 output/store_reviews/*.json
+├── dianping_interceptor.py        # 通用小程序 API 抓包解析器
+├── review_exporter.py             # 从 mitm_logs 导出分析用评论 JSON
+├── meituan_miniapp_interceptor.py # 美团微信小程序独立抓包入口
+├── meituan_shop_id_resolver.py    # 从美团抓包解析门店 ID
+├── meituan_review_exporter.py     # 导出美团评论
+├── 门店抽样.xlsx                  # 默认门店清单之一
+├── mitm_logs/                     # 抓包日志和样本
+├── output/                        # 抓取输出
+├── tests/                         # 可自动运行的单元测试
+└── docs/                          # 补充说明
+```
 
-如果您需要其他数据库支持，联系我们或者您添加后提PR。
+## 输出格式
 
-***
+大众点评主流程会写入：
 
-**由于大众点评反爬非常非常非常非常非常严格，因此使用了cookie池、ip代理等诸多防ban手段，同时框架赋予了使用者很高的操作自由度，**
-**这就导致需要配置的参数较多(有30多个，不过大部分都可以使用默认项)，因此运行门槛相对不低。**
+```text
+output/store_reviews/<编号>_<门店名>.json
+```
 
-**虽然我已经尽量编写详细的使用文档，即便如此：**
+单条评论结构示例：
 
-**如果您是发现了bug或者有什么更好的提议，欢迎给我发邮件提issues、或PR，但是跟程序运行有关的所有问题请自行解决或查看[这里](https://github.com/Sniper970119/dianping_spider#%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F )。**
+```json
+{
+  "门店": "达美乐比萨(示例店)",
+  "发布时间": "6月1日",
+  "发布人": "用户昵称",
+  "顾客评分": "5",
+  "评分": "5",
+  "文字": "评论正文"
+}
+```
 
-**不接受小白提问，自行研究。文档比较完善，阅读完完整文档后如还有有疑问，提问时请展示你思考验证的过程。**
+说明：
 
-***
+- `顾客评分` / `评分` 是同一份顾客星级字段，保留两个名字是为了兼容后续清洗脚本。
+- 部分旧文件可能没有评分字段；重新抓到同一条评论后，`mitm_dianping.py` 会尽量回填评分。
+- 如果平台接口没有返回评分，字段会是空字符串。
 
-## 开发计划
+## Excel 门店清单
 
-### 已支持
+默认读取：
 
-- 搜索信息（搜索结果，粗）
+```text
+门店抽样.xlsx
+```
 
-- 详情信息（比前一个多 地址、电话、营业时间）
+如果不存在，会回退到：
 
-- 评论信息
+```text
+达美乐_门店.xlsx
+```
 
-- cookie池
+`review_exporter.py` 读取 Excel 时默认从第 3 行开始，B 列是门店名，C 列是地址。门店名会用于输出文件命名和门店匹配。
 
-- ip代理
+## Linux 配置
 
-- 通过匿名接口，强势优化ip代理的作用
+Linux 是目前支持最完整的运行环境，尤其是自动滚动和微信窗口控制。
 
-- 秘钥模式代理隧道支持
+推荐环境：
 
-- 浏览器油猴插件（感谢[@halsn](https://github.com/halsn),插件相关详见[这里](https://github.com/Sniper970119/dianping_spider/tree/master/js)）
+- Ubuntu 22.04/24.04 或其他 GNOME/X11 桌面
+- Python 3.9+
+- PC 微信 Linux 版
+- mitmproxy / mitmdump
+- xdotool
+- 可用代理，例如本项目脚本默认的 Clash `127.0.0.1:7890`
 
-### 计划支持(最近几个月很忙，可能没办法更新，周末如果有空可能会更新)
+安装依赖：
 
-- cookie动态更新（有可能缓解被ban的情况）
+```bash
+cd /home/hetaisheng/dianping_spider
 
-- 优惠券信息
+python3 -m venv .venv
+source .venv/bin/activate
 
-## 环境配置
-语言：python3
+pip install --upgrade pip
+pip install -r requirements.txt
+pip install mitmproxy pytest
 
-系统：Windows/Linux/MacOS
+sudo apt update
+sudo apt install -y xdotool
+```
 
-其他环境配置：
+首次安装 mitmproxy 证书：
 
-需要：lxml、requests、tqdm、faker、beautifulsoup4、fontTools、pymongo
+```bash
+mitmproxy
+```
 
-或者一键配置：
+然后在微信或系统浏览器打开：
 
-    pip install -r requirements.txt
+```text
+http://mitm.it
+```
 
-## 使用方法：
+按 mitmproxy 页面提示安装并信任证书。证书未安装时，微信小程序 HTTPS 流量通常无法正常解密。
 
+### 大众点评抓取流程
 
-### 配置配置文件
-首先配置config.ini，参数意义在文件内已经有了详细说明，这里进行简单说明。
+启动 mitm 和微信：
 
+```bash
+bash start_mitm.sh
+```
 
+脚本会做这些事：
 
-|参数|说明|
-|:-----  |-----|
-|config：      |  |
-|use_cookie_pool      |是否使用cookie池 |
-|Cookie      |Cookie信息（注意大写，之所以不一样是方便将浏览器信息直接复制进去而不做更改）。|
-|uuid      |uuid信息，[详见](./docs/json.md)|
-|tcv      |tcv信息，[详见](./docs/json.md)|
-|user-agent      |浏览器UA信息，和配置文件中说明不同的是，目前暂时不支持随机UA|
-|save_mode      |保存方式，具体格式参照config.ini提示。（目前只能为mongo/mongodb） |
-|mongo_path      |mongo数据库配置，具体格式参照config.ini提示|
-|requests_times      |爬虫间隔时间，具体格式参照config.ini提示。  |
-|detail：      |  |
-|keyword      | 搜索关键字 |
-|location_id      |地区id，具体格式参照config.ini提示。 [详见](./docs/location.md )  |
-|channel_id      |频道id，具体格式参照config.ini提示。  |
-|search_url      |搜索url，详见config.ini内提示。  |
-|need_first      |是否只需要首页首条  |
-|need_pages      |需要搜索的页数（搜索页）  |
-|proxy:      |  |
-|use_proxy |是否使用代理 |
-|repeat_nub |ip重复次数，详见config.ini |
-|http_extract |http提取 |
-|key_extract |秘钥提取 |
-|http_link |http提取接口 |
-|proxy_host |秘钥模式服务器ip |
-|proxy_port |秘钥模式服务器端口 |
-|key_id |秘钥id |
-|key_key |秘钥key |
+- 启动 `mitmdump`，监听 `8080`
+- 上游代理转发到 `127.0.0.1:7890`
+- 把 GNOME 系统代理临时切到 `127.0.0.1:8080`
+- 启动 Linux 微信
 
-然后配置require.ini，该配置文件用于选择爬取策略。
+接着在微信里操作：
 
-|参数|说明|谨慎选择|
-|:-----  |-----|-----|
-|shop_phone：      |  | |
-|need      |是否需要店铺电话 |否|
-|need_detail   |是否需要店铺电话细节（不需要为 12345678** ，需要详情为 12345678910） |是|
-|shop_review：      |  | |
-|need      |是否需要店铺评论 |否|
-|need_detail   |是否需要店铺更多评论 （不需要则只有10条精选） |是|
-|need_pages   |如果需要更多评论，需要多少页（一页30条），取店家评论页和输入值的较小值 |否|
+1. 扫码登录微信
+2. 打开大众点评小程序
+3. 搜索并进入目标门店
+4. 打开评价页
 
-值得一提的是，对于谨慎选择的配置，由于需要登录才能获取，
-因此请求会携带cookie，频繁请求会造成封号（过段时间自动解开）。
+然后运行：
 
-### 运行程序
+```bash
+python3 run.py
+```
 
-正常搜索（完整流程，搜索->详情[可选]->评论[可选]）：
-- 运行main.py
+交互示例：
 
-定制化搜索（不需要搜索，只需要详情或评论）:
-- 只需要详情,shop_id 自行修改 （只给命令行格式，编译器运行则自行配置或修改代码）
+```text
+🎯 最终版 | 335家店
+  风险档: fast(快) / balanced(默认) / safe(稳)
+  list=进度 | q=退出
 
-    `python main.py --normal 0 --detail 1 --review 0  --shop_id k30YbaScPKFS0hfP --need_more False` 
+🎯 编号 [balanced]: 97
+  达美乐比萨(天河购书中心店) (已有14条)
+  评论数 (回车=自动):
+  确认在评价页 Enter...
+   +14 +14 · +12 [到底]
+  ✅ +40 → 总54 | 6轮 18s
+```
 
-- 只需要评论 
+常用输入：
 
-    `python main.py --normal 0 --detail 0 --review 1 --shop_id k30YbaScPKFS0hfP --need_more False`
+- `list`：查看前 60 家门店进度
+- `fast`：更快，风险更高
+- `balanced`：默认档
+- `safe`：更慢，更稳
+- `q`：退出
+- 输入数字，例如 `97`：抓取第 97 家门店
 
-- 需要详情和评论
+结束后恢复代理和关闭微信：
 
-    `python main.py --normal 0  --detail 1 --review 1  --shop_id k30YbaScPKFS0hfP --need_more False`
-    
-如果遇到其他问题，详见[这里](./docs/problems.md)
-和[issues](https://github.com/Sniper970119/dianping_spider/issues?q=is%3Aissue+is%3Aclosed)
+```bash
+bash stop_mitm.sh
+```
 
-## 美团微信小程序 API 抓取
+实时查看 mitmdump 输出：
 
-现有大众点评流程不需要改动。美团微信小程序抓取已经单独拆成独立入口，日志和导出文件不会和大众点评混用。
+```bash
+tail -f /tmp/mitm_capture.log
+tail -f /tmp/mitmdump_out.log
+```
 
-入口文件：
+## Windows 配置
 
-- `meituan_miniapp_interceptor.py`
-- `meituan_shop_id_resolver.py`
-- `meituan_review_exporter.py`
+Windows 可以运行解析、导出和手动抓包流程；完整自动滚动依赖 `xdotool`，因此不直接支持 Windows 原生桌面自动滚动。
 
-使用说明见：
+推荐安装：
 
-- [docs/meituan_miniapp.md](./docs/meituan_miniapp.md)
+- [Python](https://www.python.org/downloads/)
+- [Git for Windows](https://git-scm.com/download/win)
+- [mitmproxy](https://mitmproxy.org/)
+- Windows 版微信
 
- 
-## 字段结果展示
+安装依赖：
 
-由于大众点评反扒措施相对严重以及不同频道字段格式复杂，因此很多数据在爬取阶段不做处理。原样保存，后续自行清洗。
-（新版本由于引入接口数据，有些数据为了对齐接口存储格式不得不进行处理）
+```powershell
+cd C:\path\to\dianping_spider
 
+py -3 -m venv .venv
+.\.venv\Scripts\Activate.ps1
 
-### 商家搜索结果展示：
-![image](./imgs/show_info.jpg)
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+pip install mitmproxy pytest
+```
 
-### 商家评论页展示：
-![image](./imgs/show_review.jpg)
+手动抓包建议：
 
+1. 启动 `mitmdump`，监听 `8080`
+2. Windows 系统代理设置为 `127.0.0.1:8080`
+3. 微信里打开大众点评或美团小程序
+4. 手动进入门店评价页并滚动
+5. 用 `review_exporter.py` 或美团导出脚本处理 `mitm_logs/`
 
-更多数据规约查看[这里](./docs/data.md)
+示例：
 
-## 一些碎碎念
+```powershell
+mitmdump -s dianping_interceptor.py -p 8080
+python review_exporter.py
+```
 
+如果需要和 Linux 主流程完全一致，建议使用 Linux 实机或虚拟机运行微信桌面端和 `xdotool`。
 
-关于cookie以及cookie池的一些碎碎念：[这里](./docs/cookie_pool.md)
+## macOS 配置
 
-关于存储的一些碎碎念：[这里](./docs/save.md)
+macOS 可以运行解析、导出和手动抓包流程；自动滚动脚本目前没有适配 AppleScript 或 Accessibility API。
 
-关于使用加密接口的一些碎碎念：[这里](./docs/json.md)
+推荐安装：
 
-关于ip代理的一些碎碎念：[这里](./docs/proxy.md)
+- [Homebrew](https://brew.sh/)
+- [Python](https://www.python.org/downloads/macos/)
+- [mitmproxy](https://mitmproxy.org/)
+- macOS 版微信
 
-一些可能遇到的小问题：[这里](./docs/problems.md)
+安装依赖：
 
+```bash
+brew install python mitmproxy
 
-  
-## 相关功能笔记
-  - [搜索页字体加密加密](http://www.sniper97.cn/index.php/note/carwler/3694/)
-  - [评论页字体加密加密](http://www.sniper97.cn/index.php/note/carwler/3707/)
+cd /path/to/dianping_spider
+python3 -m venv .venv
+source .venv/bin/activate
 
-如果你想加快进度，点个star吧呜呜呜
+pip install --upgrade pip
+pip install -r requirements.txt
+pip install pytest
+```
+
+手动抓包流程：
+
+1. 启动 `mitmdump -s dianping_interceptor.py -p 8080`
+2. 在系统网络设置里把 HTTP/HTTPS 代理设为 `127.0.0.1:8080`
+3. 安装 mitmproxy 证书并设为信任
+4. 微信里进入小程序评价页并手动滚动
+5. 运行导出脚本
+
+示例：
+
+```bash
+python3 review_exporter.py --log-dir mitm_logs --output output/domino_reviews.json
+```
+
+## Docker 配置
+
+Docker 适合跑解析、导出、测试和无界面的 mitmproxy 服务。不建议把 Docker 当作完整自动抓取环境，因为桌面微信、系统代理、窗口定位和 `xdotool` 都依赖宿主机图形环境。
+
+### 方式一：直接使用官方 Python 镜像
+
+Linux/macOS：
+
+```bash
+cd /home/hetaisheng/dianping_spider
+
+docker run --rm -it \
+  -v "$PWD":/app \
+  -w /app \
+  python:3.10-slim bash
+```
+
+容器内执行：
+
+```bash
+apt-get update
+apt-get install -y gcc libxml2-dev libxslt1-dev zlib1g-dev
+pip install --upgrade pip
+pip install -r requirements.txt
+pip install mitmproxy pytest
+python3 review_exporter.py
+```
+
+Windows PowerShell：
+
+```powershell
+docker run --rm -it -v ${PWD}:/app -w /app python:3.10-slim bash
+```
+
+### 方式二：Docker 运行 mitmdump
+
+Linux 下如果宿主机微信可以访问容器监听端口，可以运行：
+
+```bash
+docker run --rm -it --network host \
+  -v "$PWD":/app \
+  -w /app \
+  python:3.10-slim bash
+```
+
+容器内：
+
+```bash
+apt-get update
+apt-get install -y gcc libxml2-dev libxslt1-dev zlib1g-dev
+pip install -r requirements.txt mitmproxy
+mitmdump -s dianping_interceptor.py -p 8080
+```
+
+然后把宿主机系统代理设置到：
+
+```text
+127.0.0.1:8080
+```
+
+注意：
+
+- Docker Desktop for macOS/Windows 不支持完全等价的 `--network host` 行为。
+- 容器里的 mitmproxy 证书需要和宿主机微信信任链对应。
+- 自动滚动仍然应在宿主机执行，而不是容器内执行。
+
+## 美团微信小程序
+
+美团不复用大众点评自动滚动主循环，当前是独立抓包、解析、导出流程。
+
+启动美团抓包：
+
+```bash
+mitmdump --listen-port 9092 --set ssl_insecure=true \
+  -s /home/hetaisheng/dianping_spider/meituan_miniapp_interceptor.py
+```
+
+微信里打开独立美团小程序，搜索门店、进入门店页、打开评论页并滚动。
+
+解析门店 ID：
+
+```bash
+python3 meituan_shop_id_resolver.py --excel 门店抽样.xlsx
+```
+
+导出评论：
+
+```bash
+python3 meituan_review_exporter.py --excel 门店抽样.xlsx
+```
+
+输出：
+
+```text
+output/meituan_reviews.json
+output/meituan_store_reviews/*.json
+mitm_logs/meituan/
+```
+
+更详细说明见 [docs/meituan_miniapp.md](./docs/meituan_miniapp.md)。
+
+## 离线导出
+
+如果已经有 `mitm_logs/`，可以不打开微信，直接导出：
+
+```bash
+python3 review_exporter.py \
+  --log-dir mitm_logs \
+  --output output/domino_reviews.json \
+  --per-store-dir output/store_reviews
+```
+
+美团离线导出：
+
+```bash
+python3 meituan_review_exporter.py \
+  --log-dir mitm_logs/meituan \
+  --output output/meituan_reviews.json \
+  --per-store-dir output/meituan_store_reviews
+```
+
+## 测试
+
+推荐跑当前可自动运行的核心测试子集：
+
+```bash
+pytest -q \
+  tests/test_auto_shop_uuid_resolver.py \
+  tests/test_dianping_events.py \
+  tests/test_meituan_entrypoints.py \
+  tests/test_meituan_local_log_discover.py \
+  tests/test_mitm_dianping.py \
+  tests/test_review_exporter.py
+```
+
+不要直接跑全量 `pytest`。根目录下有一些历史交互脚本以 `test_*.py` 命名，例如 `test_scroll.py` 会在导入时查找微信窗口；`tests/` 里也保留了少量历史坏编码/空字节文件，后续需要单独清理。
+
+如果只是为了推送远端并跳过本机 pre-push 钩子：
+
+```bash
+ECC_SKIP_PREPUSH=1 git push
+```
+
+## 常见问题
+
+### 报错：没找到微信窗口
+
+确认 Linux 微信已经启动，并且不是最小化状态。`run.py` 需要通过窗口定位和 `xdotool` 把滚动事件发送到评价页。
+
+### 报错：mitmdump 没在跑
+
+先运行：
+
+```bash
+bash start_mitm.sh
+```
+
+或者手动启动：
+
+```bash
+mitmdump -s mitm_dianping.py -p 8080
+```
+
+### 抓不到 HTTPS 内容
+
+通常是 mitmproxy 证书没有安装或未信任。打开 `http://mitm.it`，按系统提示安装证书。
+
+### 输出 JSON 变成 0 条
+
+检查目标文件是否为空文件或损坏：
+
+```bash
+ls -lh output/store_reviews/
+```
+
+新版本写入时使用临时文件替换，降低 0 字节文件风险。若旧文件已损坏，可以先备份后删除，再重新抓取。
+
+### 响应变慢或连续没有新增
+
+可能是到达底部，也可能是限流。建议切换 `safe` 档，或换店前等待 1-2 分钟。
+
+## 安全与隐私
+
+`mitm_logs/` 可能包含请求头、cookie、token、门店样本和用户评论内容。公开提交 PR 前请先脱敏，尤其注意：
+
+- `captured_credentials.json`
+- `wx_credentials.json`
+- 原始抓包响应
+- 任何 cookie、token、手机号或个人信息
+
+本仓库当前允许保存样本日志是为了复现和离线解析；公开协作时请只提交必要的最小样本。
+
+## 贡献
+
+欢迎提交 issue 和 PR。比较适合贡献的方向：
+
+- 美团评论端到端样本和解析适配
+- Windows/macOS 桌面自动滚动适配
+- 更稳的门店匹配和去重逻辑
+- 评论评分、子评分、图片、标签字段解析
+- 更干净的测试集和 CI 配置
+- Dockerfile / Compose 的生产化封装
+
+提交 PR 前建议：
+
+```bash
+pytest -q \
+  tests/test_auto_shop_uuid_resolver.py \
+  tests/test_dianping_events.py \
+  tests/test_meituan_entrypoints.py \
+  tests/test_meituan_local_log_discover.py \
+  tests/test_mitm_dianping.py \
+  tests/test_review_exporter.py
+```
+
+如果改动涉及抓包解析，请附上脱敏后的最小 JSON 样本和预期输出。
+
+## 相关链接
+
+- [Python](https://www.python.org/)
+- [mitmproxy](https://mitmproxy.org/)
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/)
+- [GitHub Personal Access Tokens](https://github.com/settings/tokens)
+- [微信官网](https://weixin.qq.com/)
+- [项目美团说明](./docs/meituan_miniapp.md)
+- [数据字段说明](./docs/data.md)
+- [常见问题旧文档](./docs/problems.md)
+
+## License
+
+本项目遵守 [GPL-3.0](./LICENSE)。

@@ -68,7 +68,7 @@ echo "✅ 微信已启动"
 echo
 echo "下一步:"
 echo "  1. 扫码登录 → 进大众点评 → 进店评价页"
-echo "  2. python3 go.py"
+echo "  2. python3 run.py"
 echo
 echo "退出时记得运行: bash stop_mitm.sh （恢复系统代理为 7890）"
 echo
