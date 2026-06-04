@@ -7,7 +7,7 @@ from datetime import datetime
 from mitmproxy import http
 import tempfile
 
-ROOT = Path('/home/hetaisheng/dianping_spider')
+ROOT = Path(__file__).resolve().parent
 OUT_DIR = ROOT / 'output' / 'store_reviews'
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 

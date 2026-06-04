@@ -1,8 +1,12 @@
 #!/bin/bash
-# 停止 mitmdump + 微信，恢复系统代理为原始值（7890）
+# 停止 mitmdump + 微信，并恢复 start_mitm.sh 备份的系统代理
+
+MITM_PORT="${MITM_PORT:-8080}"
 
 # 1. 停 mitmdump 和微信
-echo '1234' | sudo -S -p '' fuser -k 8080/tcp 2>/dev/null || true
+if command -v fuser >/dev/null 2>&1; then
+  fuser -k "${MITM_PORT}/tcp" 2>/dev/null || sudo fuser -k "${MITM_PORT}/tcp" 2>/dev/null || true
+fi
 killall -9 wechat WeChatAppEx wxocr wxplayer crashpad_handler 2>/dev/null || true
 pkill -9 -f WeChatLinux 2>/dev/null || true
 sleep 1
