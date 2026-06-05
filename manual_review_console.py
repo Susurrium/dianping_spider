@@ -54,7 +54,8 @@ from miniapp_state_machine import keyword_variants_for_store
 ROOT_DIR = Path(__file__).resolve().parent
 DEFAULT_PROXY_PORT = 9092
 DEFAULT_CONSOLE_PORT = 8765
-DEFAULT_DIAGNOSTIC_UPSTREAM_PROXY = "http://127.0.0.1:7890/"
+DEFAULT_CLASH_PORT = 7890
+DEFAULT_DIAGNOSTIC_UPSTREAM_PROXY = f"http://127.0.0.1:{DEFAULT_CLASH_PORT}/"
 DEFAULT_POINTS_PATH = ROOT_DIR / "miniapp_points.json"
 DEFAULT_AUDIT_PATH = ROOT_DIR / "output" / "capture_audit.json"
 CLASH_CONFIG_PATH = Path("/home/hetaisheng/clash/config.yaml")
@@ -92,14 +93,16 @@ class ManualCaptureController:
         self,
         *,
         proxy_port: int = DEFAULT_PROXY_PORT,
-        upstream_proxy: str = DEFAULT_DIAGNOSTIC_UPSTREAM_PROXY,
+        clash_port: int = DEFAULT_CLASH_PORT,
+        upstream_proxy: Optional[str] = None,
         excel_path: Path = DEFAULT_EXCEL_PATH,
         log_dir: Path = DEFAULT_LOG_DIR,
         output_path: Path = DEFAULT_OUTPUT_PATH,
         points_path: Path = DEFAULT_POINTS_PATH,
     ):
         self.proxy_port = proxy_port
-        self.upstream_proxy = upstream_proxy
+        self.clash_port = clash_port
+        self.upstream_proxy = upstream_proxy or f"http://127.0.0.1:{clash_port}/"
         self.excel_path = excel_path
         self.log_dir = log_dir
         self.output_path = output_path
@@ -114,14 +117,17 @@ class ManualCaptureController:
         self.status_cache_ttl = 15.0
 
     def start_proxy(self) -> str:
-        if current_system_proxy_port() != 7890:
-            restore_clash_proxy()
+        if current_system_proxy_port() != self.clash_port:
+            restore_clash_proxy(self.clash_port)
         process = self._ensure_mitm("")
         if process is None and not port_open("127.0.0.1", self.proxy_port):
             self.message = f"mitm 未运行: 127.0.0.1:{self.proxy_port}"
             return self.message
-        upstream_text = "；无上游，避免 7890/9092 回环"
-        self.message = f"mitm 已开启: 127.0.0.1:{self.proxy_port}{upstream_text}；未修改 Clash，系统代理保持 7890"
+        upstream_text = f"；无上游，避免 {self.clash_port}/{self.proxy_port} 回环"
+        self.message = (
+            f"mitm 已开启: 127.0.0.1:{self.proxy_port}{upstream_text}；"
+            f"未修改 Clash，系统代理保持 {self.clash_port}"
+        )
         return self.message
 
     def enable_dianping_split_proxy(self) -> str:
@@ -130,7 +136,10 @@ class ManualCaptureController:
             self.message = "先点开始代理，确认 mitm 监听后再开启点评 API 分流"
             return self.message
         enable_clash_mitm_rule(self.proxy_port, include_search_domains=False)
-        self.message = f"已开启点评 API 分流: 仅 mapi.* -> 127.0.0.1:{self.proxy_port}；系统代理保持 7890"
+        self.message = (
+            f"已开启点评 API 分流: 仅 mapi.* -> 127.0.0.1:{self.proxy_port}；"
+            f"系统代理保持 {self.clash_port}"
+        )
         return self.message
 
     def enable_full_tunnel_proxy(self) -> str:
@@ -144,14 +153,14 @@ class ManualCaptureController:
         else:
             configure_system_proxy("127.0.0.1", self.proxy_port, register_signals=False)
         self.message = (
-            f"已开启全链路诊断代理: 系统代理 -> 127.0.0.1:{self.proxy_port} -> 7890 上游；"
-            "用于验证小程序上下文，停止代理会恢复 7890"
+            f"已开启全链路诊断代理: 系统代理 -> 127.0.0.1:{self.proxy_port} -> "
+            f"{self.clash_port} 上游；用于验证小程序上下文，停止代理会恢复 {self.clash_port}"
         )
         return self.message
 
     def disable_dianping_split_proxy(self) -> str:
         disable_clash_mitm_rule()
-        self.message = "点评 API 分流已关闭；系统代理保持 7890"
+        self.message = f"点评 API 分流已关闭；系统代理保持 {self.clash_port}"
         return self.message
 
     def stop_proxy(self) -> str:
@@ -161,8 +170,8 @@ class ManualCaptureController:
             self.restore_proxy = None
         stop_started_mitm(self.mitm_process)
         self.mitm_process = None
-        restore_clash_proxy()
-        self.message = "mitm 已停止；点评 API 分流规则保留；系统代理保持 7890"
+        restore_clash_proxy(self.clash_port)
+        self.message = f"mitm 已停止；点评 API 分流规则保留；系统代理保持 {self.clash_port}"
         return self.message
 
     def _ensure_mitm(self, upstream_proxy: str) -> Optional[subprocess.Popen]:
@@ -372,8 +381,11 @@ class ManualCaptureController:
             if self.restore_proxy is not None:
                 self.restore_proxy()
                 self.restore_proxy = None
-            restore_clash_proxy()
-            self.message = "检测到系统代理指向 9092 但 mitm 未运行，已自动恢复到 7890"
+            restore_clash_proxy(self.clash_port)
+            self.message = (
+                f"检测到系统代理指向 {self.proxy_port} 但 mitm 未运行，"
+                f"已自动恢复到 {self.clash_port}"
+            )
 
 
 def recent_review_events(path: Path, limit: int = 12) -> list[Dict[str, Any]]:
@@ -754,12 +766,12 @@ def disable_clash_mitm_rule(config_path: Path = CLASH_CONFIG_PATH) -> None:
         reload_clash_config(config_path)
 
 
-def restore_clash_proxy() -> None:
+def restore_clash_proxy(clash_port: int = DEFAULT_CLASH_PORT) -> None:
     commands = [
         ["gsettings", "set", "org.gnome.system.proxy.http", "host", "127.0.0.1"],
-        ["gsettings", "set", "org.gnome.system.proxy.http", "port", "7890"],
+        ["gsettings", "set", "org.gnome.system.proxy.http", "port", str(clash_port)],
         ["gsettings", "set", "org.gnome.system.proxy.https", "host", "127.0.0.1"],
-        ["gsettings", "set", "org.gnome.system.proxy.https", "port", "7890"],
+        ["gsettings", "set", "org.gnome.system.proxy.https", "port", str(clash_port)],
     ]
     for command in commands:
         subprocess.run(command, timeout=5, check=False)
@@ -865,7 +877,7 @@ def render_html(state: ManualCaptureState) -> str:
 <body>
   <h1>大众点评评论半自动采集</h1>
   <div class="card">
-    <strong>用法：</strong>先点“开始代理”。控制台只启动 mitm，不修改 Clash；国内网络继续走你的 <code>7890</code>。
+    <strong>用法：</strong>先点“开始代理”。控制台只启动 mitm，不修改 Clash；国内网络继续走你的 Clash 端口。
     需要抓包时再点“开启点评 API 分流”，它只分流 <code>mapi.*</code> 到 9092，不代理整站页面。
   </div>
   <div class="bar">
@@ -983,11 +995,16 @@ def main() -> int:
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=DEFAULT_CONSOLE_PORT)
     parser.add_argument("--proxy-port", type=int, default=DEFAULT_PROXY_PORT)
-    parser.add_argument("--upstream-proxy", default=DEFAULT_DIAGNOSTIC_UPSTREAM_PROXY)
+    parser.add_argument("--clash-port", type=int, default=DEFAULT_CLASH_PORT)
+    parser.add_argument("--upstream-proxy", default=None)
     parser.add_argument("--open-browser", action="store_true")
     args = parser.parse_args()
 
-    controller = ManualCaptureController(proxy_port=args.proxy_port, upstream_proxy=args.upstream_proxy)
+    controller = ManualCaptureController(
+        proxy_port=args.proxy_port,
+        clash_port=args.clash_port,
+        upstream_proxy=args.upstream_proxy,
+    )
     run_server(args.host, args.port, controller, args.open_browser)
     return 0
 

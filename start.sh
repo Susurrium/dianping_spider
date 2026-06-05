@@ -5,6 +5,7 @@
 
 set -e
 cd "$(dirname "$(readlink -f "$0")")"
+CLASH_PORT="${CLASH_PORT:-7890}"
 
 echo "🔧 启动器：自动批量采集 388+ 家店评论"
 echo "—————————————————————————————"
@@ -30,7 +31,7 @@ import sys; sys.path.insert(0, '.')
 from manual_review_console import enable_clash_mitm_rule
 enable_clash_mitm_rule(proxy_port=9092, include_search_domains=False)
 "
-echo "✅ Clash 点评 API → DP-MITM 已启用；系统代理仍保持 7890"
+echo "✅ Clash 点评 API → DP-MITM 已启用；系统代理仍保持 ${CLASH_PORT}"
 
 # 3. 启动 auto_pipeline（前台，方便看输出）
 echo

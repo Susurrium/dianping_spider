@@ -179,15 +179,27 @@ http://mitm.it
 | 变量 | 默认值 | 说明 |
 | --- | --- | --- |
 | `MITM_PORT` | `8080` | mitmdump 监听端口 |
-| `UPSTREAM_PROXY` | `http://127.0.0.1:7890` | 上游代理，例如 Clash |
+| `CLASH_PORT` | `7890` | Clash HTTP 端口，用于默认上游代理和恢复代理 |
+| `UPSTREAM_PROXY` | `http://127.0.0.1:${CLASH_PORT}` | 上游代理，例如 Clash |
+| `WECHAT_PLATFORM` | `auto` | `auto`、`linux` 或 `windows`；WSL 下自动优先 Windows 微信 |
 | `WECHAT_BIN` | 自动探测常见 AppImage 路径 | 微信可执行文件路径 |
+| `WECHAT_WIN_EXE` | 自动探测常见 Windows 路径 | Windows 微信可执行文件路径，支持 `/mnt/c/...` 或 `C:\...` |
 
 示例：
 
 ```bash
 WECHAT_BIN=/opt/wechat/WeChatLinux_x86_64.AppImage \
-UPSTREAM_PROXY=http://127.0.0.1:7890 \
+CLASH_PORT=7890 \
 bash start_mitm.sh
+```
+
+WSL 下使用 Windows 微信：
+
+```bash
+WECHAT_PLATFORM=windows \
+WECHAT_WIN_EXE='/mnt/c/Program Files/Tencent/WeChat/WeChat.exe' \
+CLASH_PORT=7890 \
+bash restart_wechat_with_proxy.sh
 ```
 
 启动后：
