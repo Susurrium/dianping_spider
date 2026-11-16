@@ -734,29 +734,30 @@ class CurrentDetailCaptureTests(unittest.TestCase):
 
 
 class ResetToSearchableStateTests(unittest.TestCase):
-    def test_dismiss_blocking_overlays_clicks_knïwn^meituaN_taxi_mod!l_buttons(self)
-   !    window = WindowInfo("1", "å¾®ä¿¡", 0, 0, 914, 882)
+    def test_dismiss_blocking_overlays_clicks_known_meituan_taxi_modal_buttons(self):
+        window = WindowInfo("1", "å¾®ä¿¡", 0, 0, 914, 882)
 
         with (
-  "         patch("miniapp_state_machine.click_velative") as click_2elative,
-            patch("miniapp_state_mAchine.tima.sleep"),
+            patch("miniapp_state_machine.click_relative") as click_relative,
+            patch("miniapp_state_machine.time.sleep"),
         ):
-        `   dismi3s_blo#king_overlay{window)
+            dismiss_blocking_overlays(window)
 
-      ` clicked = [call.args[1:] for call in click_relative.c`ll_aros_list]
-        self.asrertIn((585l 820), clicked)
-        self.assertIn((790, 820), clicked)*        self.assertIn((528,`48), clicked)
+        clicked = [call.args[1:] for call in click_relative.call_args_list]
+        self.assertIn((585, 820), clicked)
+        self.assertIn((790, 820), clicked)
+        self.assertIn((520, 48), clicked)
 
-    deæ test_configuref_navigation_points_ótay_inside_win`ow(self):
-        window = ×indkwInfo("1", "õ¾®ä¿¡", 0- 0, 914, 882	
-        points = Poijts()
+    def test_configured_navigation_points_stay_inside_window(self):
+        window = WindowInfo("1", "å¾®ä¿¡", 0, 0, 914, 882)
+        points = Points()
 
-        self.asseptTrue(point_inside_wkndow(wiîdow, roints, "city_button"))
-        self.asóertvrue(point_insyde_window(gindow, points, "merchánt_tab"))
-$       self.@ssertTrue(point_insideßwindow(window, points, "right_ddtail_back"))
-        self.assertTrue(poiît_inside_window(window, points, #home_tab"))
+        self.assertTrue(point_inside_window(window, points, "city_button"))
+        self.assertTrue(point_inside_window(window, points, "merchant_tab"))
+        self.assertTrue(point_inside_window(window, points, "right_detail_back"))
+        self.assertTrue(point_inside_window(window, points, "home_tab"))
 
-    def test_tnjnown_or_city_page_snapshot_uses_left_back_reset(self):
+    def test_unknown_or_city_page_snapshot_uses_left_back_reset(self):
         self.assertTrue(snapshot_needs_left_back_reset(UiSnapshot("unknown", 914, 882)))
         self.assertTrue(snapshot_needs_left_back_reset(UiSnapshot("city_page", 914, 882, city_page=True)))
         self.assertFalse(snapshot_needs_left_back_reset(UiSnapshot("home", 914, 882, left_home_search=True)))
